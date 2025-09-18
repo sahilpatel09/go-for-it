@@ -170,7 +170,7 @@
 
         <!-- Bottom Bar -->
         <div class="border-t border-neutral-800 mt-8 pt-8 flex flex-col md:flex-row justify-between items-center">
-          <p class="text-sm text-neutral-400">&copy; 2024 Go For It Gas. All rights reserved.</p>
+          <p class="text-sm text-neutral-400">&copy; {{ currentYear }} Go For It Gas. All rights reserved.</p>
           <div class="flex space-x-6 mt-4 md:mt-0">
             <NuxtLink to="/privacy" class="text-sm text-neutral-400 hover:text-primary-500 transition-colors">Privacy Policy</NuxtLink>
             <NuxtLink to="/terms" class="text-sm text-neutral-400 hover:text-primary-500 transition-colors">Terms of Service</NuxtLink>
@@ -245,6 +245,9 @@
 <script setup>
 const mobileMenuOpen = ref(false)
 const showHours = ref(false)
+
+// Dynamic year for copyright
+const currentYear = new Date().getFullYear()
 
 // Close mobile menu when route changes
 watch(() => useRoute().path, () => {

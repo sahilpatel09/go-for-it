@@ -4,14 +4,14 @@
     <section class="relative h-64 flex items-center justify-center overflow-hidden">
       <div class="absolute inset-0">
         <NuxtImg 
-          src="/images/blog-hero.jpg" 
-          alt="Latest News & Updates from Go For It Gas"
+          src="/img.webp" 
+          alt="Go For It Gas Station - 3255 Viking Blvd NE, East Bethel, MN"
           class="w-full h-full object-cover"
         />
         <div class="hero-overlay"></div>
       </div>
       <div class="relative z-10 text-center text-white">
-        <h1 class="heading-2 mb-4 text-shadow-lg">Latest News & Updates</h1>
+        <h1 class="heading-2 mb-4 text-shadow-lg text-white">Latest News & Updates</h1>
         <p class="text-lg text-shadow">Stay informed about Go For It Gas and our community</p>
       </div>
     </section>

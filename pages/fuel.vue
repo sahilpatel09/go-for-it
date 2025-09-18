@@ -4,14 +4,14 @@
     <section class="relative h-64 flex items-center justify-center overflow-hidden">
       <div class="absolute inset-0">
         <NuxtImg 
-          src="/images/fuel-pumps-hero.jpg" 
-          alt="Fuel pumps at Go For It Gas"
+          src="/img.webp" 
+          alt="Gas station pumps"
           class="w-full h-full object-cover"
         />
         <div class="hero-overlay"></div>
       </div>
       <div class="relative z-10 text-center text-white">
-        <h1 class="heading-2 mb-4 text-shadow-lg">Today's Fuel Prices</h1>
+        <h1 class="heading-2 mb-4 text-shadow-lg text-white">Today's Fuel Prices</h1>
         <p class="text-lg text-shadow">Competitive prices updated daily</p>
       </div>
     </section>

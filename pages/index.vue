@@ -4,9 +4,9 @@
     <section class="relative py-16 bg-gradient-to-r from-primary-600 to-primary-700">
       <div class="absolute inset-0">
         <NuxtImg 
-          src="/images/gas-station-hero.jpg" 
-          alt="Go For It Gas Station"
-          class="w-full h-full object-cover opacity-20"
+          src="/img.webp" 
+          alt="Go For It Gas Station - 3255 Viking Blvd NE, East Bethel, MN"
+          class="w-full h-full object-cover opacity-40"
           loading="eager"
           preload
         />
