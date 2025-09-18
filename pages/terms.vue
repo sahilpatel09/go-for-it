@@ -135,8 +135,8 @@
             <div class="bg-neutral-50 rounded-lg p-6">
               <div class="space-y-2">
                 <p><strong>Go For It Gas</strong></p>
-                <p>123 Main Street<br>Your City, ST 12345</p>
-                <p>Phone: <a href="tel:+15551234567" class="text-primary-500 hover:text-primary-600">(555) 123-4567</a></p>
+                <p>3255 Viking Blvd NE<br>East Bethel, MN 55092</p>
+                <p>Phone: <a href="tel:+16513952174" class="text-primary-500 hover:text-primary-600">(651) 395-2174</a></p>
                 <p>Email: <a href="mailto:legal@goforitgas.com" class="text-primary-500 hover:text-primary-600">legal@goforitgas.com</a></p>
               </div>
             </div>

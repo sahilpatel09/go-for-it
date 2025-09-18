@@ -101,10 +101,10 @@
 
         <!-- CTA Buttons -->
         <div class="flex flex-col sm:flex-row gap-4 justify-center">
-          <a href="https://maps.google.com/?q=123+Main+Street+Your+City+ST+12345" target="_blank" class="btn-primary">
+          <a href="https://www.google.com/maps?cid=12853947706317488130" target="_blank" class="btn-primary">
             Get Directions
           </a>
-          <a href="tel:+15551234567" class="btn-secondary">
+          <a href="tel:+16513952174" class="btn-secondary">
             Call Now
           </a>
         </div>
@@ -156,7 +156,7 @@ useHead({
   title: 'Fuel Prices - Go For It Gas',
   meta: [
     { name: 'description', content: 'Current fuel prices at Go For It Gas. Competitive prices on regular, plus, premium, and diesel fuel. Updated daily.' },
-    { name: 'keywords', content: 'fuel prices, gas prices, regular gas, premium gas, diesel, Your City' }
+    { name: 'keywords', content: 'fuel prices, gas prices, regular gas, premium gas, diesel, East Bethel' }
   ]
 })
 </script>

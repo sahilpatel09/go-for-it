@@ -1,32 +1,29 @@
 <template>
   <div>
-    <!-- Hero Section -->
-    <section class="relative h-screen flex items-center justify-center overflow-hidden">
-      <!-- Background Image -->
+    <!-- Page Header -->
+    <section class="relative py-16 bg-gradient-to-r from-primary-600 to-primary-700">
       <div class="absolute inset-0">
         <NuxtImg 
           src="/images/gas-station-hero.jpg" 
-          alt="Go For It Gas Station at sunset"
-          class="w-full h-full object-cover"
+          alt="Go For It Gas Station"
+          class="w-full h-full object-cover opacity-20"
           loading="eager"
           preload
         />
-        <div class="hero-overlay"></div>
       </div>
       
-      <!-- Hero Content -->
-      <div class="relative z-10 text-center text-white px-4 sm:px-6 lg:px-8 max-w-4xl mx-auto">
-        <h1 class="heading-1 mb-6 text-shadow-lg">
+      <div class="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+        <h1 class="heading-1 text-white mb-4">
           Fast Fuel & Friendly Service
         </h1>
-        <p class="text-xl md:text-2xl mb-8 text-shadow">
-          Your local stop for gas, snacks, and more in Your City.
+        <p class="text-xl text-white/90 mb-8">
+          Your local stop for gas, snacks, and more in East Bethel, MN.
         </p>
         <div class="flex flex-col sm:flex-row gap-4 justify-center">
-          <a href="https://maps.google.com/?q=123+Main+Street+Your+City+ST+12345" target="_blank" class="btn-primary">
+          <a href="https://www.google.com/maps?cid=12853947706317488130" target="_blank" class="btn-primary">
             Get Directions
           </a>
-          <a href="tel:+15551234567" class="btn-secondary">
+          <a href="tel:+16513952174" class="btn-secondary">
             Call Now
           </a>
         </div>
@@ -228,7 +225,7 @@
               <div class="bg-neutral-200 h-64 rounded-lg flex items-center justify-center mb-4">
                 <p class="text-neutral-500">Interactive Google Map would be embedded here</p>
               </div>
-              <a href="https://maps.google.com/?q=123+Main+Street+Your+City+ST+12345" target="_blank" class="btn-primary w-full">
+              <a href="https://www.google.com/maps?cid=12853947706317488130" target="_blank" class="btn-primary w-full">
                 Get Directions
               </a>
             </div>
@@ -240,16 +237,32 @@
               <h3 class="heading-3 mb-4">Store Hours</h3>
               <div class="space-y-3 mb-6">
                 <div class="flex justify-between items-center">
-                  <span class="font-medium">Monday - Friday</span>
-                  <span class="text-neutral-600">6:00 AM - 11:00 PM</span>
+                  <span class="font-medium">Monday</span>
+                  <span class="text-neutral-600">6:00 AM - 10:00 PM</span>
+                </div>
+                <div class="flex justify-between items-center">
+                  <span class="font-medium">Tuesday</span>
+                  <span class="text-neutral-600">6:00 AM - 10:00 PM</span>
+                </div>
+                <div class="flex justify-between items-center">
+                  <span class="font-medium">Wednesday</span>
+                  <span class="text-neutral-600">6:00 AM - 10:00 PM</span>
+                </div>
+                <div class="flex justify-between items-center">
+                  <span class="font-medium">Thursday</span>
+                  <span class="text-neutral-600">6:00 AM - 10:00 PM</span>
+                </div>
+                <div class="flex justify-between items-center">
+                  <span class="font-medium">Friday</span>
+                  <span class="text-neutral-600">6:00 AM - 10:00 PM</span>
                 </div>
                 <div class="flex justify-between items-center">
                   <span class="font-medium">Saturday</span>
-                  <span class="text-neutral-600">7:00 AM - 11:00 PM</span>
+                  <span class="text-neutral-600">6:00 AM - 10:00 PM</span>
                 </div>
                 <div class="flex justify-between items-center">
                   <span class="font-medium">Sunday</span>
-                  <span class="text-neutral-600">8:00 AM - 10:00 PM</span>
+                  <span class="text-neutral-600">6:00 AM - 10:00 PM</span>
                 </div>
               </div>
               <div class="bg-accent-50 border border-accent-200 rounded-lg p-4 mb-6">
@@ -257,7 +270,7 @@
                   <div class="w-3 h-3 bg-green-500 rounded-full mr-3"></div>
                   <span class="font-semibold text-green-700">Open Now</span>
                 </div>
-                <p class="text-sm text-neutral-600 mt-1">Closes at 11:00 PM today</p>
+                <p class="text-sm text-neutral-600 mt-1">Closes at 10:00 PM today</p>
               </div>
               <p class="text-sm text-neutral-500">*Gas pumps available 24/7</p>
             </div>
@@ -274,7 +287,7 @@ useHead({
   title: 'Go For It Gas - Fast Fuel & Friendly Service',
   meta: [
     { name: 'description', content: 'Your local gas station and convenience store. Fast fuel, snacks, and friendly service. Open daily with competitive prices and 24/7 gas pumps.' },
-    { name: 'keywords', content: 'gas station, fuel prices, convenience store, snacks, coffee, car wash, ATM, Your City' }
+    { name: 'keywords', content: 'gas station, fuel prices, convenience store, snacks, coffee, car wash, ATM, East Bethel' }
   ]
 })
 </script>

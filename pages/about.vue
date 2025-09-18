@@ -293,7 +293,7 @@ useHead({
   title: 'About Us - Go For It Gas',
   meta: [
     { name: 'description', content: 'Learn about Go For It Gas, serving our community since 2004. Our story, mission, and commitment to quality fuel and friendly service.' },
-    { name: 'keywords', content: 'about us, company history, team, mission, values, community service, Your City' }
+    { name: 'keywords', content: 'about us, company history, team, mission, values, community service, East Bethel' }
   ]
 })
 </script>

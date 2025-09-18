@@ -386,7 +386,7 @@ useHead({
   title: 'Careers - Go For It Gas',
   meta: [
     { name: 'description', content: 'Join the Go For It Gas team! We\'re hiring cashiers, service technicians, and more. Great benefits, competitive pay, and a friendly work environment.' },
-    { name: 'keywords', content: 'jobs, careers, employment, hiring, cashier, service technician, assistant manager, Your City' }
+    { name: 'keywords', content: 'jobs, careers, employment, hiring, cashier, service technician, assistant manager, East Bethel' }
   ]
 })
 </script>

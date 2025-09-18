@@ -244,7 +244,7 @@ useHead({
   title: 'Blog - Go For It Gas',
   meta: [
     { name: 'description', content: 'Latest news and updates from Go For It Gas. Stay informed about promotions, new services, community events, and more.' },
-    { name: 'keywords', content: 'news, updates, blog, promotions, community events, new services, Your City' }
+    { name: 'keywords', content: 'news, updates, blog, promotions, community events, new services, East Bethel' }
   ]
 })
 </script>

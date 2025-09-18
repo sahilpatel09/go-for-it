@@ -282,10 +282,10 @@
           Contact us for more information about current promotions or to learn about upcoming deals.
         </p>
         <div class="flex flex-col sm:flex-row gap-4 justify-center">
-          <a href="tel:+15551234567" class="btn-secondary">
+          <a href="tel:+16513952174" class="btn-secondary">
             Call Now
           </a>
-          <a href="https://maps.google.com/?q=123+Main+Street+Your+City+ST+12345" target="_blank" class="btn-outline border-white text-white hover:bg-white hover:text-primary-500">
+          <a href="https://www.google.com/maps?cid=12853947706317488130" target="_blank" class="btn-outline border-white text-white hover:bg-white hover:text-primary-500">
             Visit Store
           </a>
         </div>
@@ -299,7 +299,7 @@ useHead({
   title: 'Promotions - Go For It Gas',
   meta: [
     { name: 'description', content: 'Current promotions and special offers at Go For It Gas. Save on fuel, food, car wash, and more. New deals added regularly!' },
-    { name: 'keywords', content: 'promotions, deals, discounts, fuel savings, coffee specials, car wash deals, Your City' }
+    { name: 'keywords', content: 'promotions, deals, discounts, fuel savings, coffee specials, car wash deals, East Bethel' }
   ]
 })
 </script>

@@ -148,8 +148,8 @@
                     </div>
                     <div>
                       <h4 class="font-semibold text-neutral-900 mb-1">Address</h4>
-                      <p class="text-neutral-600 mb-2">123 Main Street<br>Your City, ST 12345</p>
-                      <a href="https://maps.google.com/?q=123+Main+Street+Your+City+ST+12345" target="_blank" class="text-primary-500 hover:text-primary-600 transition-colors">
+                      <p class="text-neutral-600 mb-2">3255 Viking Blvd NE<br>East Bethel, MN 55092</p>
+                      <a href="https://www.google.com/maps?cid=12853947706317488130" target="_blank" class="text-primary-500 hover:text-primary-600 transition-colors">
                         Get Directions →
                       </a>
                     </div>
@@ -163,8 +163,8 @@
                     </div>
                     <div>
                       <h4 class="font-semibold text-neutral-900 mb-1">Phone</h4>
-                      <p class="text-neutral-600 mb-2">(555) 123-4567</p>
-                      <a href="tel:+15551234567" class="text-primary-500 hover:text-primary-600 transition-colors">
+                      <p class="text-neutral-600 mb-2">(651) 395-2174</p>
+                      <a href="tel:+16513952174" class="text-primary-500 hover:text-primary-600 transition-colors">
                         Call Now →
                       </a>
                     </div>
@@ -195,16 +195,32 @@
                 
                 <div class="space-y-3">
                   <div class="flex justify-between items-center">
-                    <span class="font-medium">Monday - Friday</span>
-                    <span class="text-neutral-600">6:00 AM - 11:00 PM</span>
+                    <span class="font-medium">Monday</span>
+                    <span class="text-neutral-600">6:00 AM - 10:00 PM</span>
+                  </div>
+                  <div class="flex justify-between items-center">
+                    <span class="font-medium">Tuesday</span>
+                    <span class="text-neutral-600">6:00 AM - 10:00 PM</span>
+                  </div>
+                  <div class="flex justify-between items-center">
+                    <span class="font-medium">Wednesday</span>
+                    <span class="text-neutral-600">6:00 AM - 10:00 PM</span>
+                  </div>
+                  <div class="flex justify-between items-center">
+                    <span class="font-medium">Thursday</span>
+                    <span class="text-neutral-600">6:00 AM - 10:00 PM</span>
+                  </div>
+                  <div class="flex justify-between items-center">
+                    <span class="font-medium">Friday</span>
+                    <span class="text-neutral-600">6:00 AM - 10:00 PM</span>
                   </div>
                   <div class="flex justify-between items-center">
                     <span class="font-medium">Saturday</span>
-                    <span class="text-neutral-600">7:00 AM - 11:00 PM</span>
+                    <span class="text-neutral-600">6:00 AM - 10:00 PM</span>
                   </div>
                   <div class="flex justify-between items-center">
                     <span class="font-medium">Sunday</span>
-                    <span class="text-neutral-600">8:00 AM - 10:00 PM</span>
+                    <span class="text-neutral-600">6:00 AM - 10:00 PM</span>
                   </div>
                 </div>
                 
@@ -213,7 +229,7 @@
                     <div class="w-3 h-3 bg-green-500 rounded-full mr-3"></div>
                     <span class="font-semibold text-green-700">Open Now</span>
                   </div>
-                  <p class="text-sm text-neutral-600 mt-1">Closes at 11:00 PM today</p>
+                  <p class="text-sm text-neutral-600 mt-1">Closes at 10:00 PM today</p>
                 </div>
                 
                 <p class="text-sm text-neutral-500 mt-4">*Gas pumps available 24/7</p>
@@ -226,10 +242,10 @@
                 <h3 class="heading-3 mb-6">Quick Actions</h3>
                 
                 <div class="space-y-4">
-                  <a href="tel:+15551234567" class="btn-primary w-full text-center block">
+                  <a href="tel:+16513952174" class="btn-primary w-full text-center block">
                     Call Now
                   </a>
-                  <a href="https://maps.google.com/?q=123+Main+Street+Your+City+ST+12345" target="_blank" class="btn-outline w-full text-center block">
+                  <a href="https://www.google.com/maps?cid=12853947706317488130" target="_blank" class="btn-outline w-full text-center block">
                     Get Directions
                   </a>
                   <NuxtLink to="/fuel" class="btn-ghost w-full text-center block">
@@ -251,7 +267,7 @@
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="text-center mb-12">
           <h2 class="heading-2 mb-4">Find Us</h2>
-          <p class="text-xl text-neutral-600">Located conveniently in the heart of Your City</p>
+          <p class="text-xl text-neutral-600">Located conveniently in East Bethel, MN</p>
         </div>
         
         <div class="card">
@@ -263,7 +279,7 @@
                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"></path>
                 </svg>
                 <p class="text-neutral-500 mb-4">Interactive Google Map would be embedded here</p>
-                <a href="https://maps.google.com/?q=123+Main+Street+Your+City+ST+12345" target="_blank" class="btn-primary">
+                <a href="https://www.google.com/maps?cid=12853947706317488130" target="_blank" class="btn-primary">
                   Open in Google Maps
                 </a>
               </div>
@@ -322,8 +338,8 @@ const submitForm = async () => {
 useHead({
   title: 'Contact Us - Go For It Gas',
   meta: [
-    { name: 'description', content: 'Contact Go For It Gas for questions, feedback, or inquiries. Located at 123 Main Street, Your City. Call (555) 123-4567 or visit us today.' },
-    { name: 'keywords', content: 'contact, phone, address, directions, store hours, feedback, Your City' }
+    { name: 'description', content: 'Contact Go For It Gas for questions, feedback, or inquiries. Located at 3255 Viking Blvd NE, East Bethel, MN 55092. Call (651) 395-2174 or visit us today.' },
+    { name: 'keywords', content: 'contact, phone, address, directions, store hours, feedback, East Bethel' }
   ]
 })
 </script>
