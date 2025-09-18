@@ -1,0 +1,107 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: 'Inter', system-ui, sans-serif;
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    @apply text-neutral-800 bg-white;
+  }
+}
+
+@layer components {
+  /* Button Components */
+  .btn-primary {
+    @apply bg-primary-500 hover:bg-primary-600 text-white font-semibold py-3 px-6 rounded-xl transition-all duration-200 shadow-soft hover:shadow-medium hover:-translate-y-0.5;
+  }
+  
+  .btn-secondary {
+    @apply bg-accent-500 hover:bg-accent-600 text-neutral-900 font-semibold py-3 px-6 rounded-xl transition-all duration-200 shadow-soft hover:shadow-medium hover:-translate-y-0.5;
+  }
+  
+  .btn-outline {
+    @apply border-2 border-primary-500 text-primary-500 hover:bg-primary-500 hover:text-white font-semibold py-3 px-6 rounded-xl transition-all duration-200;
+  }
+  
+  .btn-ghost {
+    @apply text-primary-500 hover:bg-primary-50 font-semibold py-2 px-4 rounded-lg transition-all duration-200;
+  }
+
+  /* Card Components */
+  .card {
+    @apply bg-white rounded-xl shadow-soft hover:shadow-medium transition-all duration-300 hover:-translate-y-1;
+  }
+  
+  .card-body {
+    @apply p-6;
+  }
+
+  /* Typography */
+  .heading-1 {
+    @apply text-4xl md:text-5xl lg:text-6xl font-bold font-display text-neutral-900 leading-tight;
+  }
+  
+  .heading-2 {
+    @apply text-3xl md:text-4xl font-bold font-display text-neutral-900 leading-tight;
+  }
+  
+  .heading-3 {
+    @apply text-2xl md:text-3xl font-semibold font-display text-neutral-900 leading-tight;
+  }
+  
+  .heading-4 {
+    @apply text-xl md:text-2xl font-semibold text-neutral-900 leading-tight;
+  }
+
+  /* Navigation */
+  .nav-link {
+    @apply text-neutral-700 hover:text-primary-500 font-medium transition-colors duration-200;
+  }
+  
+  .nav-link-active {
+    @apply text-primary-500 font-semibold;
+  }
+
+  /* Hero Section */
+  .hero-overlay {
+    @apply absolute inset-0 bg-gradient-to-r from-black/60 to-black/40;
+  }
+
+  /* Floating CTA Bar (Mobile) */
+  .floating-cta {
+    @apply fixed bottom-0 left-0 right-0 bg-white border-t border-neutral-200 shadow-strong z-50 md:hidden;
+  }
+
+  /* Fuel Price Ticker */
+  .price-ticker {
+    @apply bg-gradient-to-r from-primary-500 to-primary-600 text-white py-2 px-4 rounded-lg font-semibold;
+  }
+
+  /* Promo Badge */
+  .promo-badge {
+    @apply absolute top-2 right-2 bg-accent-500 text-neutral-900 text-xs font-bold px-2 py-1 rounded-full;
+  }
+
+  /* Loading Animation */
+  .loading-dots {
+    @apply inline-flex space-x-1;
+  }
+  
+  .loading-dots div {
+    @apply w-2 h-2 bg-primary-500 rounded-full animate-bounce;
+  }
+}
+
+@layer utilities {
+  .text-shadow {
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .text-shadow-lg {
+    text-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+}

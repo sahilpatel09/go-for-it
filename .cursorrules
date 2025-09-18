@@ -1,0 +1,40 @@
+Performance:
+
+Use Nuxt Image module: deliver AVIF/WEBP, set sizes for responsive images.
+
+Preload key hero image and fonts; use font-display: swap.
+
+Defer non-critical JS; avoid heavy client libraries.
+
+Cache serverless responses on Vercel (Cache-Control s-maxage & stale-while-revalidate).
+
+Lighthouse targets: LCP < 2.5s, FID (or TTFB) minimal, CLS < 0.1.
+
+Accessibility:
+
+All images have alt.
+
+Color contrast >= 4.5:1 for body text, WCAG AA.
+
+Keyboard navigable header and forms.
+
+Use semantic HTML for hours, address (<address>), and lists.
+
+Security:
+
+CSP headers (Vercel header config or middleware).
+
+Rate-limit contact form or use captcha.
+
+
+All pages must be responsive (desktop, tablet, mobile).
+
+Use Tailwind spacing & utility classes for consistency.
+
+Optimize images with Nuxt Image.
+
+Add SEO meta tags + structured data (LocalBusiness) on Home + Contact.
+
+Accessibility: alt text for all images, high color contrast, keyboard nav.
+
+Performance: lazy-load non-critical images, prefetch routes.
