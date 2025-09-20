@@ -1,44 +1,44 @@
 <template>
   <div>
     <!-- Hero Section -->
-    <section class="relative h-64 flex items-center justify-center overflow-hidden">
+    <section class="relative h-64 flex items-center justify-center overflow-hidden" style="background-color: #121212;">
       <div class="absolute inset-0">
         <NuxtImg 
-          src="/img.webp" 
-          alt="Gas station pumps"
-          class="w-full h-full object-cover"
+          src="/test_image.jpg" 
+          alt="Go For It Liquor - Fuel Services"
+          class="w-full h-full object-cover opacity-20"
         />
-        <div class="hero-overlay"></div>
+        <div class="absolute inset-0" style="background: linear-gradient(135deg, rgba(18, 18, 18, 0.9) 0%, rgba(18, 18, 18, 0.8) 50%, rgba(123, 30, 30, 0.3) 100%);"></div>
       </div>
-      <div class="relative z-10 text-center text-white">
-        <h1 class="heading-2 mb-4 text-shadow-lg text-white">Today's Fuel Prices</h1>
-        <p class="text-lg text-shadow">Competitive prices updated daily</p>
+      <div class="relative z-10 text-center">
+        <h1 class="text-4xl md:text-5xl font-bold mb-4" style="color: #EAEAEA; font-family: 'Playfair Display', serif;">Today's Fuel Prices</h1>
+        <p class="text-lg" style="color: #EAEAEA; font-family: 'Inter', sans-serif;">Competitive prices updated daily</p>
       </div>
     </section>
 
     <!-- Fuel Prices Section -->
-    <section class="py-16">
+    <section class="py-16" style="background-color: #121212;">
       <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="text-center mb-12">
-          <h2 class="heading-2 mb-4">Current Fuel Prices</h2>
-          <p class="text-neutral-600 mb-6">Prices updated daily. Subject to change at station.</p>
-          <div class="text-sm text-neutral-500">
+          <h2 class="text-4xl font-bold mb-4" style="color: #EAEAEA; font-family: 'Playfair Display', serif;">Current Fuel Prices</h2>
+          <p class="mb-6" style="color: #EAEAEA; font-family: 'Inter', sans-serif;">Prices updated daily. Subject to change at station.</p>
+          <div class="text-sm" style="color: #EAEAEA; font-family: 'Inter', sans-serif;">
             Last Updated: {{ new Date().toLocaleString() }}
           </div>
         </div>
 
         <!-- Price Cards -->
         <div class="grid md:grid-cols-2 gap-6 mb-12">
-          <div class="card">
-            <div class="card-body text-center">
-              <div class="w-16 h-16 bg-primary-100 rounded-full flex items-center justify-center mx-auto mb-4">
-                <svg class="w-8 h-8 text-primary-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <div class="rounded-2xl p-8 shadow-2xl text-center" style="background-color: #1E1E1E;">
+            <div>
+              <div class="w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4" style="background-color: rgba(201, 162, 39, 0.1);">
+                <svg class="w-8 h-8" style="color: #C9A227;" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"></path>
                 </svg>
               </div>
-              <h3 class="heading-3 mb-2">Regular</h3>
-              <div class="text-4xl font-bold text-primary-500 mb-2">$3.45</div>
-              <p class="text-neutral-600">per gallon</p>
+              <h3 class="text-2xl font-bold mb-2" style="color: #EAEAEA; font-family: 'Playfair Display', serif;">Regular</h3>
+              <div class="text-4xl font-bold mb-2" style="color: #C9A227;">$3.45</div>
+              <p style="color: #EAEAEA; font-family: 'Inter', sans-serif;">per gallon</p>
             </div>
           </div>
 

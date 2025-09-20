@@ -1,80 +1,118 @@
 <template>
   <div>
     <!-- Hero Section -->
-    <section class="relative h-64 flex items-center justify-center overflow-hidden">
+    <section class="relative h-80 flex items-center justify-center overflow-hidden bg-gradient-to-br from-slate-900 via-slate-800 to-amber-900">
       <div class="absolute inset-0">
         <NuxtImg 
-          src="/img.webp" 
-          alt="Go For It Gas Station - 3255 Viking Blvd NE, East Bethel, MN"
-          class="w-full h-full object-cover"
+          src="/jack_daniel.png" 
+          alt="Premium Liquor Selection at Go For It Liquor"
+          class="w-full h-full object-cover opacity-20"
         />
-        <div class="hero-overlay"></div>
+        <div class="absolute inset-0 bg-gradient-to-br from-slate-900/80 via-slate-800/70 to-amber-900/80"></div>
       </div>
       <div class="relative z-10 text-center text-white">
-        <h1 class="heading-2 mb-4 text-shadow-lg text-white">Premium Liquor Selection</h1>
-        <p class="text-lg text-shadow">Quality spirits, beer, and wine for every occasion</p>
+        <h1 class="text-4xl md:text-6xl font-bold mb-6 text-shadow-lg">Premium Liquor Selection</h1>
+        <p class="text-xl md:text-2xl text-amber-100 text-shadow">Quality spirits, beer, and wine for every occasion</p>
       </div>
     </section>
 
     <!-- Liquor Showcase -->
-    <section class="py-16">
+    <section class="py-20 bg-slate-800">
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div class="text-center mb-12">
-          <h2 class="heading-2 mb-4">Our Liquor Collection</h2>
-          <p class="text-xl text-neutral-600">From premium spirits to craft beers and fine wines</p>
+        <div class="text-center mb-16">
+          <h2 class="text-4xl md:text-5xl font-bold text-white mb-6">Our Liquor Collection</h2>
+          <p class="text-xl text-slate-300">From premium spirits to craft beers and fine wines</p>
+        </div>
+
+        <!-- Premium Spirits Showcase -->
+        <div class="mb-16">
+          <div class="text-center mb-8">
+            <h3 class="text-3xl font-bold text-white mb-4">Premium Spirits Collection</h3>
+            <p class="text-lg text-slate-300 max-w-3xl mx-auto">
+              Discover our carefully curated selection of premium spirits, featuring iconic brands and exceptional quality.
+            </p>
+          </div>
+          
+          <!-- Featured Jack Daniel's Collection -->
+          <div class="bg-gradient-to-r from-amber-800 to-amber-700 rounded-2xl p-8 mb-12 shadow-2xl">
+            <div class="text-center mb-8">
+              <h4 class="text-2xl font-bold text-white mb-2">Jack Daniel's Collection</h4>
+              <p class="text-amber-100">Tennessee's finest whiskey, crafted with tradition and excellence</p>
+            </div>
+            
+            <div class="grid md:grid-cols-2 gap-8 max-w-4xl mx-auto">
+              <div class="bg-slate-800 rounded-lg p-6 shadow-lg hover:bg-slate-700 transition-colors duration-300">
+                <div class="flex items-center space-x-6">
+                  <NuxtImg 
+                    src="/jack_daniel.png" 
+                    alt="Jack Daniel's Old No. 7"
+                    class="w-20 h-28 object-contain"
+                  />
+                  <div class="flex-1">
+                    <h5 class="font-bold text-lg mb-2 text-white">Jack Daniel's Old No. 7</h5>
+                    <p class="text-sm text-slate-300 mb-3">The original Tennessee whiskey with a smooth, mellow taste</p>
+                    <div class="flex items-center justify-between">
+                      <span class="text-2xl font-bold text-amber-400">$24.99</span>
+                      <span class="text-sm text-slate-400">750ml</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              
+              <div class="bg-slate-800 rounded-lg p-6 shadow-lg hover:bg-slate-700 transition-colors duration-300">
+                <div class="flex items-center space-x-6">
+                  <NuxtImg 
+                    src="/jack.jpg" 
+                    alt="Jack Daniel's Gentleman Jack"
+                    class="w-20 h-28 object-contain"
+                  />
+                  <div class="flex-1">
+                    <h5 class="font-bold text-lg mb-2 text-white">Jack Daniel's Gentleman Jack</h5>
+                    <p class="text-sm text-slate-300 mb-3">Double-mellowed for exceptional smoothness and character</p>
+                    <div class="flex items-center justify-between">
+                      <span class="text-2xl font-bold text-amber-400">$32.99</span>
+                      <span class="text-sm text-slate-400">750ml</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
 
         <!-- Featured Products -->
         <div class="mb-16">
-          <h3 class="heading-3 mb-8 text-center">Featured Products</h3>
+          <h3 class="text-3xl font-bold text-white mb-8 text-center">More Premium Spirits</h3>
           <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
-            <!-- Jack Daniel's -->
-            <div class="card">
-              <div class="card-body text-center">
-                <NuxtImg 
-                  src="https://images.unsplash.com/photo-1569529465841-dfecdab7503b?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80" 
-                  alt="Jack Daniel's Tennessee Whiskey"
-                  class="w-24 h-32 object-cover rounded-lg mx-auto mb-4"
-                />
-                <h4 class="font-semibold text-sm mb-1">Jack Daniel's</h4>
-                <p class="text-xs text-neutral-600 mb-2">Tennessee Whiskey</p>
-                <p class="text-sm font-semibold text-primary-600">$24.99</p>
-              </div>
-            </div>
-
             <!-- Crown Royal -->
-            <div class="card">
-              <div class="card-body text-center">
-                <NuxtImg 
-                  src="https://images.unsplash.com/photo-1551538827-9c037cb4f32a?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80" 
-                  alt="Crown Royal Canadian Whisky"
-                  class="w-24 h-32 object-cover rounded-lg mx-auto mb-4"
-                />
-                <h4 class="font-semibold text-sm mb-1">Crown Royal</h4>
-                <p class="text-xs text-neutral-600 mb-2">Canadian Whisky</p>
-                <p class="text-sm font-semibold text-primary-600">$26.99</p>
-              </div>
+            <div class="bg-slate-700 rounded-lg p-4 text-center hover:bg-slate-600 transition-colors duration-300">
+              <NuxtImg 
+                src="https://images.unsplash.com/photo-1608270586620-248524c67de9?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80" 
+                alt="Crown Royal Canadian Whisky"
+                class="w-24 h-32 object-cover rounded-lg mx-auto mb-4"
+              />
+              <h4 class="font-semibold text-sm mb-1 text-white">Crown Royal</h4>
+              <p class="text-xs text-slate-300 mb-2">Canadian Whisky</p>
+              <p class="text-sm font-semibold text-amber-400">$26.99</p>
             </div>
 
             <!-- Tito's Vodka -->
-            <div class="card">
-              <div class="card-body text-center">
-                <NuxtImg 
-                  src="https://images.unsplash.com/photo-1544145945-f90425340c7e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80" 
-                  alt="Tito's Handmade Vodka"
-                  class="w-24 h-32 object-cover rounded-lg mx-auto mb-4"
-                />
-                <h4 class="font-semibold text-sm mb-1">Tito's Handmade</h4>
-                <p class="text-xs text-neutral-600 mb-2">Vodka</p>
-                <p class="text-sm font-semibold text-primary-600">$22.99</p>
-              </div>
+            <div class="bg-slate-700 rounded-lg p-4 text-center hover:bg-slate-600 transition-colors duration-300">
+              <NuxtImg 
+                src="https://images.unsplash.com/photo-1608270586620-248524c67de9?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80" 
+                alt="Tito's Handmade Vodka"
+                class="w-24 h-32 object-cover rounded-lg mx-auto mb-4"
+              />
+              <h4 class="font-semibold text-sm mb-1 text-white">Tito's Handmade</h4>
+              <p class="text-xs text-slate-300 mb-2">Vodka</p>
+              <p class="text-sm font-semibold text-amber-400">$22.99</p>
             </div>
 
             <!-- Captain Morgan -->
             <div class="card">
               <div class="card-body text-center">
                 <NuxtImg 
-                  src="https://images.unsplash.com/photo-1570197788417-0e82375c9371?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80" 
+                  src="https://images.unsplash.com/photo-1608270586620-248524c67de9?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80" 
                   alt="Captain Morgan Spiced Rum"
                   class="w-24 h-32 object-cover rounded-lg mx-auto mb-4"
                 />
@@ -88,7 +126,7 @@
             <div class="card">
               <div class="card-body text-center">
                 <NuxtImg 
-                  src="https://images.unsplash.com/photo-1551538827-9c037cb4f32a?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80" 
+                  src="https://images.unsplash.com/photo-1608270586620-248524c67de9?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80" 
                   alt="Patrón Silver Tequila"
                   class="w-24 h-32 object-cover rounded-lg mx-auto mb-4"
                 />
@@ -102,7 +140,7 @@
             <div class="card">
               <div class="card-body text-center">
                 <NuxtImg 
-                  src="https://images.unsplash.com/photo-1570197788417-0e82375c9371?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80" 
+                  src="https://images.unsplash.com/photo-1608270586620-248524c67de9?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80" 
                   alt="Bacardi Superior White Rum"
                   class="w-24 h-32 object-cover rounded-lg mx-auto mb-4"
                 />
@@ -116,7 +154,7 @@
             <div class="card">
               <div class="card-body text-center">
                 <NuxtImg 
-                  src="https://images.unsplash.com/photo-1569529465841-dfecdab7503b?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80" 
+                  src="https://images.unsplash.com/photo-1608270586620-248524c67de9?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80" 
                   alt="Fireball Cinnamon Whisky"
                   class="w-24 h-32 object-cover rounded-lg mx-auto mb-4"
                 />
@@ -130,7 +168,7 @@
             <div class="card">
               <div class="card-body text-center">
                 <NuxtImg 
-                  src="https://images.unsplash.com/photo-1544145945-f90425340c7e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80" 
+                  src="https://images.unsplash.com/photo-1608270586620-248524c67de9?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80" 
                   alt="Smirnoff Vodka"
                   class="w-24 h-32 object-cover rounded-lg mx-auto mb-4"
                 />
@@ -144,7 +182,7 @@
 
         <!-- Beer Selection -->
         <div class="mb-16">
-          <h3 class="heading-3 mb-8 text-center">Beer Selection</h3>
+          <h3 class="text-3xl font-bold text-white mb-8 text-center">Beer Selection</h3>
           <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
             <!-- Budweiser -->
             <div class="card">
@@ -262,7 +300,7 @@
 
         <!-- Wine Selection -->
         <div class="mb-16">
-          <h3 class="heading-3 mb-8 text-center">Wine Selection</h3>
+          <h3 class="text-3xl font-bold text-white mb-8 text-center">Wine Selection</h3>
           <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
             <!-- Barefoot -->
             <div class="card">
@@ -379,65 +417,65 @@
         </div>
 
         <!-- Special Features -->
-        <div class="bg-gradient-to-r from-primary-50 to-accent-50 rounded-2xl p-8 mb-16">
+        <div class="bg-gradient-to-r from-slate-700 to-slate-600 rounded-2xl p-8 mb-16">
           <div class="text-center mb-8">
-            <h3 class="heading-3 mb-4">Why Choose Go For It Gas Liquor?</h3>
-            <p class="text-lg text-neutral-600">We're more than just a gas station - we're your premium liquor destination</p>
+            <h3 class="text-3xl font-bold text-white mb-4">Why Choose Go For It Liquor?</h3>
+            <p class="text-lg text-slate-300">We're more than just a gas station - we're your premium liquor destination</p>
           </div>
           
           <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
             <div class="text-center">
-              <div class="w-16 h-16 bg-primary-100 rounded-full mx-auto mb-4 flex items-center justify-center">
-                <svg class="w-8 h-8 text-primary-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <div class="w-16 h-16 bg-gradient-to-br from-amber-600 to-amber-700 rounded-full mx-auto mb-4 flex items-center justify-center">
+                <svg class="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
                 </svg>
               </div>
-              <h4 class="font-semibold mb-2">Curated Selection</h4>
-              <p class="text-sm text-neutral-600">Hand-picked premium brands</p>
+              <h4 class="font-semibold mb-2 text-white">Curated Selection</h4>
+              <p class="text-sm text-slate-300">Hand-picked premium brands</p>
             </div>
 
             <div class="text-center">
-              <div class="w-16 h-16 bg-primary-100 rounded-full mx-auto mb-4 flex items-center justify-center">
-                <svg class="w-8 h-8 text-primary-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <div class="w-16 h-16 bg-gradient-to-br from-amber-600 to-amber-700 rounded-full mx-auto mb-4 flex items-center justify-center">
+                <svg class="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path>
                 </svg>
               </div>
-              <h4 class="font-semibold mb-2">Convenient Hours</h4>
-              <p class="text-sm text-neutral-600">Open daily 6 AM - 10 PM</p>
+              <h4 class="font-semibold mb-2 text-white">Convenient Hours</h4>
+              <p class="text-sm text-slate-300">Open daily 6 AM - 10 PM</p>
             </div>
 
             <div class="text-center">
-              <div class="w-16 h-16 bg-primary-100 rounded-full mx-auto mb-4 flex items-center justify-center">
-                <svg class="w-8 h-8 text-primary-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <div class="w-16 h-16 bg-gradient-to-br from-amber-600 to-amber-700 rounded-full mx-auto mb-4 flex items-center justify-center">
+                <svg class="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z"></path>
                 </svg>
               </div>
-              <h4 class="font-semibold mb-2">Competitive Prices</h4>
-              <p class="text-sm text-neutral-600">Great value on premium spirits</p>
+              <h4 class="font-semibold mb-2 text-white">Competitive Prices</h4>
+              <p class="text-sm text-slate-300">Great value on premium spirits</p>
             </div>
 
             <div class="text-center">
-              <div class="w-16 h-16 bg-primary-100 rounded-full mx-auto mb-4 flex items-center justify-center">
-                <svg class="w-8 h-8 text-primary-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <div class="w-16 h-16 bg-gradient-to-br from-amber-600 to-amber-700 rounded-full mx-auto mb-4 flex items-center justify-center">
+                <svg class="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"></path>
                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"></path>
                 </svg>
               </div>
-              <h4 class="font-semibold mb-2">Local Convenience</h4>
-              <p class="text-sm text-neutral-600">Right here in East Bethel</p>
+              <h4 class="font-semibold mb-2 text-white">Local Convenience</h4>
+              <p class="text-sm text-slate-300">Right here in East Bethel</p>
             </div>
           </div>
         </div>
 
         <!-- Call to Action -->
         <div class="text-center">
-          <h3 class="heading-3 mb-4">Ready to Explore Our Selection?</h3>
-          <p class="text-xl text-neutral-600 mb-8">Visit us today and discover your new favorite spirit</p>
+          <h3 class="text-3xl font-bold text-white mb-4">Ready to Explore Our Selection?</h3>
+          <p class="text-xl text-slate-300 mb-8">Visit us today and discover your new favorite spirit</p>
           <div class="flex flex-col sm:flex-row gap-4 justify-center">
-            <a href="https://www.google.com/maps?cid=12853947706317488130" target="_blank" class="btn-primary">
+            <a href="https://www.google.com/maps?cid=12853947706317488130" target="_blank" class="bg-amber-600 hover:bg-amber-700 text-white px-8 py-4 text-lg font-semibold rounded-lg shadow-lg hover:shadow-xl transition-all duration-300">
               Get Directions
             </a>
-            <a href="tel:+16513952174" class="btn-secondary">
+            <a href="tel:+16513952174" class="bg-transparent border-2 border-amber-400 text-amber-400 hover:bg-amber-400 hover:text-slate-900 px-8 py-4 text-lg font-semibold rounded-lg transition-all duration-300">
               Call Now
             </a>
           </div>
@@ -450,10 +488,10 @@
 <script setup>
 // SEO Meta
 useHead({
-  title: 'Premium Liquor Selection - Go For It Gas',
+  title: 'Premium Liquor Selection - Go For It Liquor',
   meta: [
-    { name: 'description', content: 'Discover our premium liquor selection at Go For It Gas. Quality spirits, craft beer, and fine wines. Conveniently located in East Bethel, MN.' },
-    { name: 'keywords', content: 'liquor, spirits, whiskey, vodka, rum, tequila, craft beer, wine, premium alcohol, East Bethel' }
+    { name: 'description', content: 'Discover our premium liquor selection at Go For It Liquor. Quality spirits, craft beer, and fine wines. Conveniently located in East Bethel, MN.' },
+    { name: 'keywords', content: 'liquor, spirits, whiskey, vodka, rum, tequila, craft beer, wine, premium alcohol, East Bethel, Jack Daniels' }
   ]
 })
 </script>
