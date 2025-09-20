@@ -61,14 +61,14 @@
     </section>
 
     <!-- Promotions Strip -->
-    <section class="py-12 bg-neutral-50">
+    <!-- <section class="py-12 bg-neutral-50">
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <h2 class="heading-2 text-center mb-8">Current Promotions</h2>
         <div class="grid md:grid-cols-3 gap-6">
           <div class="card relative overflow-hidden">
             <div class="promo-badge">Save $0.10</div>
             <NuxtImg 
-              src="/images/coffee-promo.jpg" 
+              src="/drinks.webp" 
               alt="Fresh Coffee Promotion"
               class="w-full h-48 object-cover"
             />
@@ -108,7 +108,7 @@
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
 
     <!-- Convenience Store Highlights -->
     <section class="py-16">
@@ -169,8 +169,18 @@
     <!-- Services Section -->
     <section class="py-16 bg-neutral-50">
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <h2 class="heading-2 text-center mb-12">Additional Services</h2>
+        <h2 class="heading-2 text-center mb-12">Our Services</h2>
         <div class="grid md:grid-cols-4 gap-6">
+          <div class="text-center">
+            <div class="w-16 h-16 bg-primary-100 rounded-full flex items-center justify-center mx-auto mb-4">
+              <svg class="w-8 h-8 text-primary-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 9V7a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2m2 4h10a2 2 0 002-2v-6a2 2 0 00-2-2H9a2 2 0 00-2 2v6a2 2 0 002 2zm7-5a2 2 0 11-4 0 2 2 0 014 0z"></path>
+              </svg>
+            </div>
+            <h3 class="heading-4 mb-2">Fuel</h3>
+            <p class="text-neutral-600">Quality gasoline and diesel fuel available 24/7.</p>
+          </div>
+          
           <div class="text-center">
             <div class="w-16 h-16 bg-primary-100 rounded-full flex items-center justify-center mx-auto mb-4">
               <svg class="w-8 h-8 text-primary-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -184,31 +194,21 @@
           <div class="text-center">
             <div class="w-16 h-16 bg-primary-100 rounded-full flex items-center justify-center mx-auto mb-4">
               <svg class="w-8 h-8 text-primary-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"></path>
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.746 0 3.332.477 4.5 1.253v13C19.832 18.477 18.246 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"></path>
               </svg>
             </div>
-            <h3 class="heading-4 mb-2">Car Wash</h3>
-            <p class="text-neutral-600">Professional car wash services available.</p>
+            <h3 class="heading-4 mb-2">Fresh Food</h3>
+            <p class="text-neutral-600">Hot food, snacks, and beverages available.</p>
           </div>
           
           <div class="text-center">
             <div class="w-16 h-16 bg-primary-100 rounded-full flex items-center justify-center mx-auto mb-4">
               <svg class="w-8 h-8 text-primary-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 15a4 4 0 004 4h9a5 5 0 10-.1-9.999 5.002 5.002 0 10-9.78 2.096A4.001 4.001 0 003 15z"></path>
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19.428 15.428a2 2 0 00-1.022-.547l-2.387-.477a6 6 0 00-3.86.517l-.318.158a6 6 0 01-3.86.517L6.05 15.21a2 2 0 00-1.806.547M8 4h8l-1 1v5.172a2 2 0 00.586 1.414l5 5c1.26 1.26.367 3.414-1.415 3.414H4.828c-1.782 0-2.674-2.154-1.414-3.414l5-5A2 2 0 009 10.172V5L8 4z"></path>
               </svg>
             </div>
-            <h3 class="heading-4 mb-2">Air & Water</h3>
-            <p class="text-neutral-600">Free air and water for your vehicle.</p>
-          </div>
-          
-          <div class="text-center">
-            <div class="w-16 h-16 bg-primary-100 rounded-full flex items-center justify-center mx-auto mb-4">
-              <svg class="w-8 h-8 text-primary-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"></path>
-              </svg>
-            </div>
-            <h3 class="heading-4 mb-2">EV Charging</h3>
-            <p class="text-neutral-600">Electric vehicle charging stations available.</p>
+            <h3 class="heading-4 mb-2">Liquor & Spirits</h3>
+            <p class="text-neutral-600">Wide selection of beer, wine, and spirits.</p>
           </div>
         </div>
       </div>
@@ -222,8 +222,17 @@
           <div class="card">
             <div class="card-body">
               <h3 class="heading-3 mb-4">Find Us</h3>
-              <div class="bg-neutral-200 h-64 rounded-lg flex items-center justify-center mb-4">
-                <p class="text-neutral-500">Interactive Google Map would be embedded here</p>
+              <div class="mb-4">
+                <iframe 
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2805.4882811108355!2d-93.18742019999999!3d45.318761599999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x52b31e8fd36cf5ef%3A0xb2626555f4804002!2sGo%20For%20It%20Gas!5e0!3m2!1sen!2sca!4v1758335989282!5m2!1sen!2sca" 
+                  width="100%" 
+                  height="256" 
+                  style="border:0;" 
+                  allowfullscreen="" 
+                  loading="lazy" 
+                  referrerpolicy="no-referrer-when-downgrade"
+                  class="rounded-lg"
+                ></iframe>
               </div>
               <a href="https://www.google.com/maps?cid=12853947706317488130" target="_blank" class="btn-primary w-full">
                 Get Directions
@@ -264,13 +273,6 @@
                   <span class="font-medium">Sunday</span>
                   <span class="text-neutral-600">6:00 AM - 10:00 PM</span>
                 </div>
-              </div>
-              <div class="bg-accent-50 border border-accent-200 rounded-lg p-4 mb-6">
-                <div class="flex items-center">
-                  <div class="w-3 h-3 bg-green-500 rounded-full mr-3"></div>
-                  <span class="font-semibold text-green-700">Open Now</span>
-                </div>
-                <p class="text-sm text-neutral-600 mt-1">Closes at 10:00 PM today</p>
               </div>
               <p class="text-sm text-neutral-500">*Gas pumps available 24/7</p>
             </div>

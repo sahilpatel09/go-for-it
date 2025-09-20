@@ -224,13 +224,6 @@
                   </div>
                 </div>
                 
-                <div class="mt-6 p-4 bg-accent-50 border border-accent-200 rounded-lg">
-                  <div class="flex items-center">
-                    <div class="w-3 h-3 bg-green-500 rounded-full mr-3"></div>
-                    <span class="font-semibold text-green-700">Open Now</span>
-                  </div>
-                  <p class="text-sm text-neutral-600 mt-1">Closes at 10:00 PM today</p>
-                </div>
                 
                 <p class="text-sm text-neutral-500 mt-4">*Gas pumps available 24/7</p>
               </div>
@@ -271,19 +264,17 @@
         </div>
         
         <div class="card">
-          <div class="card-body">
-            <div class="bg-neutral-200 h-96 rounded-lg flex items-center justify-center">
-              <div class="text-center">
-                <svg class="w-16 h-16 text-neutral-400 mx-auto mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"></path>
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"></path>
-                </svg>
-                <p class="text-neutral-500 mb-4">Interactive Google Map would be embedded here</p>
-                <a href="https://www.google.com/maps?cid=12853947706317488130" target="_blank" class="btn-primary">
-                  Open in Google Maps
-                </a>
-              </div>
-            </div>
+          <div class="card-body p-0">
+            <iframe 
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2805.4882811108355!2d-93.18742019999999!3d45.318761599999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x52b31e8fd36cf5ef%3A0xb2626555f4804002!2sGo%20For%20It%20Gas!5e0!3m2!1sen!2sca!4v1758335989282!5m2!1sen!2sca" 
+              width="100%" 
+              height="450" 
+              style="border:0;" 
+              allowfullscreen="" 
+              loading="lazy" 
+              referrerpolicy="no-referrer-when-downgrade"
+              class="rounded-lg"
+            ></iframe>
           </div>
         </div>
       </div>

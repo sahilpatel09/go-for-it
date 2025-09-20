@@ -25,15 +25,18 @@
             <NuxtLink to="/fuel" class="nav-link" :class="{ 'nav-link-active': $route.path === '/fuel' }">
               Fuel Prices
             </NuxtLink>
-            <NuxtLink to="/store" class="nav-link" :class="{ 'nav-link-active': $route.path === '/store' }">
-              Store
-            </NuxtLink>
-            <NuxtLink to="/services" class="nav-link" :class="{ 'nav-link-active': $route.path === '/services' }">
-              Services
-            </NuxtLink>
-            <NuxtLink to="/promotions" class="nav-link" :class="{ 'nav-link-active': $route.path === '/promotions' }">
-              Promotions
-            </NuxtLink>
+              <NuxtLink to="/store" class="nav-link" :class="{ 'nav-link-active': $route.path === '/store' }">
+                Store
+              </NuxtLink>
+              <NuxtLink to="/liquor" class="nav-link" :class="{ 'nav-link-active': $route.path === '/liquor' }">
+                Liquor
+              </NuxtLink>
+              <!-- <NuxtLink to="/services" class="nav-link" :class="{ 'nav-link-active': $route.path === '/services' }">
+                Services
+              </NuxtLink>
+              <NuxtLink to="/promotions" class="nav-link" :class="{ 'nav-link-active': $route.path === '/promotions' }">
+                Promotions
+              </NuxtLink> -->
             <NuxtLink to="/contact" class="nav-link" :class="{ 'nav-link-active': $route.path === '/contact' }">
               Contact
             </NuxtLink>
@@ -64,8 +67,7 @@
             <NuxtLink to="/" class="nav-link" @click="mobileMenuOpen = false">Home</NuxtLink>
             <NuxtLink to="/fuel" class="nav-link" @click="mobileMenuOpen = false">Fuel Prices</NuxtLink>
             <NuxtLink to="/store" class="nav-link" @click="mobileMenuOpen = false">Store</NuxtLink>
-            <NuxtLink to="/services" class="nav-link" @click="mobileMenuOpen = false">Services</NuxtLink>
-            <NuxtLink to="/promotions" class="nav-link" @click="mobileMenuOpen = false">Promotions</NuxtLink>
+            <NuxtLink to="/liquor" class="nav-link" @click="mobileMenuOpen = false">Liquor</NuxtLink>
             <NuxtLink to="/contact" class="nav-link" @click="mobileMenuOpen = false">Contact</NuxtLink>
             <div class="pt-4 space-y-2">
               <a href="tel:+16513952174" class="btn-primary w-full text-center block">Call Now</a>
@@ -158,11 +160,10 @@
           <div>
             <h4 class="text-lg font-semibold mb-4">Quick Links</h4>
             <div class="space-y-2 text-sm">
+              <NuxtLink to="/" class="block hover:text-primary-500 transition-colors">Home</NuxtLink>
               <NuxtLink to="/fuel" class="block hover:text-primary-500 transition-colors">Fuel Prices</NuxtLink>
-              <NuxtLink to="/store" class="block hover:text-primary-500 transition-colors">Store Products</NuxtLink>
-              <NuxtLink to="/services" class="block hover:text-primary-500 transition-colors">Services</NuxtLink>
-              <NuxtLink to="/promotions" class="block hover:text-primary-500 transition-colors">Promotions</NuxtLink>
-              <NuxtLink to="/about" class="block hover:text-primary-500 transition-colors">About Us</NuxtLink>
+              <NuxtLink to="/store" class="block hover:text-primary-500 transition-colors">Store</NuxtLink>
+              <NuxtLink to="/liquor" class="block hover:text-primary-500 transition-colors">Liquor</NuxtLink>
               <NuxtLink to="/contact" class="block hover:text-primary-500 transition-colors">Contact</NuxtLink>
             </div>
           </div>
