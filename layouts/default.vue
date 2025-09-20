@@ -28,7 +28,7 @@
             <NuxtLink to="/liquor" class="transition-colors font-medium" style="color: #EAEAEA; font-family: 'Inter', sans-serif;" :style="{ color: $route.path === '/liquor' ? '#C9A227' : '#EAEAEA' }" onmouseover="this.style.color='#C9A227';" onmouseout="this.style.color=$route.path === '/liquor' ? '#C9A227' : '#EAEAEA';">
               Liquor
             </NuxtLink>
-leas -->
+
             <NuxtLink to="/contact" class="transition-colors font-medium" style="color: #EAEAEA; font-family: 'Inter', sans-serif;" :style="{ color: $route.path === '/contact' ? '#C9A227' : '#EAEAEA' }" onmouseover="this.style.color='#C9A227';" onmouseout="this.style.color=$route.path === '/contact' ? '#C9A227' : '#EAEAEA';">
               Contact
             </NuxtLink>
@@ -39,7 +39,7 @@ leas -->
             <a href="tel:+16513952174" class="px-4 py-2 rounded-lg font-semibold transition-colors duration-300" style="background-color: #C9A227; color: #1C1C1C; font-family: 'Inter', sans-serif;">
               Call Now
             </a>
-            <a href="https://www.google.com/maps?cid=12853947706317488130" target="_blank" class="px-4 py-2 rounded-lg font-semibold transition-all duration-300 border-2" style="border-color: #C9A227; color: #C9A227; background: transparent; font-family: 'Inter', sans-serif;" onmouseover="this.style.backgroundColor='#C9A227'; this.style.color='#1C1C1C';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#C9A227';">
+            <a href="https://maps.app.goo.gl/H1gsh7KUfgrg6ek49" target="_blank" class="px-4 py-2 rounded-lg font-semibold transition-all duration-300 border-2" style="border-color: #C9A227; color: #C9A227; background: transparent; font-family: 'Inter', sans-serif;" onmouseover="this.style.backgroundColor='#C9A227'; this.style.color='#1C1C1C';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#C9A227';">
               Get Directions
             </a>
           </div>
@@ -57,13 +57,11 @@ leas -->
         <div v-if="mobileMenuOpen" class="lg:hidden py-4" style="border-top: 1px solid #1C1C1C;">
           <nav class="flex flex-col space-y-4">
             <NuxtLink to="/" class="transition-colors font-medium" style="color: #EAEAEA; font-family: 'Inter', sans-serif;" @click="mobileMenuOpen = false" onmouseover="this.style.color='#C9A227';" onmouseout="this.style.color='#EAEAEA';">Home</NuxtLink>
-            <NuxtLink to="/store" class="transition-colors font-medium" style="color: #EAEAEA; font-family: 'Inter', sans-serif;" @click="mobileMenuOpen = false" onmouseover="this.style.color='#C9A227';" onmouseout="this.style.color='#EAEAEA';">Store</NuxtLink>
             <NuxtLink to="/liquor" class="transition-colors font-medium" style="color: #EAEAEA; font-family: 'Inter', sans-serif;" @click="mobileMenuOpen = false" onmouseover="this.style.color='#C9A227';" onmouseout="this.style.color='#EAEAEA';">Liquor</NuxtLink>
-            <NuxtLink to="/fuel" class="transition-colors font-medium" style="color: #EAEAEA; font-family: 'Inter', sans-serif;" @click="mobileMenuOpen = false" onmouseover="this.style.color='#C9A227';" onmouseout="this.style.color='#EAEAEA';">Fuel</NuxtLink>
             <NuxtLink to="/contact" class="transition-colors font-medium" style="color: #EAEAEA; font-family: 'Inter', sans-serif;" @click="mobileMenuOpen = false" onmouseover="this.style.color='#C9A227';" onmouseout="this.style.color='#EAEAEA';">Contact</NuxtLink>
             <div class="pt-4 space-y-2">
               <a href="tel:+16513952174" class="w-full text-center block py-2 rounded-lg font-semibold transition-colors duration-300" style="background-color: #C9A227; color: #1C1C1C; font-family: 'Inter', sans-serif;">Call Now</a>
-              <a href="https://www.google.com/maps?cid=12853947706317488130" target="_blank" class="w-full text-center block py-2 rounded-lg font-semibold transition-all duration-300 border-2" style="border-color: #C9A227; color: #C9A227; background: transparent; font-family: 'Inter', sans-serif;" onmouseover="this.style.backgroundColor='#C9A227'; this.style.color='#1C1C1C';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#C9A227';">Get Directions</a>
+              <a href="https://maps.app.goo.gl/H1gsh7KUfgrg6ek49" target="_blank" class="w-full text-center block py-2 rounded-lg font-semibold transition-all duration-300 border-2" style="border-color: #C9A227; color: #C9A227; background: transparent; font-family: 'Inter', sans-serif;" onmouseover="this.style.backgroundColor='#C9A227'; this.style.color='#1C1C1C';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#C9A227';">Get Directions</a>
             </div>
           </nav>
         </div>
@@ -154,9 +152,7 @@ leas -->
             <h4 class="text-lg font-semibold mb-4" style="color: #EAEAEA; font-family: 'Inter', sans-serif;">Quick Links</h4>
             <div class="space-y-2 text-sm">
               <NuxtLink to="/" class="block transition-colors" style="color: #EAEAEA; font-family: 'Inter', sans-serif;" onmouseover="this.style.color='#C9A227';" onmouseout="this.style.color='#EAEAEA';">Home</NuxtLink>
-              <NuxtLink to="/store" class="block transition-colors" style="color: #EAEAEA; font-family: 'Inter', sans-serif;" onmouseover="this.style.color='#C9A227';" onmouseout="this.style.color='#EAEAEA';">Store</NuxtLink>
               <NuxtLink to="/liquor" class="block transition-colors" style="color: #EAEAEA; font-family: 'Inter', sans-serif;" onmouseover="this.style.color='#C9A227';" onmouseout="this.style.color='#EAEAEA';">Liquor</NuxtLink>
-              <NuxtLink to="/fuel" class="block transition-colors" style="color: #EAEAEA; font-family: 'Inter', sans-serif;" onmouseover="this.style.color='#C9A227';" onmouseout="this.style.color='#EAEAEA';">Fuel</NuxtLink>
               <NuxtLink to="/contact" class="block transition-colors" style="color: #EAEAEA; font-family: 'Inter', sans-serif;" onmouseover="this.style.color='#C9A227';" onmouseout="this.style.color='#EAEAEA';">Contact</NuxtLink>
             </div>
           </div>
@@ -182,7 +178,7 @@ leas -->
           </svg>
           <span class="font-medium" style="color: #EAEAEA; font-family: 'Inter', sans-serif;">Call</span>
         </a>
-        <a href="https://www.google.com/maps?cid=12853947706317488130" target="_blank" class="flex flex-col items-center space-y-1 text-xs">
+        <a href="https://maps.app.goo.gl/H1gsh7KUfgrg6ek49" target="_blank" class="flex flex-col items-center space-y-1 text-xs">
           <svg class="w-6 h-6" style="color: #C9A227;" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"></path>
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"></path>

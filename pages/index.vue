@@ -26,7 +26,7 @@
           <span style="color: #D4AF37;">Exclusive access • Expert guidance • Luxury at value</span>
         </p>
         <div class="flex flex-col sm:flex-row gap-6 justify-center">
-          <a href="https://www.google.com/maps?cid=12853947706317488130" target="_blank" class="group px-10 py-4 text-lg font-semibold rounded-lg transition-all duration-500 border-2" style="border-color: #D4AF37; color: #D4AF37; background: transparent; font-family: 'Inter', sans-serif;" onmouseover="this.style.backgroundColor='#D4AF37'; this.style.color='#0A0A0A'; this.style.boxShadow='0 0 30px rgba(212, 175, 55, 0.4)';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#D4AF37'; this.style.boxShadow='none';">
+          <a href="https://maps.app.goo.gl/H1gsh7KUfgrg6ek49" target="_blank" class="group px-10 py-4 text-lg font-semibold rounded-lg transition-all duration-500 border-2" style="border-color: #D4AF37; color: #D4AF37; background: transparent; font-family: 'Inter', sans-serif;" onmouseover="this.style.backgroundColor='#D4AF37'; this.style.color='#0A0A0A'; this.style.boxShadow='0 0 30px rgba(212, 175, 55, 0.4)';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#D4AF37'; this.style.boxShadow='none';">
             <span class="flex items-center justify-center">
               <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"></path>
@@ -66,16 +66,34 @@
             <div class="p-8 text-center">
               <div class="mb-6">
                 <NuxtImg 
-                  src="/buffalo_trace_dark.png" 
+                  src="/crown_royal_dark.png" 
                   alt="Buffalo Trace Kentucky Straight Bourbon Whiskey"
-                  class="object-contain mx-auto drop-shadow-2xl transition-transform duration-500 group-hover:scale-110"
+                  class="w-48 h-48 object-cover mx-auto rounded-lg drop-shadow-2xl transition-transform duration-500 group-hover:scale-110"
                   loading="lazy"
                 />
               </div>
               <div class="mb-4">
                 <div class="w-16 h-0.5 mx-auto mb-3" style="background: linear-gradient(90deg, transparent 0%, #D4AF37 50%, transparent 100%);"></div>
-                <h3 class="text-2xl font-bold mb-2" style="color: #F5F5F5; font-family: 'Playfair Display', serif;">Buffalo Trace</h3>
-                <p class="text-sm" style="color: #D4AF37; font-family: 'Inter', sans-serif; font-weight: 500;">Premium Bourbon</p>
+                <h3 class="text-2xl font-bold mb-2" style="color: #F5F5F5; font-family: 'Playfair Display', serif;">Crown Royal Delux</h3>
+                <p class="text-sm" style="color: #D4AF37; font-family: 'Inter', sans-serif; font-weight: 500;">Premium Whisky</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="group relative overflow-hidden rounded-2xl transition-all duration-700 hover:scale-105" style="background: linear-gradient(145deg, #1A1A1A 0%, #0F0F0F 100%); border: 1px solid rgba(212, 175, 55, 0.1);">
+            <div class="p-8 text-center">
+              <div class="mb-6">
+                <NuxtImg 
+                  src="/vodka_dark.png" 
+                  alt="Buffalo Trace Kentucky Straight Bourbon Whiskey"
+                  class="w-48 h-48 object-cover mx-auto rounded-lg drop-shadow-2xl transition-transform duration-500 group-hover:scale-110"
+                  loading="lazy"
+                />
+              </div>
+              <div class="mb-4">
+                <div class="w-16 h-0.5 mx-auto mb-3" style="background: linear-gradient(90deg, transparent 0%, #D4AF37 50%, transparent 100%);"></div>
+                <h3 class="text-2xl font-bold mb-2" style="color: #F5F5F5; font-family: 'Playfair Display', serif;">Patrón Reposado</h3>
+                <p class="text-sm" style="color: #D4AF37; font-family: 'Inter', sans-serif; font-weight: 500;">Premium Vodka</p>
               </div>
             </div>
           </div>
@@ -87,7 +105,7 @@
                 <NuxtImg 
                   src="/tail_dark_1.png" 
                   alt="Yellow Tail Jammy Red Roo Wine"
-                  class="object-contain mx-auto drop-shadow-2xl transition-transform duration-500 group-hover:scale-110"
+                  class="w-48 h-48 object-cover mx-auto rounded-lg drop-shadow-2xl transition-transform duration-500 group-hover:scale-110"
                   loading="lazy"
                 />
               </div>
@@ -99,155 +117,12 @@
             </div>
           </div>
 
-          <!-- Grey Goose -->
-          <div class="group relative overflow-hidden rounded-2xl transition-all duration-700 hover:scale-105" style="background: linear-gradient(145deg, #1A1A1A 0%, #0F0F0F 100%); border: 1px solid rgba(212, 175, 55, 0.1);">
-            <div class="p-8 text-center">
-              <div class="mb-6">
-                <div class="w-32 h-40 mx-auto flex items-center justify-center" style="background: linear-gradient(135deg, rgba(212, 175, 55, 0.05) 0%, rgba(212, 175, 55, 0.1) 100%); border-radius: 12px;">
-                  <svg class="w-20 h-20 transition-transform duration-500 group-hover:scale-110" style="color: #D4AF37;" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z"></path>
-                  </svg>
-          </div>
-        </div>
-              <div class="mb-4">
-                <div class="w-16 h-0.5 mx-auto mb-3" style="background: linear-gradient(90deg, transparent 0%, #D4AF37 50%, transparent 100%);"></div>
-                <h3 class="text-2xl font-bold mb-2" style="color: #F5F5F5; font-family: 'Playfair Display', serif;">Grey Goose</h3>
-                <p class="text-sm mb-4" style="color: #D4AF37; font-family: 'Inter', sans-serif; font-weight: 500;">Premium Vodka</p>
-              </div>
-              <p class="text-sm leading-relaxed mb-6" style="color: #B8B8B8; font-family: 'Inter', sans-serif;">
-                Crafted in France with the finest ingredients and traditional methods
-              </p>
-              <div class="text-xs space-y-1" style="color: #888888; font-family: 'Inter', sans-serif;">
-                <p>• Original</p>
-                <p>• La Poire</p>
-                <p>• Le Citron</p>
-      </div>
-            </div>
-          </div>
+
           
         </div>
       </div>
     </section>
 
-    <!-- Exclusive Offers Section -->
-    <section class="py-24" style="background: linear-gradient(135deg, #0A0A0A 0%, #1A1A1A 50%, #0F0F0F 100%);">
-      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div class="text-center mb-20">
-          <div class="w-24 h-1 mx-auto mb-6" style="background: linear-gradient(90deg, transparent 0%, #D4AF37 50%, transparent 100%);"></div>
-          <h2 class="text-5xl md:text-6xl font-bold mb-8" style="color: #F5F5F5; font-family: 'Playfair Display', serif; letter-spacing: -0.02em;">Exclusive Offers</h2>
-          <p class="text-xl max-w-4xl mx-auto leading-relaxed" style="color: #E5E5E5; font-family: 'Inter', sans-serif; font-weight: 300;">
-            Limited-time access to rare releases and exceptional value on premium selections
-          </p>
-        </div>
-        
-        <div class="grid md:grid-cols-3 gap-8">
-          <!-- Limited Release -->
-          <div class="group relative overflow-hidden rounded-2xl transition-all duration-700 hover:scale-105" style="background: linear-gradient(145deg, #1A1A1A 0%, #0F0F0F 100%); border: 1px solid rgba(212, 175, 55, 0.2);">
-            <div class="absolute top-6 right-6 z-10">
-              <div class="relative">
-                <div class="px-4 py-2 rounded-full text-sm font-semibold" style="background: linear-gradient(135deg, #D4AF37 0%, #B8941F 100%); color: #0A0A0A; font-family: 'Inter', sans-serif;">
-                  Limited Release
-                </div>
-                <div class="absolute -top-1 -right-1 w-3 h-3 rounded-full" style="background-color: #D4AF37; animation: pulse 2s infinite;"></div>
-              </div>
-            </div>
-            <div class="p-8">
-              <div class="mb-8">
-                <NuxtImg 
-                  src="/jack_daniel.png" 
-                  alt="Jack Daniel's Limited Edition"
-                  class="w-40 h-48 object-contain mx-auto drop-shadow-2xl transition-transform duration-500 group-hover:scale-110"
-                />
-              </div>
-              <div class="text-center">
-                <h3 class="text-2xl font-bold mb-3" style="color: #F5F5F5; font-family: 'Playfair Display', serif;">Jack Daniel's</h3>
-                <p class="text-sm mb-4" style="color: #D4AF37; font-family: 'Inter', sans-serif; font-weight: 500;">Single Barrel Select</p>
-                <p class="text-sm leading-relaxed mb-6" style="color: #B8B8B8; font-family: 'Inter', sans-serif;">
-                  Hand-selected barrels for exceptional character and depth
-                </p>
-                <div class="flex items-center justify-center mb-8">
-                  <span class="text-4xl font-bold mr-4" style="color: #D4AF37; font-family: 'Playfair Display', serif;">$89</span>
-                  <span class="text-lg line-through" style="color: #888888; font-family: 'Inter', sans-serif;">$119</span>
-          </div>
-                <button class="w-full py-4 px-6 rounded-lg font-semibold transition-all duration-500 border-2" style="border-color: #D4AF37; color: #D4AF37; background: transparent; font-family: 'Inter', sans-serif;" onmouseover="this.style.backgroundColor='#D4AF37'; this.style.color='#0A0A0A'; this.style.boxShadow='0 0 20px rgba(212, 175, 55, 0.3)';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#D4AF37'; this.style.boxShadow='none';">
-                  Reserve Now
-                </button>
-              </div>
-            </div>
-          </div>
-          
-          <!-- Exclusive Access -->
-          <div class="group relative overflow-hidden rounded-2xl transition-all duration-700 hover:scale-105" style="background: linear-gradient(145deg, #1A1A1A 0%, #0F0F0F 100%); border: 1px solid rgba(212, 175, 55, 0.2);">
-            <div class="absolute top-6 right-6 z-10">
-              <div class="relative">
-                <div class="px-4 py-2 rounded-full text-sm font-semibold" style="background: linear-gradient(135deg, #D4AF37 0%, #B8941F 100%); color: #0A0A0A; font-family: 'Inter', sans-serif;">
-                  Exclusive Access
-                </div>
-                <div class="absolute -top-1 -right-1 w-3 h-3 rounded-full" style="background-color: #D4AF37; animation: pulse 2s infinite;"></div>
-              </div>
-            </div>
-            <div class="p-8">
-              <div class="mb-8">
-                <div class="w-40 h-48 mx-auto flex items-center justify-center" style="background: linear-gradient(135deg, rgba(212, 175, 55, 0.05) 0%, rgba(212, 175, 55, 0.1) 100%); border-radius: 16px;">
-                  <svg class="w-24 h-24 transition-transform duration-500 group-hover:scale-110" style="color: #D4AF37;" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z"></path>
-                </svg>
-                </div>
-              </div>
-              <div class="text-center">
-                <h3 class="text-2xl font-bold mb-3" style="color: #F5F5F5; font-family: 'Playfair Display', serif;">Premium Wine</h3>
-                <p class="text-sm mb-4" style="color: #D4AF37; font-family: 'Inter', sans-serif; font-weight: 500;">Curated Selection</p>
-                <p class="text-sm leading-relaxed mb-6" style="color: #B8B8B8; font-family: 'Inter', sans-serif;">
-                  Rare vintages and limited-production wines from renowned vineyards
-                </p>
-                <div class="flex items-center justify-center mb-8">
-                  <span class="text-4xl font-bold mr-4" style="color: #D4AF37; font-family: 'Playfair Display', serif;">$45</span>
-                  <span class="text-lg line-through" style="color: #888888; font-family: 'Inter', sans-serif;">$65</span>
-                </div>
-                <button class="w-full py-4 px-6 rounded-lg font-semibold transition-all duration-500 border-2" style="border-color: #D4AF37; color: #D4AF37; background: transparent; font-family: 'Inter', sans-serif;" onmouseover="this.style.backgroundColor='#D4AF37'; this.style.color='#0A0A0A'; this.style.boxShadow='0 0 20px rgba(212, 175, 55, 0.3)';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#D4AF37'; this.style.boxShadow='none';">
-                  Explore Collection
-                </button>
-              </div>
-            </div>
-          </div>
-          
-          <!-- Artisan Selection -->
-          <div class="group relative overflow-hidden rounded-2xl transition-all duration-700 hover:scale-105" style="background: linear-gradient(145deg, #1A1A1A 0%, #0F0F0F 100%); border: 1px solid rgba(212, 175, 55, 0.2);">
-            <div class="absolute top-6 right-6 z-10">
-              <div class="relative">
-                <div class="px-4 py-2 rounded-full text-sm font-semibold" style="background: linear-gradient(135deg, #D4AF37 0%, #B8941F 100%); color: #0A0A0A; font-family: 'Inter', sans-serif;">
-                  Artisan Selection
-                </div>
-                <div class="absolute -top-1 -right-1 w-3 h-3 rounded-full" style="background-color: #D4AF37; animation: pulse 2s infinite;"></div>
-              </div>
-            </div>
-            <div class="p-8">
-              <div class="mb-8">
-                <div class="w-40 h-48 mx-auto flex items-center justify-center" style="background: linear-gradient(135deg, rgba(212, 175, 55, 0.05) 0%, rgba(212, 175, 55, 0.1) 100%); border-radius: 16px;">
-                  <svg class="w-24 h-24 transition-transform duration-500 group-hover:scale-110" style="color: #D4AF37;" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z"></path>
-                </svg>
-                </div>
-              </div>
-              <div class="text-center">
-                <h3 class="text-2xl font-bold mb-3" style="color: #F5F5F5; font-family: 'Playfair Display', serif;">Craft Spirits</h3>
-                <p class="text-sm mb-4" style="color: #D4AF37; font-family: 'Inter', sans-serif; font-weight: 500;">Small Batch Collection</p>
-                <p class="text-sm leading-relaxed mb-6" style="color: #B8B8B8; font-family: 'Inter', sans-serif;">
-                  Handcrafted spirits from master distillers and innovative craft producers
-                </p>
-                <div class="flex items-center justify-center mb-8">
-                  <span class="text-4xl font-bold mr-4" style="color: #D4AF37; font-family: 'Playfair Display', serif;">$32</span>
-                  <span class="text-lg line-through" style="color: #888888; font-family: 'Inter', sans-serif;">$48</span>
-                </div>
-                <button class="w-full py-4 px-6 rounded-lg font-semibold transition-all duration-500 border-2" style="border-color: #D4AF37; color: #D4AF37; background: transparent; font-family: 'Inter', sans-serif;" onmouseover="this.style.backgroundColor='#D4AF37'; this.style.color='#0A0A0A'; this.style.boxShadow='0 0 20px rgba(212, 175, 55, 0.3)';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#D4AF37'; this.style.boxShadow='none';">
-                  Discover More
-                </button>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
 
     <!-- Why Choose Us Section -->
     <section class="py-24" style="background: linear-gradient(135deg, #0A0A0A 0%, #1A1A1A 50%, #0F0F0F 100%);">
@@ -304,7 +179,7 @@
         </div>
 
         <!-- Store Interior Image -->
-        <div class="mt-16 text-center">
+        <!-- <div class="mt-16 text-center">
           <div class="relative max-w-4xl mx-auto">
             <NuxtImg 
               src="/test_image.jpg" 
@@ -317,7 +192,7 @@
               <p class="text-slate-200">Experience our premium selection in person</p>
             </div>
           </div>
-        </div>
+        </div> -->
       </div>
     </section>
 
@@ -326,7 +201,7 @@
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="text-center mb-20">
           <div class="w-24 h-1 mx-auto mb-6" style="background: linear-gradient(90deg, transparent 0%, #D4AF37 50%, transparent 100%);"></div>
-          <h2 class="text-5xl md:text-6xl font-bold mb-8" style="color: #F5F5F5; font-family: 'Playfair Display', serif; letter-spacing: -0.02em;">Visit Our Sanctuary</h2>
+          <h2 class="text-5xl md:text-6xl font-bold mb-8" style="color: #F5F5F5; font-family: 'Playfair Display', serif; letter-spacing: -0.02em;">Visit Us</h2>
           <p class="text-xl max-w-4xl mx-auto leading-relaxed" style="color: #E5E5E5; font-family: 'Inter', sans-serif; font-weight: 300;">
             Experience our curated collection in person at our East Bethel location
           </p>
@@ -344,7 +219,7 @@
               </div>
               <div class="relative overflow-hidden rounded-lg mb-8" style="border: 1px solid rgba(212, 175, 55, 0.3);">
                 <iframe 
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2805.4882811108355!2d-93.18742019999999!3d45.318761599999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x52b31e8fd36cf5ef%3A0xb2626555f4804002!2sGo%20For%20It%20Gas!5e0!3m2!1sen!2sca!4v1758335989282!5m2!1sen!2sca" 
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2805.4882811108355!2d-93.18742019999999!3d45.318761599999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x52b31fd1ea2616b9%3A0xba7fee652ff8a42b!2sGo%20For%20It%20Liquor!5e0!3m2!1sen!2sca!4v1758400585801!5m2!1sen!2sca" 
                   width="100%" 
                   height="320" 
                   style="border:0;" 
@@ -353,7 +228,7 @@
                   referrerpolicy="no-referrer-when-downgrade"
                 ></iframe>
               </div>
-              <a href="https://www.google.com/maps?cid=12853947706317488130" target="_blank" class="group inline-flex items-center px-8 py-4 rounded-lg font-semibold transition-all duration-500 border-2" style="border-color: #D4AF37; color: #D4AF37; background: transparent; font-family: 'Inter', sans-serif;" onmouseover="this.style.backgroundColor='#D4AF37'; this.style.color='#0A0A0A'; this.style.boxShadow='0 0 20px rgba(212, 175, 55, 0.3)';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#D4AF37'; this.style.boxShadow='none';">
+              <a href="https://maps.app.goo.gl/H1gsh7KUfgrg6ek49" target="_blank" class="group inline-flex items-center px-8 py-4 rounded-lg font-semibold transition-all duration-500 border-2" style="border-color: #D4AF37; color: #D4AF37; background: transparent; font-family: 'Inter', sans-serif;" onmouseover="this.style.backgroundColor='#D4AF37'; this.style.color='#0A0A0A'; this.style.boxShadow='0 0 20px rgba(212, 175, 55, 0.3)';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#D4AF37'; this.style.boxShadow='none';">
                 <svg class="w-5 h-5 mr-3 transition-transform duration-300 group-hover:scale-110" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"></path>
                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"></path>

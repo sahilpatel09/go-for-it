@@ -288,7 +288,7 @@
           <a href="tel:+16513952174" class="py-3 px-6 rounded-lg font-medium transition-all duration-300" style="background-color: #0A0A0A; color: #D4AF37; font-family: 'Inter', sans-serif;" onmouseover="this.style.backgroundColor='#1A1A1A';" onmouseout="this.style.backgroundColor='#0A0A0A';">
             Call Now
           </a>
-          <a href="https://www.google.com/maps?cid=12853947706317488130" target="_blank" class="py-3 px-6 rounded-lg font-medium transition-all duration-300 border-2" style="border-color: #0A0A0A; color: #0A0A0A; background: transparent; font-family: 'Inter', sans-serif;" onmouseover="this.style.backgroundColor='#0A0A0A'; this.style.color='#D4AF37';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#0A0A0A';">
+          <a href="https://maps.app.goo.gl/H1gsh7KUfgrg6ek49" target="_blank" class="py-3 px-6 rounded-lg font-medium transition-all duration-300 border-2" style="border-color: #0A0A0A; color: #0A0A0A; background: transparent; font-family: 'Inter', sans-serif;" onmouseover="this.style.backgroundColor='#0A0A0A'; this.style.color='#D4AF37';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#0A0A0A';">
             Visit Store
           </a>
         </div>

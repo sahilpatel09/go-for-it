@@ -28,7 +28,7 @@
         
         
         <div class="flex flex-col sm:flex-row gap-6 justify-center">
-          <a href="https://www.google.com/maps?cid=12853947706317488130" target="_blank" class="group px-10 py-4 text-lg font-semibold rounded-lg transition-all duration-500 border-2" style="border-color: #D4AF37; color: #D4AF37; background: transparent; font-family: 'Inter', sans-serif;" onmouseover="this.style.backgroundColor='#D4AF37'; this.style.color='#0A0A0A'; this.style.boxShadow='0 0 30px rgba(212, 175, 55, 0.4)';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#D4AF37'; this.style.boxShadow='none';">
+          <a href="https://maps.app.goo.gl/H1gsh7KUfgrg6ek49" target="_blank" class="group px-10 py-4 text-lg font-semibold rounded-lg transition-all duration-500 border-2" style="border-color: #D4AF37; color: #D4AF37; background: transparent; font-family: 'Inter', sans-serif;" onmouseover="this.style.backgroundColor='#D4AF37'; this.style.color='#0A0A0A'; this.style.boxShadow='0 0 30px rgba(212, 175, 55, 0.4)';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#D4AF37'; this.style.boxShadow='none';">
             <span class="flex items-center justify-center">
               <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"></path>
@@ -145,8 +145,8 @@
                     <div class="w-16 h-0.5 mb-4" style="background: linear-gradient(90deg, transparent 0%, #D4AF37 50%, transparent 100%);"></div>
                     <h3 class="text-2xl font-bold mb-2" style="color: #F5F5F5; font-family: 'Playfair Display', serif;">Filter Products</h3>
                     <p class="text-sm" style="color: #B8B8B8; font-family: 'Inter', sans-serif;">Browse by category</p>
-                  </div>
-                  
+        </div>
+
                   <!-- Category Filter -->
                   <div class="mb-6">
                     <h4 class="text-lg font-semibold mb-4" style="color: #D4AF37; font-family: 'Inter', sans-serif;">Category</h4>
@@ -174,7 +174,7 @@
                             v-if="selectedCategories.includes(category)"
                             class="w-2 h-2 bg-[#0A0A0A] rounded-sm mx-auto mt-0.5"
                           ></div>
-                        </div>
+                </div>
                         <span 
                           :class="[
                             'text-sm transition-colors duration-300',
@@ -187,8 +187,8 @@
                           {{ category }} ({{ getProductCount(category) }})
                         </span>
                       </label>
-                    </div>
-                    
+            </div>
+
                     <!-- Select All / Clear All -->
                     <div class="mt-4 pt-4 border-t border-[#333333]">
                       <div class="flex gap-2">
@@ -210,10 +210,10 @@
                         >
                           Clear All
                         </button>
-                      </div>
-                    </div>
-                  </div>
-                  
+                </div>
+              </div>
+            </div>
+
                   <!-- Product Count Summary -->
                   <div class="pt-4 border-t border-[#333333]">
                     <div class="text-center">
@@ -223,13 +223,13 @@
                       <p v-if="selectedCategories.length > 1" class="text-xs mt-1" style="color: #666666; font-family: 'Inter', sans-serif;">
                         {{ selectedCategories.length }} categories selected
                       </p>
-                    </div>
-                  </div>
-                </div>
+              </div>
+            </div>
               </div>
             </div>
           </div>
-          
+        </div>
+
           <!-- Main Products Content -->
           <div class="lg:w-3/4">
             <div class="mb-8">
@@ -237,13 +237,13 @@
               <h3 class="text-4xl font-bold mb-4" style="color: #F5F5F5; font-family: 'Playfair Display', serif;">{{ getCollectionTitle() }}</h3>
               <p class="text-lg" style="color: #E5E5E5; font-family: 'Inter', sans-serif; font-weight: 300;">{{ getCollectionDescription() }}</p>
             </div>
-            
+
             <!-- Loading State -->
             <div v-if="loading" class="text-center py-12">
               <div class="inline-block animate-spin rounded-full h-12 w-12 border-b-2" style="border-color: #D4AF37;"></div>
               <p class="mt-4 text-lg" style="color: #E5E5E5; font-family: 'Inter', sans-serif;">Loading products...</p>
             </div>
-            
+
             <!-- Products Grid -->
             <div v-else class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
               <div 
@@ -252,17 +252,17 @@
                 class="group relative overflow-hidden rounded-xl transition-all duration-500 hover:scale-105" 
                 style="background: linear-gradient(145deg, #1A1A1A 0%, #0F0F0F 100%); border: 1px solid rgba(212, 175, 55, 0.1);"
               >
-                <div class="absolute inset-0" style="background: linear-gradient(135deg, rgba(212, 175, 55, 0.02) 0%, transparent 50%, rgba(212, 175, 55, 0.02) 100%);"></div>
+              <div class="absolute inset-0" style="background: linear-gradient(135deg, rgba(212, 175, 55, 0.02) 0%, transparent 50%, rgba(212, 175, 55, 0.02) 100%);"></div>
                 <div class="relative p-4 text-center">
                   <div class="relative mb-3">
-                    <NuxtImg 
+                <NuxtImg 
                       :src="product.image_url" 
                       :alt="product.name"
-                      class="w-20 h-24 object-contain rounded-lg mx-auto transition-transform duration-500 group-hover:scale-110"
+                      class="w-36 h-40 object-contain rounded-lg mx-auto transition-transform duration-500 group-hover:scale-110"
                       loading="lazy"
-                    />
-                    <div class="absolute -top-1 -right-1 w-3 h-3 rounded-full" style="background-color: #D4AF37; animation: pulse 2s infinite;"></div>
-                  </div>
+                />
+                  <div class="absolute -top-1 -right-1 w-3 h-3 rounded-full" style="background-color: #D4AF37; animation: pulse 2s infinite;"></div>
+              </div>
                   <h4 class="font-bold text-xs mb-2 leading-tight" style="color: #F5F5F5; font-family: 'Playfair Display', serif;">{{ product.name }}</h4>
                   <div v-if="product.rating" class="flex items-center justify-center mb-1">
                     <div class="flex items-center">
@@ -270,12 +270,12 @@
                         <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path>
                       </svg>
                       <span class="text-xs font-semibold" style="color: #D4AF37; font-family: 'Inter', sans-serif;">{{ product.rating }}</span>
-                    </div>
-                  </div>
-                </div>
               </div>
             </div>
-            
+              </div>
+              </div>
+            </div>
+
             <!-- Load More Button -->
             <div v-if="hasMoreProducts" class="text-center mt-12">
               <button 
@@ -355,7 +355,7 @@
             <p class="text-xl mb-8" style="color: #E5E5E5; font-family: 'Inter', sans-serif; font-weight: 300;">Visit us today and discover your new favorite spirit</p>
           </div>
           <div class="flex flex-col sm:flex-row gap-6 justify-center">
-            <a href="https://www.google.com/maps?cid=12853947706317488130" target="_blank" class="group px-10 py-4 text-lg font-semibold rounded-lg transition-all duration-500 border-2" style="border-color: #D4AF37; color: #D4AF37; background: transparent; font-family: 'Inter', sans-serif;" onmouseover="this.style.backgroundColor='#D4AF37'; this.style.color='#0A0A0A'; this.style.boxShadow='0 0 30px rgba(212, 175, 55, 0.4)';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#D4AF37'; this.style.boxShadow='none';">
+            <a href="https://maps.app.goo.gl/H1gsh7KUfgrg6ek49" target="_blank" class="group px-10 py-4 text-lg font-semibold rounded-lg transition-all duration-500 border-2" style="border-color: #D4AF37; color: #D4AF37; background: transparent; font-family: 'Inter', sans-serif;" onmouseover="this.style.backgroundColor='#D4AF37'; this.style.color='#0A0A0A'; this.style.boxShadow='0 0 30px rgba(212, 175, 55, 0.4)';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#D4AF37'; this.style.boxShadow='none';">
               <span class="flex items-center justify-center">
                 <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"></path>

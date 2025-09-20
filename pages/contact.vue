@@ -34,7 +34,7 @@
               Call Now
             </span>
           </a>
-          <a href="https://www.google.com/maps?cid=12853947706317488130" target="_blank" class="group px-10 py-4 text-lg font-semibold rounded-lg transition-all duration-500 border-2" style="border-color: #D4AF37; color: #D4AF37; background: transparent; font-family: 'Inter', sans-serif;" onmouseover="this.style.backgroundColor='#D4AF37'; this.style.color='#0A0A0A'; this.style.boxShadow='0 0 30px rgba(212, 175, 55, 0.4)';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#D4AF37'; this.style.boxShadow='none';">
+          <a href="https://maps.app.goo.gl/H1gsh7KUfgrg6ek49" target="_blank" class="group px-10 py-4 text-lg font-semibold rounded-lg transition-all duration-500 border-2" style="border-color: #D4AF37; color: #D4AF37; background: transparent; font-family: 'Inter', sans-serif;" onmouseover="this.style.backgroundColor='#D4AF37'; this.style.color='#0A0A0A'; this.style.boxShadow='0 0 30px rgba(212, 175, 55, 0.4)';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#D4AF37'; this.style.boxShadow='none';">
             <span class="flex items-center justify-center">
               <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"></path>
@@ -206,7 +206,7 @@
                     <div>
                       <h4 class="font-semibold mb-1" style="color: #F5F5F5; font-family: 'Inter', sans-serif;">Address</h4>
                       <p class="mb-2" style="color: #F5F5F5; font-family: 'Inter', sans-serif;">3255 Viking Blvd NE<br>East Bethel, MN 55092</p>
-                      <a href="https://www.google.com/maps?cid=12853947706317488130" target="_blank" class="transition-colors" style="color: #D4AF37; font-family: 'Inter', sans-serif;" onmouseover="this.style.color='#E5C547';" onmouseout="this.style.color='#D4AF37';">
+                      <a href="https://maps.app.goo.gl/H1gsh7KUfgrg6ek49" target="_blank" class="transition-colors" style="color: #D4AF37; font-family: 'Inter', sans-serif;" onmouseover="this.style.color='#E5C547';" onmouseout="this.style.color='#D4AF37';">
                         Get Directions →
                       </a>
                     </div>
@@ -294,14 +294,11 @@
                   <a href="tel:+16513952174" class="w-full text-center block py-3 px-6 rounded-lg font-semibold transition-colors duration-300" style="background-color: #D4AF37; color: #0A0A0A; font-family: 'Inter', sans-serif;">
                     Call Now
                   </a>
-                  <a href="https://www.google.com/maps?cid=12853947706317488130" target="_blank" class="w-full text-center block py-3 px-6 rounded-lg font-semibold transition-all duration-300 border-2" style="border-color: #D4AF37; color: #D4AF37; background: transparent; font-family: 'Inter', sans-serif;" onmouseover="this.style.backgroundColor='#D4AF37'; this.style.color='#0A0A0A';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#D4AF37';">
+                  <a href="https://maps.app.goo.gl/H1gsh7KUfgrg6ek49" target="_blank" class="w-full text-center block py-3 px-6 rounded-lg font-semibold transition-all duration-300 border-2" style="border-color: #D4AF37; color: #D4AF37; background: transparent; font-family: 'Inter', sans-serif;" onmouseover="this.style.backgroundColor='#D4AF37'; this.style.color='#0A0A0A';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#D4AF37';">
                     Get Directions
                   </a>
-                  <NuxtLink to="/liquor" class="w-full text-center block py-3 px-6 rounded-lg font-semibold transition-colors duration-300" style="background-color: #7B1E1E; color: #F5F5F5; font-family: 'Inter', sans-serif;">
-                    View Liquor Selection
-                  </NuxtLink>
-                  <NuxtLink to="/promotions" class="w-full text-center block py-3 px-6 rounded-lg font-semibold transition-colors duration-300" style="background-color: #7B1E1E; color: #F5F5F5; font-family: 'Inter', sans-serif;">
-                    Current Promotions
+                  <NuxtLink to="/liquor" class="w-full text-center block py-3 px-6 rounded-lg font-semibold transition-colors duration-300" style="background-color: #D4AF37; color: #0A0A0A; font-family: 'Inter', sans-serif;">
+                    View Liquor Collection
                   </NuxtLink>
                 </div>
               </div>
@@ -322,7 +319,7 @@
         <div class="rounded-2xl shadow-2xl overflow-hidden" style="background-color: #F5F5F5; border: 2px solid #D4AF37;">
           <div class="p-0">
             <iframe 
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2805.4882811108355!2d-93.18742019999999!3d45.318761599999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x52b31e8fd36cf5ef%3A0xb2626555f4804002!2sGo%20For%20It%20Gas!5e0!3m2!1sen!2sca!4v1758335989282!5m2!1sen!2sca" 
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2805.4882811108355!2d-93.18742019999999!3d45.318761599999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x52b31fd1ea2616b9%3A0xba7fee652ff8a42b!2sGo%20For%20It%20Liquor!5e0!3m2!1sen!2sca!4v1758400585801!5m2!1sen!2sca" 
               width="100%" 
               height="450" 
               style="border:0;" 

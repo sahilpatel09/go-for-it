@@ -285,7 +285,7 @@
               </div>
             </div>
             <div class="mt-6">
-              <a href="https://www.google.com/maps?cid=12853947706317488130" target="_blank" class="w-full py-3 px-6 rounded-lg font-medium transition-all duration-300 text-center block" style="background-color: #D4AF37; color: #0A0A0A; font-family: 'Inter', sans-serif;" onmouseover="this.style.backgroundColor='#E5C547';" onmouseout="this.style.backgroundColor='#D4AF37';">
+              <a href="https://maps.app.goo.gl/H1gsh7KUfgrg6ek49" target="_blank" class="w-full py-3 px-6 rounded-lg font-medium transition-all duration-300 text-center block" style="background-color: #D4AF37; color: #0A0A0A; font-family: 'Inter', sans-serif;" onmouseover="this.style.backgroundColor='#E5C547';" onmouseout="this.style.backgroundColor='#D4AF37';">
                 Get Directions
               </a>
             </div>
