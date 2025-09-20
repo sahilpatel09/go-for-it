@@ -1,482 +1,376 @@
 <template>
   <div>
     <!-- Hero Section -->
-    <section class="relative h-80 flex items-center justify-center overflow-hidden bg-gradient-to-br from-slate-900 via-slate-800 to-amber-900">
+    <section class="relative min-h-screen flex items-center justify-center overflow-hidden" style="background: linear-gradient(135deg, #0A0A0A 0%, #1A1A1A 50%, #0F0F0F 100%);">
       <div class="absolute inset-0">
         <NuxtImg 
           src="/jack_daniel.png" 
-          alt="Premium Liquor Selection at Go For It Liquor"
+          alt="Premium Spirits Collection at Go For It Liquor"
           class="w-full h-full object-cover opacity-20"
+          loading="eager"
+          preload
         />
-        <div class="absolute inset-0 bg-gradient-to-br from-slate-900/80 via-slate-800/70 to-amber-900/80"></div>
+        <div class="absolute inset-0" style="background: linear-gradient(135deg, rgba(10, 10, 10, 0.95) 0%, rgba(26, 26, 26, 0.85) 50%, rgba(15, 15, 15, 0.95) 100%);"></div>
       </div>
-      <div class="relative z-10 text-center text-white">
-        <h1 class="text-4xl md:text-6xl font-bold mb-6 text-shadow-lg">Premium Liquor Selection</h1>
-        <p class="text-xl md:text-2xl text-amber-100 text-shadow">Quality spirits, beer, and wine for every occasion</p>
+      
+      <div class="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+        <div class="mb-8">
+          <div class="w-24 h-1 mx-auto mb-6" style="background: linear-gradient(90deg, transparent 0%, #D4AF37 50%, transparent 100%);"></div>
+        </div>
+        <h1 class="text-6xl md:text-8xl font-bold mb-8 leading-tight" style="color: #F5F5F5; font-family: 'Playfair Display', serif; letter-spacing: -0.02em;">
+          Premium<br><span style="color: #D4AF37;">Spirits Collection</span>
+        </h1>
+        <div class="w-32 h-1 mx-auto mb-8" style="background: linear-gradient(90deg, transparent 0%, #D4AF37 50%, transparent 100%);"></div>
+        <p class="text-xl md:text-2xl mb-12 max-w-3xl mx-auto leading-relaxed" style="color: #E5E5E5; font-family: 'Inter', sans-serif; font-weight: 300;">
+          Curated selection of the world's finest spirits, wines, and craft beverages.<br>
+          <span style="color: #D4AF37;">Exclusive brands • Expert curation • Premium quality</span>
+        </p>
+        
+        
+        <div class="flex flex-col sm:flex-row gap-6 justify-center">
+          <a href="https://www.google.com/maps?cid=12853947706317488130" target="_blank" class="group px-10 py-4 text-lg font-semibold rounded-lg transition-all duration-500 border-2" style="border-color: #D4AF37; color: #D4AF37; background: transparent; font-family: 'Inter', sans-serif;" onmouseover="this.style.backgroundColor='#D4AF37'; this.style.color='#0A0A0A'; this.style.boxShadow='0 0 30px rgba(212, 175, 55, 0.4)';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#D4AF37'; this.style.boxShadow='none';">
+            <span class="flex items-center justify-center">
+              <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"></path>
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"></path>
+              </svg>
+              Visit Our Store
+            </span>
+          </a>
+          <a href="tel:+16513952174" class="group px-10 py-4 text-lg font-semibold rounded-lg transition-all duration-500 border-2" style="border-color: #D4AF37; color: #D4AF37; background: transparent; font-family: 'Inter', sans-serif;" onmouseover="this.style.backgroundColor='#D4AF37'; this.style.color='#0A0A0A'; this.style.boxShadow='0 0 30px rgba(212, 175, 55, 0.4)';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#D4AF37'; this.style.boxShadow='none';">
+            <span class="flex items-center justify-center">
+              <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"></path>
+              </svg>
+              Call Now
+            </span>
+          </a>
+        </div>
       </div>
     </section>
 
-    <!-- Liquor Showcase -->
-    <section class="py-20 bg-slate-800">
+    <!-- Premium Collection -->
+    <section class="py-24" style="background: linear-gradient(135deg, #0A0A0A 0%, #1A1A1A 50%, #0F0F0F 100%);">
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div class="text-center mb-16">
-          <h2 class="text-4xl md:text-5xl font-bold text-white mb-6">Our Liquor Collection</h2>
-          <p class="text-xl text-slate-300">From premium spirits to craft beers and fine wines</p>
-        </div>
+        
+        
+        <!-- <div class="text-center mb-20">
+          <div class="w-24 h-1 mx-auto mb-6" style="background: linear-gradient(90deg, transparent 0%, #D4AF37 50%, transparent 100%);"></div>
+          <h2 class="text-5xl md:text-6xl font-bold mb-8" style="color: #F5F5F5; font-family: 'Playfair Display', serif; letter-spacing: -0.02em;">Premium Collection</h2>
+          <p class="text-xl max-w-4xl mx-auto leading-relaxed" style="color: #E5E5E5; font-family: 'Inter', sans-serif; font-weight: 300;">
+            Hand-selected spirits, craft beers, and fine wines from the world's most prestigious distilleries and wineries
+          </p>
+        </div> -->
 
-        <!-- Premium Spirits Showcase -->
-        <div class="mb-16">
-          <div class="text-center mb-8">
-            <h3 class="text-3xl font-bold text-white mb-4">Premium Spirits Collection</h3>
-            <p class="text-lg text-slate-300 max-w-3xl mx-auto">
-              Discover our carefully curated selection of premium spirits, featuring iconic brands and exceptional quality.
+        <!-- Signature Collection -->
+        <!-- <div class="mb-20">
+          <div class="text-center mb-12">
+            <div class="w-16 h-0.5 mx-auto mb-4" style="background: linear-gradient(90deg, transparent 0%, #D4AF37 50%, transparent 100%);"></div>
+            <h3 class="text-4xl font-bold mb-4" style="color: #F5F5F5; font-family: 'Playfair Display', serif;">Signature Collection</h3>
+            <p class="text-lg max-w-3xl mx-auto" style="color: #E5E5E5; font-family: 'Inter', sans-serif; font-weight: 300;">
+              Discover our carefully curated selection of premium spirits, featuring iconic brands and exceptional quality
             </p>
-          </div>
+          </div> -->
           
           <!-- Featured Jack Daniel's Collection -->
-          <div class="bg-gradient-to-r from-amber-800 to-amber-700 rounded-2xl p-8 mb-12 shadow-2xl">
-            <div class="text-center mb-8">
-              <h4 class="text-2xl font-bold text-white mb-2">Jack Daniel's Collection</h4>
-              <p class="text-amber-100">Tennessee's finest whiskey, crafted with tradition and excellence</p>
+          <!-- <div class="relative overflow-hidden rounded-2xl shadow-2xl mb-16" style="background: linear-gradient(145deg, #1A1A1A 0%, #0F0F0F 100%); border: 2px solid rgba(212, 175, 55, 0.2);">
+            <div class="absolute inset-0" style="background: linear-gradient(135deg, rgba(212, 175, 55, 0.05) 0%, transparent 50%, rgba(212, 175, 55, 0.05) 100%);"></div>
+            <div class="relative p-12">
+              <div class="text-center mb-12">
+                <div class="w-16 h-0.5 mx-auto mb-4" style="background: linear-gradient(90deg, transparent 0%, #D4AF37 50%, transparent 100%);"></div>
+                <h4 class="text-3xl font-bold mb-2" style="color: #F5F5F5; font-family: 'Playfair Display', serif;">Jack Daniel's Collection</h4>
+                <p class="text-lg" style="color: #D4AF37; font-family: 'Inter', sans-serif; font-weight: 500;">Tennessee's finest whiskey, crafted with tradition and excellence</p>
             </div>
             
             <div class="grid md:grid-cols-2 gap-8 max-w-4xl mx-auto">
-              <div class="bg-slate-800 rounded-lg p-6 shadow-lg hover:bg-slate-700 transition-colors duration-300">
+                <div class="group relative overflow-hidden rounded-xl transition-all duration-500 hover:scale-105" style="background: linear-gradient(145deg, #0F0F0F 0%, #1A1A1A 100%); border: 1px solid rgba(212, 175, 55, 0.1);">
+                  <div class="absolute inset-0" style="background: linear-gradient(135deg, rgba(212, 175, 55, 0.02) 0%, transparent 50%, rgba(212, 175, 55, 0.02) 100%);"></div>
+                  <div class="relative p-8">
                 <div class="flex items-center space-x-6">
+                      <div class="relative">
                   <NuxtImg 
                     src="/jack_daniel.png" 
                     alt="Jack Daniel's Old No. 7"
-                    class="w-20 h-28 object-contain"
+                          class="w-20 h-28 object-contain transition-transform duration-500 group-hover:scale-110"
                   />
+                        <div class="absolute -top-2 -right-2 w-4 h-4 rounded-full" style="background-color: #D4AF37; animation: pulse 2s infinite;"></div>
+                      </div>
                   <div class="flex-1">
-                    <h5 class="font-bold text-lg mb-2 text-white">Jack Daniel's Old No. 7</h5>
-                    <p class="text-sm text-slate-300 mb-3">The original Tennessee whiskey with a smooth, mellow taste</p>
+                        <h5 class="font-bold text-xl mb-2" style="color: #F5F5F5; font-family: 'Playfair Display', serif;">Jack Daniel's Old No. 7</h5>
+                        <p class="text-sm mb-4" style="color: #B8B8B8; font-family: 'Inter', sans-serif;">The original Tennessee whiskey with a smooth, mellow taste</p>
                     <div class="flex items-center justify-between">
-                      <span class="text-2xl font-bold text-amber-400">$24.99</span>
-                      <span class="text-sm text-slate-400">750ml</span>
-                    </div>
+                          <span class="text-sm" style="color: #888888; font-family: 'Inter', sans-serif;">750ml</span>
+                        </div>
+                      </div>
                   </div>
                 </div>
               </div>
               
-              <div class="bg-slate-800 rounded-lg p-6 shadow-lg hover:bg-slate-700 transition-colors duration-300">
+                <div class="group relative overflow-hidden rounded-xl transition-all duration-500 hover:scale-105" style="background: linear-gradient(145deg, #0F0F0F 0%, #1A1A1A 100%); border: 1px solid rgba(212, 175, 55, 0.1);">
+                  <div class="absolute inset-0" style="background: linear-gradient(135deg, rgba(212, 175, 55, 0.02) 0%, transparent 50%, rgba(212, 175, 55, 0.02) 100%);"></div>
+                  <div class="relative p-8">
                 <div class="flex items-center space-x-6">
+                      <div class="relative">
                   <NuxtImg 
                     src="/jack.jpg" 
                     alt="Jack Daniel's Gentleman Jack"
-                    class="w-20 h-28 object-contain"
+                          class="w-20 h-28 object-contain transition-transform duration-500 group-hover:scale-110"
                   />
+                        <div class="absolute -top-2 -right-2 w-4 h-4 rounded-full" style="background-color: #D4AF37; animation: pulse 2s infinite;"></div>
+                      </div>
                   <div class="flex-1">
-                    <h5 class="font-bold text-lg mb-2 text-white">Jack Daniel's Gentleman Jack</h5>
-                    <p class="text-sm text-slate-300 mb-3">Double-mellowed for exceptional smoothness and character</p>
+                        <h5 class="font-bold text-xl mb-2" style="color: #F5F5F5; font-family: 'Playfair Display', serif;">Jack Daniel's Gentleman Jack</h5>
+                        <p class="text-sm mb-4" style="color: #B8B8B8; font-family: 'Inter', sans-serif;">Double-mellowed for exceptional smoothness and character</p>
                     <div class="flex items-center justify-between">
-                      <span class="text-2xl font-bold text-amber-400">$32.99</span>
-                      <span class="text-sm text-slate-400">750ml</span>
+                          <span class="text-sm" style="color: #888888; font-family: 'Inter', sans-serif;">750ml</span>
+                        </div>
+                      </div>
                     </div>
                   </div>
                 </div>
               </div>
             </div>
           </div>
-        </div>
+        </div> -->
 
-        <!-- Featured Products -->
-        <div class="mb-16">
-          <h3 class="text-3xl font-bold text-white mb-8 text-center">More Premium Spirits</h3>
-          <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
-            <!-- Crown Royal -->
-            <div class="bg-slate-700 rounded-lg p-4 text-center hover:bg-slate-600 transition-colors duration-300">
-              <NuxtImg 
-                src="https://images.unsplash.com/photo-1608270586620-248524c67de9?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80" 
-                alt="Crown Royal Canadian Whisky"
-                class="w-24 h-32 object-cover rounded-lg mx-auto mb-4"
-              />
-              <h4 class="font-semibold text-sm mb-1 text-white">Crown Royal</h4>
-              <p class="text-xs text-slate-300 mb-2">Canadian Whisky</p>
-              <p class="text-sm font-semibold text-amber-400">$26.99</p>
-            </div>
-
-            <!-- Tito's Vodka -->
-            <div class="bg-slate-700 rounded-lg p-4 text-center hover:bg-slate-600 transition-colors duration-300">
-              <NuxtImg 
-                src="https://images.unsplash.com/photo-1608270586620-248524c67de9?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80" 
-                alt="Tito's Handmade Vodka"
-                class="w-24 h-32 object-cover rounded-lg mx-auto mb-4"
-              />
-              <h4 class="font-semibold text-sm mb-1 text-white">Tito's Handmade</h4>
-              <p class="text-xs text-slate-300 mb-2">Vodka</p>
-              <p class="text-sm font-semibold text-amber-400">$22.99</p>
-            </div>
-
-            <!-- Captain Morgan -->
-            <div class="card">
-              <div class="card-body text-center">
-                <NuxtImg 
-                  src="https://images.unsplash.com/photo-1608270586620-248524c67de9?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80" 
-                  alt="Captain Morgan Spiced Rum"
-                  class="w-24 h-32 object-cover rounded-lg mx-auto mb-4"
-                />
-                <h4 class="font-semibold text-sm mb-1">Captain Morgan</h4>
-                <p class="text-xs text-neutral-600 mb-2">Spiced Rum</p>
-                <p class="text-sm font-semibold text-primary-600">$19.99</p>
+        <!-- Products Section with Sidebar -->
+        <div class="flex flex-col lg:flex-row gap-8 mb-20">
+          <!-- Filter Sidebar -->
+          <div class="lg:w-1/4">
+            <div class="sticky top-8">
+              <div class="relative overflow-hidden rounded-2xl shadow-2xl" style="background: linear-gradient(145deg, #1A1A1A 0%, #0F0F0F 100%); border: 2px solid rgba(212, 175, 55, 0.2);">
+                <div class="absolute inset-0" style="background: linear-gradient(135deg, rgba(212, 175, 55, 0.05) 0%, transparent 50%, rgba(212, 175, 55, 0.05) 100%);"></div>
+                <div class="relative p-6">
+                  <div class="mb-6">
+                    <div class="w-16 h-0.5 mb-4" style="background: linear-gradient(90deg, transparent 0%, #D4AF37 50%, transparent 100%);"></div>
+                    <h3 class="text-2xl font-bold mb-2" style="color: #F5F5F5; font-family: 'Playfair Display', serif;">Filter Products</h3>
+                    <p class="text-sm" style="color: #B8B8B8; font-family: 'Inter', sans-serif;">Browse by category</p>
+                  </div>
+                  
+                  <!-- Category Filter -->
+                  <div class="mb-6">
+                    <h4 class="text-lg font-semibold mb-4" style="color: #D4AF37; font-family: 'Inter', sans-serif;">Category</h4>
+                    <div class="space-y-2">
+                      <label 
+                        v-for="category in categories" 
+                        :key="category"
+                        class="flex items-center space-x-3 cursor-pointer group"
+                      >
+                        <input 
+                          type="checkbox" 
+                          :value="category" 
+                          v-model="selectedCategories"
+                          class="sr-only"
+                        />
+                        <div 
+                          :class="[
+                            'w-4 h-4 rounded border-2 transition-all duration-300',
+                            selectedCategories.includes(category) 
+                              ? 'border-[#D4AF37] bg-[#D4AF37]' 
+                              : 'border-[#666666] group-hover:border-[#D4AF37]'
+                          ]"
+                        >
+                          <div 
+                            v-if="selectedCategories.includes(category)"
+                            class="w-2 h-2 bg-[#0A0A0A] rounded-sm mx-auto mt-0.5"
+                          ></div>
+                        </div>
+                        <span 
+                          :class="[
+                            'text-sm transition-colors duration-300',
+                            selectedCategories.includes(category) 
+                              ? 'text-[#D4AF37] font-semibold' 
+                              : 'text-[#B8B8B8] group-hover:text-[#E5E5E5]'
+                          ]"
+                          style="font-family: 'Inter', sans-serif;"
+                        >
+                          {{ category }} ({{ getProductCount(category) }})
+                        </span>
+                      </label>
+                    </div>
+                    
+                    <!-- Select All / Clear All -->
+                    <div class="mt-4 pt-4 border-t border-[#333333]">
+                      <div class="flex gap-2">
+                        <button 
+                          @click="selectAllCategories"
+                          class="text-xs px-3 py-1 rounded transition-all duration-300"
+                          style="color: #D4AF37; border: 1px solid #D4AF37; background: transparent; font-family: 'Inter', sans-serif;"
+                          @mouseover="$event.target.style.backgroundColor='#D4AF37'; $event.target.style.color='#0A0A0A';"
+                          @mouseout="$event.target.style.backgroundColor='transparent'; $event.target.style.color='#D4AF37';"
+                        >
+                          Select All
+                        </button>
+                        <button 
+                          @click="clearAllCategories"
+                          class="text-xs px-3 py-1 rounded transition-all duration-300"
+                          style="color: #B8B8B8; border: 1px solid #666666; background: transparent; font-family: 'Inter', sans-serif;"
+                          @mouseover="$event.target.style.backgroundColor='#666666'; $event.target.style.color='#F5F5F5';"
+                          @mouseout="$event.target.style.backgroundColor='transparent'; $event.target.style.color='#B8B8B8';"
+                        >
+                          Clear All
+                        </button>
+                      </div>
+                    </div>
+                  </div>
+                  
+                  <!-- Product Count Summary -->
+                  <div class="pt-4 border-t border-[#333333]">
+                    <div class="text-center">
+                      <p class="text-sm" style="color: #B8B8B8; font-family: 'Inter', sans-serif;">
+                        Showing {{ displayedProducts.length }} of {{ getTotalProductCount() }} products
+                      </p>
+                      <p v-if="selectedCategories.length > 1" class="text-xs mt-1" style="color: #666666; font-family: 'Inter', sans-serif;">
+                        {{ selectedCategories.length }} categories selected
+                      </p>
+                    </div>
+                  </div>
+                </div>
               </div>
             </div>
-
-            <!-- Patrón Tequila -->
-            <div class="card">
-              <div class="card-body text-center">
-                <NuxtImg 
-                  src="https://images.unsplash.com/photo-1608270586620-248524c67de9?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80" 
-                  alt="Patrón Silver Tequila"
-                  class="w-24 h-32 object-cover rounded-lg mx-auto mb-4"
-                />
-                <h4 class="font-semibold text-sm mb-1">Patrón Silver</h4>
-                <p class="text-xs text-neutral-600 mb-2">Tequila</p>
-                <p class="text-sm font-semibold text-primary-600">$49.99</p>
-              </div>
-            </div>
-
-            <!-- Bacardi -->
-            <div class="card">
-              <div class="card-body text-center">
-                <NuxtImg 
-                  src="https://images.unsplash.com/photo-1608270586620-248524c67de9?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80" 
-                  alt="Bacardi Superior White Rum"
-                  class="w-24 h-32 object-cover rounded-lg mx-auto mb-4"
-                />
-                <h4 class="font-semibold text-sm mb-1">Bacardi Superior</h4>
-                <p class="text-xs text-neutral-600 mb-2">White Rum</p>
-                <p class="text-sm font-semibold text-primary-600">$18.99</p>
-              </div>
-            </div>
-
-            <!-- Fireball -->
-            <div class="card">
-              <div class="card-body text-center">
-                <NuxtImg 
-                  src="https://images.unsplash.com/photo-1608270586620-248524c67de9?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80" 
-                  alt="Fireball Cinnamon Whisky"
-                  class="w-24 h-32 object-cover rounded-lg mx-auto mb-4"
-                />
-                <h4 class="font-semibold text-sm mb-1">Fireball</h4>
-                <p class="text-xs text-neutral-600 mb-2">Cinnamon Whisky</p>
-                <p class="text-sm font-semibold text-primary-600">$16.99</p>
-              </div>
-            </div>
-
-            <!-- Smirnoff -->
-            <div class="card">
-              <div class="card-body text-center">
-                <NuxtImg 
-                  src="https://images.unsplash.com/photo-1608270586620-248524c67de9?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80" 
-                  alt="Smirnoff Vodka"
-                  class="w-24 h-32 object-cover rounded-lg mx-auto mb-4"
-                />
-                <h4 class="font-semibold text-sm mb-1">Smirnoff</h4>
-                <p class="text-xs text-neutral-600 mb-2">Vodka</p>
-                <p class="text-sm font-semibold text-primary-600">$15.99</p>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <!-- Beer Selection -->
-        <div class="mb-16">
-          <h3 class="text-3xl font-bold text-white mb-8 text-center">Beer Selection</h3>
-          <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
-            <!-- Budweiser -->
-            <div class="card">
-              <div class="card-body text-center">
-                <NuxtImg 
-                  src="https://images.unsplash.com/photo-1608270586620-248524c67de9?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80" 
-                  alt="Budweiser American Lager"
-                  class="w-20 h-24 object-cover rounded-lg mx-auto mb-4"
-                />
-                <h4 class="font-semibold text-sm mb-1">Budweiser</h4>
-                <p class="text-xs text-neutral-600 mb-2">American Lager</p>
-                <p class="text-sm font-semibold text-primary-600">$8.99</p>
-              </div>
-            </div>
-
-            <!-- Coors Light -->
-            <div class="card">
-              <div class="card-body text-center">
-                <NuxtImg 
-                  src="https://images.unsplash.com/photo-1608270586620-248524c67de9?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80" 
-                  alt="Coors Light Lager"
-                  class="w-20 h-24 object-cover rounded-lg mx-auto mb-4"
-                />
-                <h4 class="font-semibold text-sm mb-1">Coors Light</h4>
-                <p class="text-xs text-neutral-600 mb-2">Light Lager</p>
-                <p class="text-sm font-semibold text-primary-600">$8.99</p>
-              </div>
-            </div>
-
-            <!-- Miller Lite -->
-            <div class="card">
-              <div class="card-body text-center">
-                <NuxtImg 
-                  src="https://images.unsplash.com/photo-1608270586620-248524c67de9?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80" 
-                  alt="Miller Lite Lager"
-                  class="w-20 h-24 object-cover rounded-lg mx-auto mb-4"
-                />
-                <h4 class="font-semibold text-sm mb-1">Miller Lite</h4>
-                <p class="text-xs text-neutral-600 mb-2">Light Lager</p>
-                <p class="text-sm font-semibold text-primary-600">$8.99</p>
-              </div>
-            </div>
-
-            <!-- Corona -->
-            <div class="card">
-              <div class="card-body text-center">
-                <NuxtImg 
-                  src="https://images.unsplash.com/photo-1608270586620-248524c67de9?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80" 
-                  alt="Corona Extra Mexican Lager"
-                  class="w-20 h-24 object-cover rounded-lg mx-auto mb-4"
-                />
-                <h4 class="font-semibold text-sm mb-1">Corona Extra</h4>
-                <p class="text-xs text-neutral-600 mb-2">Mexican Lager</p>
-                <p class="text-sm font-semibold text-primary-600">$9.99</p>
-              </div>
-            </div>
-
-            <!-- Heineken -->
-            <div class="card">
-              <div class="card-body text-center">
-                <NuxtImg 
-                  src="https://images.unsplash.com/photo-1608270586620-248524c67de9?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80" 
-                  alt="Heineken Dutch Lager"
-                  class="w-20 h-24 object-cover rounded-lg mx-auto mb-4"
-                />
-                <h4 class="font-semibold text-sm mb-1">Heineken</h4>
-                <p class="text-xs text-neutral-600 mb-2">Dutch Lager</p>
-                <p class="text-sm font-semibold text-primary-600">$9.99</p>
-              </div>
-            </div>
-
-            <!-- Stella Artois -->
-            <div class="card">
-              <div class="card-body text-center">
-                <NuxtImg 
-                  src="https://images.unsplash.com/photo-1608270586620-248524c67de9?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80" 
-                  alt="Stella Artois Belgian Lager"
-                  class="w-20 h-24 object-cover rounded-lg mx-auto mb-4"
-                />
-                <h4 class="font-semibold text-sm mb-1">Stella Artois</h4>
-                <p class="text-xs text-neutral-600 mb-2">Belgian Lager</p>
-                <p class="text-sm font-semibold text-primary-600">$10.99</p>
-              </div>
-            </div>
-
-            <!-- Michelob Ultra -->
-            <div class="card">
-              <div class="card-body text-center">
-                <NuxtImg 
-                  src="https://images.unsplash.com/photo-1608270586620-248524c67de9?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80" 
-                  alt="Michelob Ultra Light Beer"
-                  class="w-20 h-24 object-cover rounded-lg mx-auto mb-4"
-                />
-                <h4 class="font-semibold text-sm mb-1">Michelob Ultra</h4>
-                <p class="text-xs text-neutral-600 mb-2">Light Beer</p>
-                <p class="text-sm font-semibold text-primary-600">$8.99</p>
-              </div>
-            </div>
-
-            <!-- Guinness -->
-            <div class="card">
-              <div class="card-body text-center">
-                <NuxtImg 
-                  src="https://images.unsplash.com/photo-1608270586620-248524c67de9?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80" 
-                  alt="Guinness Irish Stout"
-                  class="w-20 h-24 object-cover rounded-lg mx-auto mb-4"
-                />
-                <h4 class="font-semibold text-sm mb-1">Guinness</h4>
-                <p class="text-xs text-neutral-600 mb-2">Irish Stout</p>
-                <p class="text-sm font-semibold text-primary-600">$9.99</p>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <!-- Wine Selection -->
-        <div class="mb-16">
-          <h3 class="text-3xl font-bold text-white mb-8 text-center">Wine Selection</h3>
-          <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
-            <!-- Barefoot -->
-            <div class="card">
-              <div class="card-body text-center">
-                <NuxtImg 
-                  src="https://images.unsplash.com/photo-1608270586620-248524c67de9?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80" 
-                  alt="Barefoot Red Wine"
-                  class="w-20 h-24 object-cover rounded-lg mx-auto mb-4"
-                />
-                <h4 class="font-semibold text-sm mb-1">Barefoot</h4>
-                <p class="text-xs text-neutral-600 mb-2">Red Wine</p>
-                <p class="text-sm font-semibold text-primary-600">$6.99</p>
-              </div>
-            </div>
-
-            <!-- Yellow Tail -->
-            <div class="card">
-              <div class="card-body text-center">
-                <NuxtImg 
-                  src="https://images.unsplash.com/photo-1608270586620-248524c67de9?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80" 
-                  alt="Yellow Tail Chardonnay"
-                  class="w-20 h-24 object-cover rounded-lg mx-auto mb-4"
-                />
-                <h4 class="font-semibold text-sm mb-1">Yellow Tail</h4>
-                <p class="text-xs text-neutral-600 mb-2">Chardonnay</p>
-                <p class="text-sm font-semibold text-primary-600">$7.99</p>
-              </div>
-            </div>
-
-            <!-- Sutter Home -->
-            <div class="card">
-              <div class="card-body text-center">
-                <NuxtImg 
-                  src="https://images.unsplash.com/photo-1608270586620-248524c67de9?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80" 
-                  alt="Sutter Home White Zinfandel"
-                  class="w-20 h-24 object-cover rounded-lg mx-auto mb-4"
-                />
-                <h4 class="font-semibold text-sm mb-1">Sutter Home</h4>
-                <p class="text-xs text-neutral-600 mb-2">White Zinfandel</p>
-                <p class="text-sm font-semibold text-primary-600">$5.99</p>
-              </div>
-            </div>
-
-            <!-- Franzia -->
-            <div class="card">
-              <div class="card-body text-center">
-                <NuxtImg 
-                  src="https://images.unsplash.com/photo-1608270586620-248524c67de9?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80" 
-                  alt="Franzia Box Wine"
-                  class="w-20 h-24 object-cover rounded-lg mx-auto mb-4"
-                />
-                <h4 class="font-semibold text-sm mb-1">Franzia</h4>
-                <p class="text-xs text-neutral-600 mb-2">Box Wine</p>
-                <p class="text-sm font-semibold text-primary-600">$12.99</p>
-              </div>
-            </div>
-
-            <!-- Cupcake -->
-            <div class="card">
-              <div class="card-body text-center">
-                <NuxtImg 
-                  src="https://images.unsplash.com/photo-1608270586620-248524c67de9?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80" 
-                  alt="Cupcake Moscato"
-                  class="w-20 h-24 object-cover rounded-lg mx-auto mb-4"
-                />
-                <h4 class="font-semibold text-sm mb-1">Cupcake</h4>
-                <p class="text-xs text-neutral-600 mb-2">Moscato</p>
-                <p class="text-sm font-semibold text-primary-600">$8.99</p>
-              </div>
-            </div>
-
-            <!-- Woodbridge -->
-            <div class="card">
-              <div class="card-body text-center">
-                <NuxtImg 
-                  src="https://images.unsplash.com/photo-1608270586620-248524c67de9?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80" 
-                  alt="Woodbridge Cabernet"
-                  class="w-20 h-24 object-cover rounded-lg mx-auto mb-4"
-                />
-                <h4 class="font-semibold text-sm mb-1">Woodbridge</h4>
-                <p class="text-xs text-neutral-600 mb-2">Cabernet</p>
-                <p class="text-sm font-semibold text-primary-600">$9.99</p>
-              </div>
-            </div>
-
-            <!-- Kendall Jackson -->
-            <div class="card">
-              <div class="card-body text-center">
-                <NuxtImg 
-                  src="https://images.unsplash.com/photo-1608270586620-248524c67de9?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80" 
-                  alt="Kendall Jackson Chardonnay"
-                  class="w-20 h-24 object-cover rounded-lg mx-auto mb-4"
-                />
-                <h4 class="font-semibold text-sm mb-1">Kendall Jackson</h4>
-                <p class="text-xs text-neutral-600 mb-2">Chardonnay</p>
-                <p class="text-sm font-semibold text-primary-600">$12.99</p>
-              </div>
-            </div>
-
-            <!-- Prosecco -->
-            <div class="card">
-              <div class="card-body text-center">
-                <NuxtImg 
-                  src="https://images.unsplash.com/photo-1608270586620-248524c67de9?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80" 
-                  alt="Prosecco Sparkling Wine"
-                  class="w-20 h-24 object-cover rounded-lg mx-auto mb-4"
-                />
-                <h4 class="font-semibold text-sm mb-1">Prosecco</h4>
-                <p class="text-xs text-neutral-600 mb-2">Sparkling Wine</p>
-                <p class="text-sm font-semibold text-primary-600">$11.99</p>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <!-- Special Features -->
-        <div class="bg-gradient-to-r from-slate-700 to-slate-600 rounded-2xl p-8 mb-16">
-          <div class="text-center mb-8">
-            <h3 class="text-3xl font-bold text-white mb-4">Why Choose Go For It Liquor?</h3>
-            <p class="text-lg text-slate-300">We're more than just a gas station - we're your premium liquor destination</p>
           </div>
           
-          <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
-            <div class="text-center">
-              <div class="w-16 h-16 bg-gradient-to-br from-amber-600 to-amber-700 rounded-full mx-auto mb-4 flex items-center justify-center">
-                <svg class="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
-                </svg>
+          <!-- Main Products Content -->
+          <div class="lg:w-3/4">
+            <div class="mb-8">
+              <div class="w-16 h-0.5 mb-4" style="background: linear-gradient(90deg, transparent 0%, #D4AF37 50%, transparent 100%);"></div>
+              <h3 class="text-4xl font-bold mb-4" style="color: #F5F5F5; font-family: 'Playfair Display', serif;">{{ getCollectionTitle() }}</h3>
+              <p class="text-lg" style="color: #E5E5E5; font-family: 'Inter', sans-serif; font-weight: 300;">{{ getCollectionDescription() }}</p>
+            </div>
+            
+            <!-- Loading State -->
+            <div v-if="loading" class="text-center py-12">
+              <div class="inline-block animate-spin rounded-full h-12 w-12 border-b-2" style="border-color: #D4AF37;"></div>
+              <p class="mt-4 text-lg" style="color: #E5E5E5; font-family: 'Inter', sans-serif;">Loading products...</p>
+            </div>
+            
+            <!-- Products Grid -->
+            <div v-else class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
+              <div 
+                v-for="product in displayedProducts" 
+                :key="`${product.category}-${product.name}`"
+                class="group relative overflow-hidden rounded-xl transition-all duration-500 hover:scale-105" 
+                style="background: linear-gradient(145deg, #1A1A1A 0%, #0F0F0F 100%); border: 1px solid rgba(212, 175, 55, 0.1);"
+              >
+                <div class="absolute inset-0" style="background: linear-gradient(135deg, rgba(212, 175, 55, 0.02) 0%, transparent 50%, rgba(212, 175, 55, 0.02) 100%);"></div>
+                <div class="relative p-4 text-center">
+                  <div class="relative mb-3">
+                    <NuxtImg 
+                      :src="product.image_url" 
+                      :alt="product.name"
+                      class="w-20 h-24 object-contain rounded-lg mx-auto transition-transform duration-500 group-hover:scale-110"
+                      loading="lazy"
+                    />
+                    <div class="absolute -top-1 -right-1 w-3 h-3 rounded-full" style="background-color: #D4AF37; animation: pulse 2s infinite;"></div>
+                  </div>
+                  <h4 class="font-bold text-xs mb-2 leading-tight" style="color: #F5F5F5; font-family: 'Playfair Display', serif;">{{ product.name }}</h4>
+                  <div v-if="product.rating" class="flex items-center justify-center mb-1">
+                    <div class="flex items-center">
+                      <svg class="w-3 h-3 mr-1" style="color: #D4AF37;" fill="currentColor" viewBox="0 0 20 20">
+                        <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path>
+                      </svg>
+                      <span class="text-xs font-semibold" style="color: #D4AF37; font-family: 'Inter', sans-serif;">{{ product.rating }}</span>
+                    </div>
+                  </div>
+                </div>
               </div>
-              <h4 class="font-semibold mb-2 text-white">Curated Selection</h4>
-              <p class="text-sm text-slate-300">Hand-picked premium brands</p>
+            </div>
+            
+            <!-- Load More Button -->
+            <div v-if="hasMoreProducts" class="text-center mt-12">
+              <button 
+                @click="loadMoreProducts"
+                class="px-8 py-3 text-lg font-semibold rounded-lg transition-all duration-500 border-2"
+                style="border-color: #D4AF37; color: #D4AF37; background: transparent; font-family: 'Inter', sans-serif;"
+                @mouseover="$event.target.style.backgroundColor='#D4AF37'; $event.target.style.color='#0A0A0A'; $event.target.style.boxShadow='0 0 30px rgba(212, 175, 55, 0.4)';"
+                @mouseout="$event.target.style.backgroundColor='transparent'; $event.target.style.color='#D4AF37'; $event.target.style.boxShadow='none';"
+              >
+                Load More Products
+              </button>
+            </div>
+          </div>
+        </div>
+
+
+        <!-- Why Choose Us -->
+        <div class="relative overflow-hidden rounded-2xl shadow-2xl mb-20" style="background: linear-gradient(145deg, #1A1A1A 0%, #0F0F0F 100%); border: 2px solid rgba(212, 175, 55, 0.2);">
+          <div class="absolute inset-0" style="background: linear-gradient(135deg, rgba(212, 175, 55, 0.05) 0%, transparent 50%, rgba(212, 175, 55, 0.05) 100%);"></div>
+          <div class="relative p-12">
+            <div class="text-center mb-12">
+              <div class="w-24 h-1 mx-auto mb-6" style="background: linear-gradient(90deg, transparent 0%, #D4AF37 50%, transparent 100%);"></div>
+              <h3 class="text-4xl font-bold mb-4" style="color: #F5F5F5; font-family: 'Playfair Display', serif;">Why Choose Us</h3>
+              <p class="text-lg" style="color: #D4AF37; font-family: 'Inter', sans-serif; font-weight: 500;">Your Premium Spirits Destination</p>
             </div>
 
-            <div class="text-center">
-              <div class="w-16 h-16 bg-gradient-to-br from-amber-600 to-amber-700 rounded-full mx-auto mb-4 flex items-center justify-center">
-                <svg class="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path>
-                </svg>
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+              <div class="text-center group">
+                <div class="w-20 h-20 mx-auto mb-6 flex items-center justify-center transition-transform duration-500 group-hover:scale-110" style="background: linear-gradient(135deg, rgba(212, 175, 55, 0.1) 0%, rgba(212, 175, 55, 0.2) 100%); border-radius: 50%;">
+                  <svg class="w-10 h-10" style="color: #D4AF37;" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="M5 13l4 4L19 7"></path>
+                  </svg>
               </div>
-              <h4 class="font-semibold mb-2 text-white">Convenient Hours</h4>
-              <p class="text-sm text-slate-300">Open daily 6 AM - 10 PM</p>
+                <h4 class="text-xl font-bold mb-3" style="color: #F5F5F5; font-family: 'Playfair Display', serif;">Curated Selection</h4>
+                <p class="text-sm" style="color: #B8B8B8; font-family: 'Inter', sans-serif;">Hand-picked premium brands</p>
+              </div>
+
+              <div class="text-center group">
+                <div class="w-20 h-20 mx-auto mb-6 flex items-center justify-center transition-transform duration-500 group-hover:scale-110" style="background: linear-gradient(135deg, rgba(212, 175, 55, 0.1) 0%, rgba(212, 175, 55, 0.2) 100%); border-radius: 50%;">
+                  <svg class="w-10 h-10" style="color: #D4AF37;" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                  </svg>
+            </div>
+                <h4 class="text-xl font-bold mb-3" style="color: #F5F5F5; font-family: 'Playfair Display', serif;">Convenient Hours</h4>
+                <p class="text-sm" style="color: #B8B8B8; font-family: 'Inter', sans-serif;">Open daily 6 AM - 10 PM</p>
             </div>
 
-            <div class="text-center">
-              <div class="w-16 h-16 bg-gradient-to-br from-amber-600 to-amber-700 rounded-full mx-auto mb-4 flex items-center justify-center">
-                <svg class="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z"></path>
-                </svg>
+              <div class="text-center group">
+                <div class="w-20 h-20 mx-auto mb-6 flex items-center justify-center transition-transform duration-500 group-hover:scale-110" style="background: linear-gradient(135deg, rgba(212, 175, 55, 0.1) 0%, rgba(212, 175, 55, 0.2) 100%); border-radius: 50%;">
+                  <svg class="w-10 h-10" style="color: #D4AF37;" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z"></path>
+                  </svg>
               </div>
-              <h4 class="font-semibold mb-2 text-white">Competitive Prices</h4>
-              <p class="text-sm text-slate-300">Great value on premium spirits</p>
+                <h4 class="text-xl font-bold mb-3" style="color: #F5F5F5; font-family: 'Playfair Display', serif;">Competitive Prices</h4>
+                <p class="text-sm" style="color: #B8B8B8; font-family: 'Inter', sans-serif;">Great value on premium spirits</p>
             </div>
 
-            <div class="text-center">
-              <div class="w-16 h-16 bg-gradient-to-br from-amber-600 to-amber-700 rounded-full mx-auto mb-4 flex items-center justify-center">
-                <svg class="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"></path>
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"></path>
-                </svg>
+              <div class="text-center group">
+                <div class="w-20 h-20 mx-auto mb-6 flex items-center justify-center transition-transform duration-500 group-hover:scale-110" style="background: linear-gradient(135deg, rgba(212, 175, 55, 0.1) 0%, rgba(212, 175, 55, 0.2) 100%); border-radius: 50%;">
+                  <svg class="w-10 h-10" style="color: #D4AF37;" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"></path>
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"></path>
+                  </svg>
               </div>
-              <h4 class="font-semibold mb-2 text-white">Local Convenience</h4>
-              <p class="text-sm text-slate-300">Right here in East Bethel</p>
+                <h4 class="text-xl font-bold mb-3" style="color: #F5F5F5; font-family: 'Playfair Display', serif;">Local Convenience</h4>
+                <p class="text-sm" style="color: #B8B8B8; font-family: 'Inter', sans-serif;">Right here in East Bethel</p>
+              </div>
             </div>
           </div>
         </div>
 
         <!-- Call to Action -->
         <div class="text-center">
-          <h3 class="text-3xl font-bold text-white mb-4">Ready to Explore Our Selection?</h3>
-          <p class="text-xl text-slate-300 mb-8">Visit us today and discover your new favorite spirit</p>
-          <div class="flex flex-col sm:flex-row gap-4 justify-center">
-            <a href="https://www.google.com/maps?cid=12853947706317488130" target="_blank" class="bg-amber-600 hover:bg-amber-700 text-white px-8 py-4 text-lg font-semibold rounded-lg shadow-lg hover:shadow-xl transition-all duration-300">
+          <div class="mb-8">
+            <div class="w-24 h-1 mx-auto mb-6" style="background: linear-gradient(90deg, transparent 0%, #D4AF37 50%, transparent 100%);"></div>
+            <h3 class="text-4xl font-bold mb-4" style="color: #F5F5F5; font-family: 'Playfair Display', serif;">Ready to Explore?</h3>
+            <p class="text-xl mb-8" style="color: #E5E5E5; font-family: 'Inter', sans-serif; font-weight: 300;">Visit us today and discover your new favorite spirit</p>
+          </div>
+          <div class="flex flex-col sm:flex-row gap-6 justify-center">
+            <a href="https://www.google.com/maps?cid=12853947706317488130" target="_blank" class="group px-10 py-4 text-lg font-semibold rounded-lg transition-all duration-500 border-2" style="border-color: #D4AF37; color: #D4AF37; background: transparent; font-family: 'Inter', sans-serif;" onmouseover="this.style.backgroundColor='#D4AF37'; this.style.color='#0A0A0A'; this.style.boxShadow='0 0 30px rgba(212, 175, 55, 0.4)';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#D4AF37'; this.style.boxShadow='none';">
+              <span class="flex items-center justify-center">
+                <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"></path>
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"></path>
+                </svg>
               Get Directions
+              </span>
             </a>
-            <a href="tel:+16513952174" class="bg-transparent border-2 border-amber-400 text-amber-400 hover:bg-amber-400 hover:text-slate-900 px-8 py-4 text-lg font-semibold rounded-lg transition-all duration-300">
+            <a href="tel:+16513952174" class="group px-10 py-4 text-lg font-semibold rounded-lg transition-all duration-500 border-2" style="border-color: #D4AF37; color: #D4AF37; background: transparent; font-family: 'Inter', sans-serif;" onmouseover="this.style.backgroundColor='#D4AF37'; this.style.color='#0A0A0A'; this.style.boxShadow='0 0 30px rgba(212, 175, 55, 0.4)';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#D4AF37'; this.style.boxShadow='none';">
+              <span class="flex items-center justify-center">
+                <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"></path>
+                </svg>
               Call Now
+              </span>
             </a>
           </div>
         </div>
@@ -486,12 +380,211 @@
 </template>
 
 <script setup>
-// SEO Meta
+import { ref, computed, onMounted, watch } from 'vue'
+
+// Reactive data
+const loading = ref(true)
+const selectedCategories = ref(['Vodka'])
+const productsPerPage = ref(20)
+const currentPage = ref(1)
+const allProducts = ref({})
+
+// Available categories
+const categories = ref(['Vodka', 'Beer', 'Seltzer', 'Sparkling & Sweet'])
+
+// Computed properties
+const displayedProducts = computed(() => {
+  const allSelectedProducts = []
+  selectedCategories.value.forEach(category => {
+    const categoryProducts = allProducts.value[category] || []
+    // Add category information to each product
+    const productsWithCategory = categoryProducts.map(product => ({
+      ...product,
+      category: category
+    }))
+    allSelectedProducts.push(...productsWithCategory)
+  })
+  
+  // Sort products by rating (highest to lowest)
+  const sortedProducts = allSelectedProducts.sort((a, b) => {
+    const ratingA = parseFloat(a.rating) || 0
+    const ratingB = parseFloat(b.rating) || 0
+    return ratingB - ratingA
+  })
+  
+  const startIndex = 0
+  const endIndex = currentPage.value * productsPerPage.value
+  return sortedProducts.slice(startIndex, endIndex)
+})
+
+const hasMoreProducts = computed(() => {
+  const allSelectedProducts = []
+  selectedCategories.value.forEach(category => {
+    const categoryProducts = allProducts.value[category] || []
+    allSelectedProducts.push(...categoryProducts)
+  })
+  return displayedProducts.value.length < allSelectedProducts.length
+})
+
+// Methods
+const loadProducts = async () => {
+  loading.value = true
+  try {
+    const [vodkaData, beerData, seltzerData, wineData] = await Promise.all([
+      $fetch('/vodka_data.json'),
+      $fetch('/beer_data.json'),
+      $fetch('/seltzer_data.json'),
+      $fetch('/sparkling_and_sweet_data.json')
+    ])
+    
+    allProducts.value = {
+      'Vodka': vodkaData.categories.Vodka.products,
+      'Beer': beerData.categories.Beer.products,
+      'Seltzer': seltzerData.categories.Seltzer.products,
+      'Sparkling & Sweet': wineData.categories['Sparkling & Sweet'].products
+    }
+  } catch (error) {
+    console.error('Error loading products:', error)
+  } finally {
+    loading.value = false
+  }
+}
+
+const getProductCount = (category) => {
+  return allProducts.value[category]?.length || 0
+}
+
+const getTotalProductCount = () => {
+  let total = 0
+  selectedCategories.value.forEach(category => {
+    total += getProductCount(category)
+  })
+  return total
+}
+
+const getCollectionTitle = () => {
+  if (selectedCategories.value.length === 0) {
+    return 'No Categories Selected'
+  } else if (selectedCategories.value.length === 1) {
+    return `${selectedCategories.value[0]} Collection`
+  } else if (selectedCategories.value.length === categories.value.length) {
+    return 'All Products Collection'
+  } else {
+    return 'Mixed Collection'
+  }
+}
+
+const getCollectionDescription = () => {
+  if (selectedCategories.value.length === 0) {
+    return 'Please select a category to view products'
+  } else if (selectedCategories.value.length === 1) {
+    return `Hand-selected ${selectedCategories.value[0].toLowerCase()} from the world's finest producers`
+  } else if (selectedCategories.value.length === categories.value.length) {
+    return 'Complete selection of premium spirits, craft beers, and fine wines from the world\'s finest producers'
+  } else {
+    return `Curated selection from ${selectedCategories.value.length} categories: ${selectedCategories.value.join(', ')}`
+  }
+}
+
+const selectAllCategories = () => {
+  selectedCategories.value = [...categories.value]
+}
+
+const clearAllCategories = () => {
+  selectedCategories.value = []
+}
+
+const loadMoreProducts = () => {
+  currentPage.value += 1
+}
+
+// Watch for category changes
+watch(selectedCategories, () => {
+  currentPage.value = 1
+}, { deep: true })
+
+// Lifecycle
+onMounted(() => {
+  loadProducts()
+})
+
 useHead({
-  title: 'Premium Liquor Selection - Go For It Liquor',
+  title: 'Premium Spirits Collection - Go For It Liquor',
   meta: [
-    { name: 'description', content: 'Discover our premium liquor selection at Go For It Liquor. Quality spirits, craft beer, and fine wines. Conveniently located in East Bethel, MN.' },
-    { name: 'keywords', content: 'liquor, spirits, whiskey, vodka, rum, tequila, craft beer, wine, premium alcohol, East Bethel, Jack Daniels' }
+    { name: 'description', content: 'Discover our premium spirits collection at Go For It Liquor. Hand-selected whiskey, vodka, rum, tequila, craft beer, and fine wines. Expert curation in East Bethel, MN.' },
+    { name: 'keywords', content: 'premium spirits, whiskey collection, vodka, rum, tequila, craft beer, fine wine, Jack Daniels, East Bethel, Minnesota' }
   ]
 })
 </script>
+
+<style scoped>
+@keyframes pulse {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.5;
+  }
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeInLeft {
+  from {
+    opacity: 0;
+    transform: translateX(-30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes fadeInRight {
+  from {
+    opacity: 0;
+    transform: translateX(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+.animate-fade-in-up {
+  animation: fadeInUp 0.8s ease-out;
+}
+
+.animate-fade-in-left {
+  animation: fadeInLeft 0.8s ease-out;
+}
+
+.animate-fade-in-right {
+  animation: fadeInRight 0.8s ease-out;
+}
+
+.animate-delay-200 {
+  animation-delay: 0.2s;
+}
+
+.animate-delay-400 {
+  animation-delay: 0.4s;
+}
+
+.animate-delay-600 {
+  animation-delay: 0.6s;
+}
+
+.animate-delay-800 {
+  animation-delay: 0.8s;
+}
+</style>

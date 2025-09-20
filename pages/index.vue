@@ -58,30 +58,44 @@
           </p>
         </div>
         
-        <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
-          <!-- Jack Daniel's -->
+        <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+          
+
+          <!-- Buffalo Trace -->
           <div class="group relative overflow-hidden rounded-2xl transition-all duration-700 hover:scale-105" style="background: linear-gradient(145deg, #1A1A1A 0%, #0F0F0F 100%); border: 1px solid rgba(212, 175, 55, 0.1);">
             <div class="p-8 text-center">
               <div class="mb-6">
                 <NuxtImg 
-                  src="/jack_daniel.png" 
-                  alt="Jack Daniel's Tennessee Whiskey"
-                  class="w-32 h-40 object-contain mx-auto drop-shadow-2xl transition-transform duration-500 group-hover:scale-110"
+                  src="/buffalo_trace_dark.png" 
+                  alt="Buffalo Trace Kentucky Straight Bourbon Whiskey"
+                  class="object-contain mx-auto drop-shadow-2xl transition-transform duration-500 group-hover:scale-110"
+                  loading="lazy"
                 />
-            </div>
+              </div>
               <div class="mb-4">
                 <div class="w-16 h-0.5 mx-auto mb-3" style="background: linear-gradient(90deg, transparent 0%, #D4AF37 50%, transparent 100%);"></div>
-                <h3 class="text-2xl font-bold mb-2" style="color: #F5F5F5; font-family: 'Playfair Display', serif;">Jack Daniel's</h3>
-                <p class="text-sm mb-4" style="color: #D4AF37; font-family: 'Inter', sans-serif; font-weight: 500;">Tennessee Whiskey</p>
+                <h3 class="text-2xl font-bold mb-2" style="color: #F5F5F5; font-family: 'Playfair Display', serif;">Buffalo Trace</h3>
+                <p class="text-sm" style="color: #D4AF37; font-family: 'Inter', sans-serif; font-weight: 500;">Premium Bourbon</p>
+              </div>
             </div>
-              <p class="text-sm leading-relaxed mb-6" style="color: #B8B8B8; font-family: 'Inter', sans-serif;">
-                The world's most awarded whiskey, crafted with tradition and excellence since 1866
-              </p>
-              <div class="text-xs space-y-1" style="color: #888888; font-family: 'Inter', sans-serif;">
-                <p>• Old No. 7</p>
-                <p>• Gentleman Jack</p>
-                <p>• Single Barrel</p>
-            </div>
+          </div>
+
+          <!-- Yellow Tail -->
+          <div class="group relative overflow-hidden rounded-2xl transition-all duration-700 hover:scale-105" style="background: linear-gradient(145deg, #1A1A1A 0%, #0F0F0F 100%); border: 1px solid rgba(212, 175, 55, 0.1);">
+            <div class="p-8 text-center">
+              <div class="mb-6">
+                <NuxtImg 
+                  src="/tail_dark_1.png" 
+                  alt="Yellow Tail Jammy Red Roo Wine"
+                  class="object-contain mx-auto drop-shadow-2xl transition-transform duration-500 group-hover:scale-110"
+                  loading="lazy"
+                />
+              </div>
+              <div class="mb-4">
+                <div class="w-16 h-0.5 mx-auto mb-3" style="background: linear-gradient(90deg, transparent 0%, #D4AF37 50%, transparent 100%);"></div>
+                <h3 class="text-2xl font-bold mb-2" style="color: #F5F5F5; font-family: 'Playfair Display', serif;">Yellow Tail</h3>
+                <p class="text-sm" style="color: #D4AF37; font-family: 'Inter', sans-serif; font-weight: 500;">Premium Wine</p>
+              </div>
             </div>
           </div>
 
@@ -111,57 +125,6 @@
             </div>
           </div>
           
-          <!-- Moët & Chandon -->
-          <div class="group relative overflow-hidden rounded-2xl transition-all duration-700 hover:scale-105" style="background: linear-gradient(145deg, #1A1A1A 0%, #0F0F0F 100%); border: 1px solid rgba(212, 175, 55, 0.1);">
-            <div class="p-8 text-center">
-              <div class="mb-6">
-                <div class="w-32 h-40 mx-auto flex items-center justify-center" style="background: linear-gradient(135deg, rgba(212, 175, 55, 0.05) 0%, rgba(212, 175, 55, 0.1) 100%); border-radius: 12px;">
-                  <svg class="w-20 h-20 transition-transform duration-500 group-hover:scale-110" style="color: #D4AF37;" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z"></path>
-                  </svg>
-                </div>
-              </div>
-              <div class="mb-4">
-                <div class="w-16 h-0.5 mx-auto mb-3" style="background: linear-gradient(90deg, transparent 0%, #D4AF37 50%, transparent 100%);"></div>
-                <h3 class="text-2xl font-bold mb-2" style="color: #F5F5F5; font-family: 'Playfair Display', serif;">Moët & Chandon</h3>
-                <p class="text-sm mb-4" style="color: #D4AF37; font-family: 'Inter', sans-serif; font-weight: 500;">Champagne</p>
-              </div>
-              <p class="text-sm leading-relaxed mb-6" style="color: #B8B8B8; font-family: 'Inter', sans-serif;">
-                The world's most loved champagne, celebrating life's finest moments
-              </p>
-              <div class="text-xs space-y-1" style="color: #888888; font-family: 'Inter', sans-serif;">
-                <p>• Impérial</p>
-                <p>• Rosé Impérial</p>
-                <p>• Grand Vintage</p>
-              </div>
-            </div>
-          </div>
-          
-          <!-- Craft Beer -->
-          <div class="group relative overflow-hidden rounded-2xl transition-all duration-700 hover:scale-105" style="background: linear-gradient(145deg, #1A1A1A 0%, #0F0F0F 100%); border: 1px solid rgba(212, 175, 55, 0.1);">
-            <div class="p-8 text-center">
-              <div class="mb-6">
-                <div class="w-32 h-40 mx-auto flex items-center justify-center" style="background: linear-gradient(135deg, rgba(212, 175, 55, 0.05) 0%, rgba(212, 175, 55, 0.1) 100%); border-radius: 12px;">
-                  <svg class="w-20 h-20 transition-transform duration-500 group-hover:scale-110" style="color: #D4AF37;" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z"></path>
-                  </svg>
-                </div>
-              </div>
-              <div class="mb-4">
-                <div class="w-16 h-0.5 mx-auto mb-3" style="background: linear-gradient(90deg, transparent 0%, #D4AF37 50%, transparent 100%);"></div>
-                <h3 class="text-2xl font-bold mb-2" style="color: #F5F5F5; font-family: 'Playfair Display', serif;">Craft Selection</h3>
-                <p class="text-sm mb-4" style="color: #D4AF37; font-family: 'Inter', sans-serif; font-weight: 500;">Artisan Brews</p>
-              </div>
-              <p class="text-sm leading-relaxed mb-6" style="color: #B8B8B8; font-family: 'Inter', sans-serif;">
-                Curated selection of local and international craft breweries
-              </p>
-              <div class="text-xs space-y-1" style="color: #888888; font-family: 'Inter', sans-serif;">
-                <p>• Local Breweries</p>
-                <p>• Imported Ales</p>
-                <p>• Seasonal Releases</p>
-              </div>
-            </div>
-          </div>
         </div>
       </div>
     </section>

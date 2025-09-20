@@ -1,204 +1,324 @@
 <template>
   <div>
     <!-- Hero Section -->
-    <section class="relative h-80 flex items-center justify-center overflow-hidden bg-gradient-to-br from-slate-900 via-slate-800 to-amber-900">
+    <section class="relative min-h-screen flex items-center justify-center overflow-hidden" style="background: linear-gradient(135deg, #0A0A0A 0%, #1A1A1A 50%, #0F0F0F 100%);">
       <div class="absolute inset-0">
         <NuxtImg 
           src="/test_image.jpg" 
-          alt="Go For It Liquor Store Interior"
-          class="w-full h-full object-cover opacity-30"
+          alt="Premium Convenience Experience at Go For It Liquor"
+          class="w-full h-full object-cover opacity-20"
+          loading="eager"
+          preload
         />
-        <div class="absolute inset-0 bg-gradient-to-br from-slate-900/80 via-slate-800/70 to-amber-900/80"></div>
+        <div class="absolute inset-0" style="background: linear-gradient(135deg, rgba(10, 10, 10, 0.95) 0%, rgba(26, 26, 26, 0.85) 50%, rgba(15, 15, 15, 0.95) 100%);"></div>
       </div>
-      <div class="relative z-10 text-center text-white">
-        <h1 class="text-4xl md:text-6xl font-bold mb-6 text-shadow-lg">Convenience Store</h1>
-        <p class="text-xl md:text-2xl text-amber-100 text-shadow">Everything you need, right here</p>
+      
+      <div class="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+        <div class="mb-8">
+          <div class="w-24 h-1 mx-auto mb-6" style="background: linear-gradient(90deg, transparent 0%, #D4AF37 50%, transparent 100%);"></div>
+        </div>
+        <h1 class="text-6xl md:text-8xl font-bold mb-8 leading-tight" style="color: #F5F5F5; font-family: 'Playfair Display', serif; letter-spacing: -0.02em;">
+          Premium<br><span style="color: #D4AF37;">Convenience</span>
+        </h1>
+        <div class="w-32 h-1 mx-auto mb-8" style="background: linear-gradient(90deg, transparent 0%, #D4AF37 50%, transparent 100%);"></div>
+        <p class="text-xl md:text-2xl mb-12 max-w-3xl mx-auto leading-relaxed" style="color: #E5E5E5; font-family: 'Inter', sans-serif; font-weight: 300;">
+          Curated essentials, artisanal coffee, and gourmet selections.<br>
+          <span style="color: #D4AF37;">Quality • Convenience • Excellence</span>
+        </p>
+        <div class="flex flex-col sm:flex-row gap-6 justify-center">
+          <a href="https://www.google.com/maps?cid=12853947706317488130" target="_blank" class="group px-10 py-4 text-lg font-semibold rounded-lg transition-all duration-500 border-2" style="border-color: #D4AF37; color: #D4AF37; background: transparent; font-family: 'Inter', sans-serif;" onmouseover="this.style.backgroundColor='#D4AF37'; this.style.color='#0A0A0A'; this.style.boxShadow='0 0 30px rgba(212, 175, 55, 0.4)';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#D4AF37'; this.style.boxShadow='none';">
+            <span class="flex items-center justify-center">
+              <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"></path>
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"></path>
+              </svg>
+              Visit Our Store
+            </span>
+          </a>
+          <a href="tel:+16513952174" class="group px-10 py-4 text-lg font-semibold rounded-lg transition-all duration-500 border-2" style="border-color: #D4AF37; color: #D4AF37; background: transparent; font-family: 'Inter', sans-serif;" onmouseover="this.style.backgroundColor='#D4AF37'; this.style.color='#0A0A0A'; this.style.boxShadow='0 0 30px rgba(212, 175, 55, 0.4)';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#D4AF37'; this.style.boxShadow='none';">
+            <span class="flex items-center justify-center">
+              <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"></path>
+              </svg>
+              Call Now
+            </span>
+          </a>
+        </div>
       </div>
     </section>
 
-    <!-- Store Highlights -->
-    <section class="py-20 bg-slate-800">
+    <!-- Curated Essentials Section -->
+    <section class="py-24" style="background: linear-gradient(135deg, #0A0A0A 0%, #1A1A1A 50%, #0F0F0F 100%);">
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div class="text-center mb-16">
-          <h2 class="text-4xl md:text-5xl font-bold text-white mb-6">Why Stop at Go For It Liquor?</h2>
-          <p class="text-xl text-slate-300 max-w-3xl mx-auto">
-            Our convenience store offers a wide variety of fresh food, snacks, drinks, and everyday essentials. 
-            We're committed to providing quick, friendly service and quality products at competitive prices.
+        <div class="text-center mb-20">
+          <div class="w-24 h-1 mx-auto mb-6" style="background: linear-gradient(90deg, transparent 0%, #D4AF37 50%, transparent 100%);"></div>
+          <h2 class="text-5xl md:text-6xl font-bold mb-8" style="color: #F5F5F5; font-family: 'Playfair Display', serif; letter-spacing: -0.02em;">Curated Essentials</h2>
+          <p class="text-xl max-w-4xl mx-auto leading-relaxed" style="color: #E5E5E5; font-family: 'Inter', sans-serif; font-weight: 300;">
+            Hand-selected premium products, artisanal coffee, and gourmet selections for the discerning customer
           </p>
         </div>
 
-        <!-- Product Categories -->
-        <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-8 mb-16">
-          <div class="bg-gradient-to-br from-amber-800 to-amber-700 rounded-2xl overflow-hidden shadow-xl hover:shadow-2xl transition-all duration-300 hover:scale-105">
-            <div class="absolute top-4 right-4 z-10">
-              <span class="bg-red-600 text-white px-3 py-1 rounded-full text-sm font-bold">Fresh Daily</span>
+        <!-- Premium Categories -->
+        <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-8 mb-20">
+          <!-- Artisanal Coffee -->
+          <div class="group relative overflow-hidden rounded-2xl transition-all duration-700 hover:scale-105" style="background: linear-gradient(145deg, #1A1A1A 0%, #0F0F0F 100%); border: 1px solid rgba(212, 175, 55, 0.1);">
+            <div class="absolute top-6 right-6 z-10">
+              <div class="relative">
+                <div class="px-4 py-2 rounded-full text-sm font-semibold" style="background: linear-gradient(135deg, #D4AF37 0%, #B8941F 100%); color: #0A0A0A; font-family: 'Inter', sans-serif;">
+                  Artisanal
+                </div>
+                <div class="absolute -top-1 -right-1 w-3 h-3 rounded-full" style="background-color: #D4AF37; animation: pulse 2s infinite;"></div>
+              </div>
             </div>
-            <NuxtImg 
-              src="https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80" 
-              alt="Fresh Coffee Selection"
-              class="w-full h-48 object-cover"
-            />
-            <div class="p-6">
-              <h3 class="text-xl font-bold text-white mb-3">Coffee & Hot Drinks</h3>
-              <p class="text-amber-100 mb-4">Premium coffee blends, hot chocolate, tea, and specialty drinks.</p>
-              <ul class="text-sm text-amber-200 space-y-1">
-                <li>• Regular & Decaf Coffee</li>
-                <li>• Espresso Drinks</li>
-                <li>• Hot Chocolate</li>
-                <li>• Tea Selection</li>
-              </ul>
-            </div>
-          </div>
-
-          <div class="bg-gradient-to-br from-red-800 to-red-700 rounded-2xl overflow-hidden shadow-xl hover:shadow-2xl transition-all duration-300 hover:scale-105">
-            <div class="absolute top-4 right-4 z-10">
-              <span class="bg-red-600 text-white px-3 py-1 rounded-full text-sm font-bold">Hot & Fresh</span>
-            </div>
-            <NuxtImg 
-              src="https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80" 
-              alt="Hot Food Selection"
-              class="w-full h-48 object-cover"
-            />
-            <div class="p-6">
-              <h3 class="text-xl font-bold text-white mb-3">Hot Food</h3>
-              <p class="text-red-100 mb-4">Fresh sandwiches, hot dogs, and daily specials made fresh.</p>
-              <ul class="text-sm text-red-200 space-y-1">
-                <li>• Fresh Sandwiches</li>
-                <li>• Hot Dogs & Sausages</li>
-                <li>• Pizza Slices</li>
-                <li>• Daily Specials</li>
-              </ul>
+            <div class="p-8">
+              <div class="mb-6">
+                <div class="w-32 h-32 mx-auto flex items-center justify-center" style="background: linear-gradient(135deg, rgba(212, 175, 55, 0.05) 0%, rgba(212, 175, 55, 0.1) 100%); border-radius: 12px;">
+                  <svg class="w-20 h-20 transition-transform duration-500 group-hover:scale-110" style="color: #D4AF37;" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z"></path>
+                  </svg>
+                </div>
+              </div>
+              <div class="mb-4">
+                <div class="w-16 h-0.5 mx-auto mb-3" style="background: linear-gradient(90deg, transparent 0%, #D4AF37 50%, transparent 100%);"></div>
+                <h3 class="text-2xl font-bold mb-2" style="color: #F5F5F5; font-family: 'Playfair Display', serif;">Artisanal Coffee</h3>
+                <p class="text-sm mb-4" style="color: #D4AF37; font-family: 'Inter', sans-serif; font-weight: 500;">Premium Blends</p>
+              </div>
+              <p class="text-sm leading-relaxed mb-6" style="color: #B8B8B8; font-family: 'Inter', sans-serif;">
+                Hand-roasted beans, specialty drinks, and expertly crafted beverages
+              </p>
+              <div class="text-xs space-y-1" style="color: #888888; font-family: 'Inter', sans-serif;">
+                <p>• Single Origin Beans</p>
+                <p>• Espresso Drinks</p>
+                <p>• Cold Brew Selection</p>
+              </div>
             </div>
           </div>
 
-          <div class="bg-gradient-to-br from-slate-700 to-slate-600 rounded-2xl overflow-hidden shadow-xl hover:shadow-2xl transition-all duration-300 hover:scale-105">
-            <div class="absolute top-4 right-4 z-10">
-              <span class="bg-red-600 text-white px-3 py-1 rounded-full text-sm font-bold">Wide Selection</span>
+          <!-- Gourmet Food -->
+          <div class="group relative overflow-hidden rounded-2xl transition-all duration-700 hover:scale-105" style="background: linear-gradient(145deg, #1A1A1A 0%, #0F0F0F 100%); border: 1px solid rgba(212, 175, 55, 0.1);">
+            <div class="absolute top-6 right-6 z-10">
+              <div class="relative">
+                <div class="px-4 py-2 rounded-full text-sm font-semibold" style="background: linear-gradient(135deg, #D4AF37 0%, #B8941F 100%); color: #0A0A0A; font-family: 'Inter', sans-serif;">
+                  Gourmet
+                </div>
+                <div class="absolute -top-1 -right-1 w-3 h-3 rounded-full" style="background-color: #D4AF37; animation: pulse 2s infinite;"></div>
+              </div>
             </div>
-            <NuxtImg 
-              src="https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80" 
-              alt="Snacks and Drinks"
-              class="w-full h-48 object-cover"
-            />
-            <div class="p-6">
-              <h3 class="text-xl font-bold text-white mb-3">Snacks & Drinks</h3>
-              <p class="text-slate-200 mb-4">Chips, candy, cold beverages, and energy drinks.</p>
-              <ul class="text-sm text-slate-300 space-y-1">
-                <li>• Chips & Crackers</li>
-                <li>• Candy & Chocolate</li>
-                <li>• Cold Beverages</li>
-                <li>• Energy Drinks</li>
-              </ul>
+            <div class="p-8">
+              <div class="mb-6">
+                <div class="w-32 h-32 mx-auto flex items-center justify-center" style="background: linear-gradient(135deg, rgba(212, 175, 55, 0.05) 0%, rgba(212, 175, 55, 0.1) 100%); border-radius: 12px;">
+                  <svg class="w-20 h-20 transition-transform duration-500 group-hover:scale-110" style="color: #D4AF37;" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z"></path>
+                  </svg>
+                </div>
+              </div>
+              <div class="mb-4">
+                <div class="w-16 h-0.5 mx-auto mb-3" style="background: linear-gradient(90deg, transparent 0%, #D4AF37 50%, transparent 100%);"></div>
+                <h3 class="text-2xl font-bold mb-2" style="color: #F5F5F5; font-family: 'Playfair Display', serif;">Gourmet Food</h3>
+                <p class="text-sm mb-4" style="color: #D4AF37; font-family: 'Inter', sans-serif; font-weight: 500;">Fresh Daily</p>
+              </div>
+              <p class="text-sm leading-relaxed mb-6" style="color: #B8B8B8; font-family: 'Inter', sans-serif;">
+                Handcrafted sandwiches, artisanal pizzas, and chef-inspired selections
+              </p>
+              <div class="text-xs space-y-1" style="color: #888888; font-family: 'Inter', sans-serif;">
+                <p>• Artisan Sandwiches</p>
+                <p>• Wood-Fired Pizza</p>
+                <p>• Chef Specials</p>
+              </div>
             </div>
           </div>
 
-          <div class="bg-gradient-to-br from-amber-700 to-amber-600 rounded-2xl overflow-hidden shadow-xl hover:shadow-2xl transition-all duration-300 hover:scale-105">
-            <div class="absolute top-4 right-4 z-10">
-              <span class="bg-red-600 text-white px-3 py-1 rounded-full text-sm font-bold">Daily Essentials</span>
+          <!-- Premium Snacks -->
+          <div class="group relative overflow-hidden rounded-2xl transition-all duration-700 hover:scale-105" style="background: linear-gradient(145deg, #1A1A1A 0%, #0F0F0F 100%); border: 1px solid rgba(212, 175, 55, 0.1);">
+            <div class="absolute top-6 right-6 z-10">
+              <div class="relative">
+                <div class="px-4 py-2 rounded-full text-sm font-semibold" style="background: linear-gradient(135deg, #D4AF37 0%, #B8941F 100%); color: #0A0A0A; font-family: 'Inter', sans-serif;">
+                  Premium
+                </div>
+                <div class="absolute -top-1 -right-1 w-3 h-3 rounded-full" style="background-color: #D4AF37; animation: pulse 2s infinite;"></div>
+              </div>
             </div>
-            <NuxtImg 
-              src="https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80" 
-              alt="Daily Essentials"
-              class="w-full h-48 object-cover"
-            />
-            <div class="p-6">
-              <h3 class="text-xl font-bold text-white mb-3">Daily Essentials</h3>
-              <p class="text-amber-100 mb-4">Tobacco products, lottery tickets, and everyday items.</p>
-              <ul class="text-sm text-amber-200 space-y-1">
-                <li>• Tobacco Products</li>
-                <li>• Lottery Tickets</li>
-                <li>• Basic Medications</li>
-                <li>• Personal Care</li>
-              </ul>
+            <div class="p-8">
+              <div class="mb-6">
+                <div class="w-32 h-32 mx-auto flex items-center justify-center" style="background: linear-gradient(135deg, rgba(212, 175, 55, 0.05) 0%, rgba(212, 175, 55, 0.1) 100%); border-radius: 12px;">
+                  <svg class="w-20 h-20 transition-transform duration-500 group-hover:scale-110" style="color: #D4AF37;" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z"></path>
+                  </svg>
+                </div>
+              </div>
+              <div class="mb-4">
+                <div class="w-16 h-0.5 mx-auto mb-3" style="background: linear-gradient(90deg, transparent 0%, #D4AF37 50%, transparent 100%);"></div>
+                <h3 class="text-2xl font-bold mb-2" style="color: #F5F5F5; font-family: 'Playfair Display', serif;">Premium Snacks</h3>
+                <p class="text-sm mb-4" style="color: #D4AF37; font-family: 'Inter', sans-serif; font-weight: 500;">Curated Selection</p>
+              </div>
+              <p class="text-sm leading-relaxed mb-6" style="color: #B8B8B8; font-family: 'Inter', sans-serif;">
+                Hand-selected gourmet snacks, organic options, and international treats
+              </p>
+              <div class="text-xs space-y-1" style="color: #888888; font-family: 'Inter', sans-serif;">
+                <p>• Organic Options</p>
+                <p>• International Treats</p>
+                <p>• Artisan Chocolates</p>
+              </div>
+            </div>
+          </div>
+
+          <!-- Essential Services -->
+          <div class="group relative overflow-hidden rounded-2xl transition-all duration-700 hover:scale-105" style="background: linear-gradient(145deg, #1A1A1A 0%, #0F0F0F 100%); border: 1px solid rgba(212, 175, 55, 0.1);">
+            <div class="absolute top-6 right-6 z-10">
+              <div class="relative">
+                <div class="px-4 py-2 rounded-full text-sm font-semibold" style="background: linear-gradient(135deg, #D4AF37 0%, #B8941F 100%); color: #0A0A0A; font-family: 'Inter', sans-serif;">
+                  Services
+                </div>
+                <div class="absolute -top-1 -right-1 w-3 h-3 rounded-full" style="background-color: #D4AF37; animation: pulse 2s infinite;"></div>
+              </div>
+            </div>
+            <div class="p-8">
+              <div class="mb-6">
+                <div class="w-32 h-32 mx-auto flex items-center justify-center" style="background: linear-gradient(135deg, rgba(212, 175, 55, 0.05) 0%, rgba(212, 175, 55, 0.1) 100%); border-radius: 12px;">
+                  <svg class="w-20 h-20 transition-transform duration-500 group-hover:scale-110" style="color: #D4AF37;" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z"></path>
+                  </svg>
+                </div>
+              </div>
+              <div class="mb-4">
+                <div class="w-16 h-0.5 mx-auto mb-3" style="background: linear-gradient(90deg, transparent 0%, #D4AF37 50%, transparent 100%);"></div>
+                <h3 class="text-2xl font-bold mb-2" style="color: #F5F5F5; font-family: 'Playfair Display', serif;">Essential Services</h3>
+                <p class="text-sm mb-4" style="color: #D4AF37; font-family: 'Inter', sans-serif; font-weight: 500;">Complete Convenience</p>
+              </div>
+              <p class="text-sm leading-relaxed mb-6" style="color: #B8B8B8; font-family: 'Inter', sans-serif;">
+                Premium tobacco, lottery services, and essential convenience items
+              </p>
+              <div class="text-xs space-y-1" style="color: #888888; font-family: 'Inter', sans-serif;">
+                <p>• Premium Tobacco</p>
+                <p>• Lottery Services</p>
+                <p>• Essential Items</p>
+              </div>
             </div>
           </div>
         </div>
 
-        <!-- Featured Products -->
-        <div class="bg-gradient-to-br from-slate-700 to-slate-600 rounded-2xl p-8">
-          <h3 class="text-3xl font-bold text-white text-center mb-8">Featured Products</h3>
-          <div class="grid md:grid-cols-3 gap-8">
-            <div class="bg-slate-800 rounded-lg p-6 text-center hover:bg-slate-700 transition-colors duration-300">
-              <div class="w-16 h-16 bg-gradient-to-br from-amber-600 to-amber-700 rounded-full flex items-center justify-center mx-auto mb-4">
-                <svg class="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4"></path>
+        <!-- Signature Experience -->
+        <div class="relative overflow-hidden rounded-2xl shadow-2xl" style="background: linear-gradient(145deg, #1A1A1A 0%, #0F0F0F 100%); border: 2px solid rgba(212, 175, 55, 0.2);">
+          <div class="absolute inset-0" style="background: linear-gradient(135deg, rgba(212, 175, 55, 0.05) 0%, transparent 50%, rgba(212, 175, 55, 0.05) 100%);"></div>
+          <div class="relative p-12">
+            <div class="text-center mb-12">
+              <div class="w-24 h-1 mx-auto mb-6" style="background: linear-gradient(90deg, transparent 0%, #D4AF37 50%, transparent 100%);"></div>
+              <h3 class="text-4xl font-bold mb-4" style="color: #F5F5F5; font-family: 'Playfair Display', serif;">Signature Experience</h3>
+              <p class="text-lg" style="color: #D4AF37; font-family: 'Inter', sans-serif; font-weight: 500;">Where Premium Meets Convenience</p>
+            </div>
+            <div class="grid md:grid-cols-3 gap-8">
+              <div class="text-center group">
+                <div class="w-20 h-20 mx-auto mb-6 flex items-center justify-center transition-transform duration-500 group-hover:scale-110" style="background: linear-gradient(135deg, rgba(212, 175, 55, 0.1) 0%, rgba(212, 175, 55, 0.2) 100%); border-radius: 50%;">
+                  <svg class="w-10 h-10" style="color: #D4AF37;" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z"></path>
                 </svg>
               </div>
-              <h4 class="text-lg font-semibold text-white mb-2">Premium Coffee</h4>
-              <p class="text-sm text-slate-300">Freshly brewed premium coffee available all day</p>
+                <h4 class="text-xl font-bold mb-3" style="color: #F5F5F5; font-family: 'Playfair Display', serif;">Artisanal Coffee</h4>
+                <p class="text-sm" style="color: #B8B8B8; font-family: 'Inter', sans-serif;">Hand-roasted beans and expertly crafted beverages</p>
             </div>
             
-            <div class="bg-slate-800 rounded-lg p-6 text-center hover:bg-slate-700 transition-colors duration-300">
-              <div class="w-16 h-16 bg-gradient-to-br from-amber-600 to-amber-700 rounded-full flex items-center justify-center mx-auto mb-4">
-                <svg class="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+              <div class="text-center group">
+                <div class="w-20 h-20 mx-auto mb-6 flex items-center justify-center transition-transform duration-500 group-hover:scale-110" style="background: linear-gradient(135deg, rgba(212, 175, 55, 0.1) 0%, rgba(212, 175, 55, 0.2) 100%); border-radius: 50%;">
+                  <svg class="w-10 h-10" style="color: #D4AF37;" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z"></path>
                 </svg>
               </div>
-              <h4 class="text-lg font-semibold text-white mb-2">Hot Food</h4>
-              <p class="text-sm text-slate-300">Fresh sandwiches and hot food made daily</p>
+                <h4 class="text-xl font-bold mb-3" style="color: #F5F5F5; font-family: 'Playfair Display', serif;">Gourmet Food</h4>
+                <p class="text-sm" style="color: #B8B8B8; font-family: 'Inter', sans-serif;">Chef-inspired selections made fresh daily</p>
             </div>
             
-            <div class="bg-slate-800 rounded-lg p-6 text-center hover:bg-slate-700 transition-colors duration-300">
-              <div class="w-16 h-16 bg-gradient-to-br from-amber-600 to-amber-700 rounded-full flex items-center justify-center mx-auto mb-4">
-                <svg class="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 11V7a4 4 0 00-8 0v4M5 9h14l1 12H4L5 9z"></path>
+              <div class="text-center group">
+                <div class="w-20 h-20 mx-auto mb-6 flex items-center justify-center transition-transform duration-500 group-hover:scale-110" style="background: linear-gradient(135deg, rgba(212, 175, 55, 0.1) 0%, rgba(212, 175, 55, 0.2) 100%); border-radius: 50%;">
+                  <svg class="w-10 h-10" style="color: #D4AF37;" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z"></path>
                 </svg>
+                </div>
+                <h4 class="text-xl font-bold mb-3" style="color: #F5F5F5; font-family: 'Playfair Display', serif;">Premium Selection</h4>
+                <p class="text-sm" style="color: #B8B8B8; font-family: 'Inter', sans-serif;">Curated products for the discerning customer</p>
               </div>
-              <h4 class="text-lg font-semibold text-white mb-2">Cold Drinks</h4>
-              <p class="text-sm text-slate-300">Wide selection of cold beverages and energy drinks</p>
             </div>
           </div>
         </div>
       </div>
     </section>
 
-    <!-- Store Hours & Contact -->
-    <section class="py-20 bg-gradient-to-br from-slate-900 to-slate-800">
-      <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center text-white">
-        <h2 class="text-4xl md:text-5xl font-bold mb-8">Visit Our Store Today</h2>
-        <div class="grid md:grid-cols-2 gap-8 mb-8">
-          <div class="bg-slate-800 rounded-2xl p-8">
-            <h3 class="text-2xl font-bold text-amber-400 mb-6">Store Hours</h3>
-            <div class="space-y-3 text-left">
-              <div class="flex justify-between py-2 border-b border-slate-700">
-                <span class="text-white font-medium">Monday - Friday</span>
-                <span class="text-slate-300">6:00 AM - 10:00 PM</span>
+    <!-- Visit Our Store -->
+    <section class="py-24" style="background: linear-gradient(135deg, #0A0A0A 0%, #1A1A1A 50%, #0F0F0F 100%);">
+      <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+        <div class="mb-12">
+          <div class="w-24 h-1 mx-auto mb-6" style="background: linear-gradient(90deg, transparent 0%, #D4AF37 50%, transparent 100%);"></div>
+          <h2 class="text-5xl md:text-6xl font-bold mb-8" style="color: #F5F5F5; font-family: 'Playfair Display', serif; letter-spacing: -0.02em;">Visit Our Store</h2>
+          <p class="text-xl max-w-3xl mx-auto leading-relaxed" style="color: #E5E5E5; font-family: 'Inter', sans-serif; font-weight: 300;">
+            Experience premium convenience in person at our East Bethel location
+          </p>
+        </div>
+        
+        <div class="grid md:grid-cols-2 gap-8 mb-12">
+          <div class="relative overflow-hidden rounded-2xl shadow-2xl" style="background: linear-gradient(145deg, #1A1A1A 0%, #0F0F0F 100%); border: 2px solid rgba(212, 175, 55, 0.2);">
+            <div class="absolute inset-0" style="background: linear-gradient(135deg, rgba(212, 175, 55, 0.05) 0%, transparent 50%, rgba(212, 175, 55, 0.05) 100%);"></div>
+            <div class="relative p-8">
+              <div class="mb-6">
+                <div class="w-16 h-0.5 mb-4" style="background: linear-gradient(90deg, transparent 0%, #D4AF37 50%, transparent 100%);"></div>
+                <h3 class="text-3xl font-bold mb-2" style="color: #F5F5F5; font-family: 'Playfair Display', serif;">Store Hours</h3>
+                <p class="text-sm" style="color: #D4AF37; font-family: 'Inter', sans-serif; font-weight: 500;">Always Open for Premium Service</p>
               </div>
-              <div class="flex justify-between py-2 border-b border-slate-700">
-                <span class="text-white font-medium">Saturday</span>
-                <span class="text-slate-300">6:00 AM - 10:00 PM</span>
+              <div class="space-y-4">
+                <div class="flex justify-between items-center py-3 border-b" style="border-color: rgba(212, 175, 55, 0.2);">
+                  <span class="font-semibold" style="color: #D4AF37; font-family: 'Inter', sans-serif;">Monday - Sunday</span>
+                  <span style="color: #F5F5F5; font-family: 'Inter', sans-serif;">6:00 AM - 10:00 PM</span>
+                </div>
+                <div class="flex justify-between items-center py-3">
+                  <span class="font-semibold" style="color: #D4AF37; font-family: 'Inter', sans-serif;">Gas Pumps</span>
+                  <span style="color: #F5F5F5; font-family: 'Inter', sans-serif;">24/7 Available</span>
               </div>
-              <div class="flex justify-between py-2">
-                <span class="text-white font-medium">Sunday</span>
-                <span class="text-slate-300">6:00 AM - 10:00 PM</span>
               </div>
             </div>
           </div>
-          <div class="bg-slate-800 rounded-2xl p-8">
-            <h3 class="text-2xl font-bold text-amber-400 mb-6">Contact Info</h3>
-            <div class="space-y-4 text-left">
-              <div class="flex items-center">
-                <svg class="w-6 h-6 text-amber-500 mr-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          
+          <div class="relative overflow-hidden rounded-2xl shadow-2xl" style="background: linear-gradient(145deg, #1A1A1A 0%, #0F0F0F 100%); border: 2px solid rgba(212, 175, 55, 0.2);">
+            <div class="absolute inset-0" style="background: linear-gradient(135deg, rgba(212, 175, 55, 0.05) 0%, transparent 50%, rgba(212, 175, 55, 0.05) 100%);"></div>
+            <div class="relative p-8">
+              <div class="mb-6">
+                <div class="w-16 h-0.5 mb-4" style="background: linear-gradient(90deg, transparent 0%, #D4AF37 50%, transparent 100%);"></div>
+                <h3 class="text-3xl font-bold mb-2" style="color: #F5F5F5; font-family: 'Playfair Display', serif;">Contact Information</h3>
+                <p class="text-sm" style="color: #D4AF37; font-family: 'Inter', sans-serif; font-weight: 500;">Connect With Our Experts</p>
+              </div>
+              <div class="space-y-4">
+                <div class="flex items-center py-3 border-b" style="border-color: rgba(212, 175, 55, 0.2);">
+                  <svg class="w-6 h-6 mr-4 transition-transform duration-300 hover:scale-110" style="color: #D4AF37;" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"></path>
                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"></path>
                 </svg>
-                <span class="text-white">3255 Viking Blvd NE, East Bethel, MN 55092</span>
+                  <span style="color: #F5F5F5; font-family: 'Inter', sans-serif;">3255 Viking Blvd NE, East Bethel, MN 55092</span>
               </div>
-              <div class="flex items-center">
-                <svg class="w-6 h-6 text-amber-500 mr-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <div class="flex items-center py-3">
+                  <svg class="w-6 h-6 mr-4 transition-transform duration-300 hover:scale-110" style="color: #D4AF37;" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"></path>
                 </svg>
-                <a href="tel:+16513952174" class="text-white hover:text-amber-400 transition-colors">(651) 395-2174</a>
+                  <a href="tel:+16513952174" class="transition-colors duration-300 hover:opacity-80" style="color: #F5F5F5; font-family: 'Inter', sans-serif;">(651) 395-2174</a>
+                </div>
               </div>
             </div>
           </div>
         </div>
-        <div class="flex flex-col sm:flex-row gap-4 justify-center">
-          <a href="https://www.google.com/maps?cid=12853947706317488130" target="_blank" class="bg-amber-600 hover:bg-amber-700 text-white px-8 py-4 text-lg font-semibold rounded-lg shadow-lg hover:shadow-xl transition-all duration-300">
+        
+        <div class="flex flex-col sm:flex-row gap-6 justify-center">
+          <a href="https://www.google.com/maps?cid=12853947706317488130" target="_blank" class="group px-10 py-4 text-lg font-semibold rounded-lg transition-all duration-500 border-2" style="border-color: #D4AF37; color: #D4AF37; background: transparent; font-family: 'Inter', sans-serif;" onmouseover="this.style.backgroundColor='#D4AF37'; this.style.color='#0A0A0A'; this.style.boxShadow='0 0 30px rgba(212, 175, 55, 0.4)';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#D4AF37'; this.style.boxShadow='none';">
+            <span class="flex items-center justify-center">
+              <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"></path>
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"></path>
+              </svg>
             Get Directions
+            </span>
           </a>
-          <a href="tel:+16513952174" class="bg-transparent border-2 border-amber-400 text-amber-400 hover:bg-amber-400 hover:text-slate-900 px-8 py-4 text-lg font-semibold rounded-lg transition-all duration-300">
+          <a href="tel:+16513952174" class="group px-10 py-4 text-lg font-semibold rounded-lg transition-all duration-500 border-2" style="border-color: #D4AF37; color: #D4AF37; background: transparent; font-family: 'Inter', sans-serif;" onmouseover="this.style.backgroundColor='#D4AF37'; this.style.color='#0A0A0A'; this.style.boxShadow='0 0 30px rgba(212, 175, 55, 0.4)';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='#D4AF37'; this.style.boxShadow='none';">
+            <span class="flex items-center justify-center">
+              <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"></path>
+              </svg>
             Call Now
+            </span>
           </a>
         </div>
       </div>
@@ -208,10 +328,82 @@
 
 <script setup>
 useHead({
-  title: 'Convenience Store - Go For It Liquor',
+  title: 'Premium Convenience Store - Go For It Liquor',
   meta: [
-    { name: 'description', content: 'Visit our convenience store for fresh coffee, hot food, snacks, drinks, and daily essentials. Open daily with friendly service in East Bethel, MN.' },
-    { name: 'keywords', content: 'convenience store, coffee, hot food, snacks, drinks, tobacco, lottery, East Bethel, Minnesota' }
+    { name: 'description', content: 'Experience premium convenience with artisanal coffee, gourmet food, curated snacks, and essential services. Premium quality with exceptional service in East Bethel, MN.' },
+    { name: 'keywords', content: 'premium convenience store, artisanal coffee, gourmet food, curated snacks, essential services, East Bethel, Minnesota' }
   ]
 })
 </script>
+
+<style scoped>
+@keyframes pulse {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.5;
+  }
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeInLeft {
+  from {
+    opacity: 0;
+    transform: translateX(-30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes fadeInRight {
+  from {
+    opacity: 0;
+    transform: translateX(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+.animate-fade-in-up {
+  animation: fadeInUp 0.8s ease-out;
+}
+
+.animate-fade-in-left {
+  animation: fadeInLeft 0.8s ease-out;
+}
+
+.animate-fade-in-right {
+  animation: fadeInRight 0.8s ease-out;
+}
+
+.animate-delay-200 {
+  animation-delay: 0.2s;
+}
+
+.animate-delay-400 {
+  animation-delay: 0.4s;
+}
+
+.animate-delay-600 {
+  animation-delay: 0.6s;
+}
+
+.animate-delay-800 {
+  animation-delay: 0.8s;
+}
+</style>

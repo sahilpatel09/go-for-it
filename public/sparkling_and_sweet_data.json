@@ -1,0 +1,1377 @@
+{
+  "store_info": {
+    "name": "Go For it Liquor",
+    "address": "Unknown Address",
+    "hours": "Unknown Hours",
+    "url": "https://www.doordash.com/convenience/store/27498004/"
+  },
+  "categories": {
+    "Sparkling & Sweet": {
+      "product_count": 68,
+      "products": [
+        {
+          "name": "Four Loko Fruit Punch Malt Beverage Can (23.5 oz)",
+          "description": "Four Loko Fruit Punch Malt Beverage Can (23.5 oz)",
+          "price": "$3.32",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/a06e01d0-4ba3-4589-880b-6a46d0b0b049-retina-large.png ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Sparkling & Sweet"
+        },
+        {
+          "name": "Twisted Tea Game Day Hard Iced Tea Cans Party Pack (12 fl oz x 12 ct)",
+          "description": "Twisted Tea Game Day Hard Iced Tea Cans Party Pack (12 fl oz x 12 ct)",
+          "price": "$21.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/b9ff523a-71bd-41ec-8305-0a974645f511-retina-large.png ",
+          "rating": "4.8",
+          "review_count": "",
+          "availability": "available",
+          "category": "Sparkling & Sweet"
+        },
+        {
+          "name": "Mike's Harder Black Cherry Malt Beverage Can (23.5 fl oz)",
+          "description": "Mike's Harder Black Cherry Malt Beverage Can (23.5 fl oz)",
+          "price": "$3.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/dedc50b3-5d6e-4cb7-a6d1-0c7ea8455279-retina-large.png ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Sparkling & Sweet"
+        },
+        {
+          "name": "White Claw Gluten-Free No. 3 Hard Seltzer Cans Variety Pack (12 fl oz x 12 ct)",
+          "description": "White Claw Gluten-Free No. 3 Hard Seltzer Cans Variety Pack (12 fl oz x 12 ct)",
+          "price": "$23.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/8458bc26-4473-4044-a693-44eb80fd1c8f-retina-large.jpg ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Sparkling & Sweet"
+        },
+        {
+          "name": "Twisted Tea Original Hard Iced Tea Cans (12 fl oz x 12 ct)",
+          "description": "Twisted Tea Original Hard Iced Tea Cans (12 fl oz x 12 ct)",
+          "price": "$21.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/77d89d6e-42a9-4754-aace-80cbe6ce1ddb-retina-large.jpg ",
+          "rating": "4.5",
+          "review_count": "",
+          "availability": "available",
+          "category": "Sparkling & Sweet"
+        },
+        {
+          "name": "Angry Orchard Gluten-Free Rose Spiked Hard Cider Bottles (12 fl oz x 6 ct)",
+          "description": "Angry Orchard Gluten-Free Rose Spiked Hard Cider Bottles (12 fl oz x 6 ct)",
+          "price": "$13.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/2318a7cd-733e-41e5-b108-5cc063b3b5fc-retina-large.png ",
+          "rating": "4.5",
+          "review_count": "",
+          "availability": "available",
+          "category": "Sparkling & Sweet"
+        },
+        {
+          "name": "Mike's Harder Black Cherry Premium Malt Beverage Can (16 fl oz)",
+          "description": "Mike's Harder Black Cherry Premium Malt Beverage Can (16 fl oz)",
+          "price": "$4.39",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/dc563f21-2e91-414c-8661-ce0e5775a36b-retina-large.jpg ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Sparkling & Sweet"
+        },
+        {
+          "name": "Twisted Tea Half & Half Hard Iced Tea Cans (12 fl oz x 12 ct)",
+          "description": "Twisted Tea Half & Half Hard Iced Tea Cans (12 fl oz x 12 ct)",
+          "price": "$21.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/f087a802-878b-4367-b8c7-b48012e54fe1-retina-large.jpeg ",
+          "rating": "4.4",
+          "review_count": "",
+          "availability": "available",
+          "category": "Sparkling & Sweet"
+        },
+        {
+          "name": "White Claw Gluten-Free Black Cherry Hard Seltzer Cans (12 fl oz x 6 ct)",
+          "description": "White Claw Gluten-Free Black Cherry Hard Seltzer Cans (12 fl oz x 6 ct)",
+          "price": "$12.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/cc75536b-5f1a-4512-8ef1-dcf920fa812d-retina-large.jpg ",
+          "rating": "4.1",
+          "review_count": "",
+          "availability": "available",
+          "category": "Sparkling & Sweet"
+        },
+        {
+          "name": "Twisted Tea Light Hard Iced Tea Cans Variety Pack (12 fl oz x 12 ct)",
+          "description": "Twisted Tea Light Hard Iced Tea Cans Variety Pack (12 fl oz x 12 ct)",
+          "price": "$21.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/caf96fbc-a95d-45f8-aed2-de0c7129a5c2-retina-large.png ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Sparkling & Sweet"
+        },
+        {
+          "name": "White Claw No. 1 Variety Pack Hard Seltzer Cans (12 oz x 12 ct)",
+          "description": "White Claw No. 1 Variety Pack Hard Seltzer Cans (12 oz x 12 ct)",
+          "price": "$23.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photos/b464fa97-afca-4645-a65b-13c6419900fb-retina-large-jpeg ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Sparkling & Sweet"
+        },
+        {
+          "name": "White Claw Hard Seltzer Cans (12 fl oz x 6 ct)",
+          "description": "White Claw Hard Seltzer Cans (12 fl oz x 6 ct)",
+          "price": "$13.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/437c8c6e-3757-49a3-b8e1-ce4910662f3d-retina-large.png ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Sparkling & Sweet"
+        },
+        {
+          "name": "Smirnoff Ice Smash Strawberry & Lemon Malt Beverage Can (23.5 fl oz)",
+          "description": "Smirnoff Ice Smash Strawberry & Lemon Malt Beverage Can (23.5 fl oz)",
+          "price": "$4.49",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/1ec08fd5-391c-4522-8588-de96a2570713-retina-large.jpg ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Sparkling & Sweet"
+        },
+        {
+          "name": "Cayman Jack Malt Beverage Margarita RTD Cans (12 fl oz x 12 ct)",
+          "description": "Cayman Jack Malt Beverage Margarita RTD Cans (12 fl oz x 12 ct)",
+          "price": "$22.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/35b7886f-29c8-4f1f-9a45-56f7dcb8b82a-retina-large.jpg ",
+          "rating": "5.0",
+          "review_count": "",
+          "availability": "available",
+          "category": "Sparkling & Sweet"
+        },
+        {
+          "name": "Steel Reserve 211 High Gravity Lager Can (24 fl oz)",
+          "description": "Steel Reserve 211 High Gravity Lager Can (24 fl oz)",
+          "price": "$3.49",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/e01f0666-0145-424b-b54a-c01a854c1a82-retina-large.jpg ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Sparkling & Sweet"
+        },
+        {
+          "name": "White Claw The Iconic Hard Seltzer Gluten Free Raspberry Hard Seltzer Cans (12 fl oz x 6 ct)",
+          "description": "White Claw The Iconic Hard Seltzer Gluten Free Raspberry Hard Seltzer Cans (12 fl oz x 6 ct)",
+          "price": "$12.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/b16421ec-d995-43e9-9d3e-7a1429f99224-retina-large.jpg ",
+          "rating": "4.1",
+          "review_count": "",
+          "availability": "available",
+          "category": "Sparkling & Sweet"
+        },
+        {
+          "name": "Smirnoff Ice SMASH Blue Raspberry Lemonade Premium Malt Beverage Can (16 fl oz)",
+          "description": "Smirnoff Ice SMASH Blue Raspberry Lemonade Premium Malt Beverage Can (16 fl oz)",
+          "price": "$4.49",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/32627178-b51e-4191-9f98-a6838ecdb277-retina-large.jpg ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Sparkling & Sweet"
+        },
+        {
+          "name": "Truly Gluten Free Punch Hard Seltzer Cans Variety Pack (12 fl oz x 12 ct)",
+          "description": "Truly Gluten Free Punch Hard Seltzer Cans Variety Pack (12 fl oz x 12 ct)",
+          "price": "$21.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/98afae65-9443-4b9b-a022-84c5da114eda-retina-large.jpeg ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Sparkling & Sweet"
+        },
+        {
+          "name": "Mike's Hard Lemonade Premium Malt Beverage Cans Variety Pack (12 fl oz x 12 ct)",
+          "description": "Mike's Hard Lemonade Premium Malt Beverage Cans Variety Pack (12 fl oz x 12 ct)",
+          "price": "$20.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/5a8e245b-989a-4689-988c-77347fe999e9-retina-large.png ",
+          "rating": "4.4",
+          "review_count": "",
+          "availability": "available",
+          "category": "Sparkling & Sweet"
+        },
+        {
+          "name": "Bud Light Gluten Free Platinum Hard Seltzer Slim Cans Variety Pack (12 fl oz x 12 ct)",
+          "description": "Bud Light Gluten Free Platinum Hard Seltzer Slim Cans Variety Pack (12 fl oz x 12 ct)",
+          "price": "$20.69",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/e591aaa2-9aba-4d73-91d6-5caaee6e1af2-retina-large.jpg ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Sparkling & Sweet"
+        },
+        {
+          "name": "White Claw Gluten Free Natural Lime Hard Seltzer Cans (12 fl oz x 6 ct)",
+          "description": "White Claw Gluten Free Natural Lime Hard Seltzer Cans (12 fl oz x 6 ct)",
+          "price": "$12.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/ab9209db-ce4e-49ff-a05d-6dba25f44bb1-retina-large.jpeg ",
+          "rating": "4.1",
+          "review_count": "",
+          "availability": "available",
+          "category": "Sparkling & Sweet"
+        },
+        {
+          "name": "Truly Gluten-Free Berry Hard Seltzer Cans Variety Pack (12 fl oz x 12 ct)",
+          "description": "Truly Gluten-Free Berry Hard Seltzer Cans Variety Pack (12 fl oz x 12 ct)",
+          "price": "$21.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/652d6932-24fb-4137-b3d2-165f4fd34df8-retina-large.png ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Sparkling & Sweet"
+        },
+        {
+          "name": "Smirnoff Ice Smash Red, White & Berry Malt Beverage Can (23.5 fl oz)",
+          "description": "Smirnoff Ice Smash Red, White & Berry Malt Beverage Can (23.5 fl oz)",
+          "price": "$4.49",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/596fe0cb-0a85-47f4-9068-8fded2f8ec7d-retina-large.jpg ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Sparkling & Sweet"
+        },
+        {
+          "name": "Mike's Harder Lemonade Premium Malt Beverage Can (23.5 fl oz)",
+          "description": "Mike's Harder Lemonade Premium Malt Beverage Can (23.5 fl oz)",
+          "price": "$3.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/ee77f042-ba40-495b-a9fd-0a57ebdd8779-retina-large.png ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Sparkling & Sweet"
+        },
+        {
+          "name": "Smirnoff Ice SMASH Peach & Mango Vodka Can (16 fl oz)",
+          "description": "Smirnoff Ice SMASH Peach & Mango Vodka Can (16 fl oz)",
+          "price": "$4.49",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/c24fa3f8-b6c2-44da-82bb-8779e1648791-retina-large.jpg ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Sparkling & Sweet"
+        },
+        {
+          "name": "Cayman Jack Margarita Premium Malt Beverage RTD Bottles (11.2 fl oz x 6 ct)",
+          "description": "Cayman Jack Margarita Premium Malt Beverage RTD Bottles (11.2 fl oz x 6 ct)",
+          "price": "$12.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/5d208a78-bc13-4720-9430-31662b98b00a-retina-large.png ",
+          "rating": "4.9",
+          "review_count": "",
+          "availability": "available",
+          "category": "Sparkling & Sweet"
+        },
+        {
+          "name": "Topo Chico Hard Seltzer Gluten-Free Spiked Sparkling Water Cans Variety Pack (12 fl oz x 12 ct)",
+          "description": "Topo Chico Hard Seltzer Gluten-Free Spiked Sparkling Water Cans Variety Pack (12 fl oz x 12 ct)",
+          "price": "$21.89",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/33f01521-8dd0-4f8b-b136-af818800a13c-retina-large.jpg ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Sparkling & Sweet"
+        },
+        {
+          "name": "White Claw Surge Blood Orange Hard Seltzer Can (16 fl oz)",
+          "description": "White Claw Surge Blood Orange Hard Seltzer Can (16 fl oz)",
+          "price": "$2.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/6497e7d2-6bb4-44e4-ab78-705694b90288-retina-large.jpg ",
+          "rating": "3.9",
+          "review_count": "",
+          "availability": "available",
+          "category": "Sparkling & Sweet"
+        },
+        {
+          "name": "Ritas Water-Melon-Rita Sparkling Margarita Malt Beverage RTD Can (25 fl oz)",
+          "description": "Ritas Water-Melon-Rita Sparkling Margarita Malt Beverage RTD Can (25 fl oz)",
+          "price": "$3.89",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/a9d46a2c-3c1e-426e-be28-9d348bc160d1-retina-large.jpg ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Sparkling & Sweet"
+        },
+        {
+          "name": "White Claw Gluten-Free Mango Hard Seltzer Cans (12 fl oz x 6 ct)",
+          "description": "White Claw Gluten-Free Mango Hard Seltzer Cans (12 fl oz x 6 ct)",
+          "price": "$12.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/cf668eb0-23b5-4399-98a7-b076929c777e-retina-large.jpeg ",
+          "rating": "4.3",
+          "review_count": "",
+          "availability": "available",
+          "category": "Sparkling & Sweet"
+        },
+        {
+          "name": "Happy Mom Gluten Free Raspberry Hard Seltzer Cans (12 fl oz x 12 ct)",
+          "description": "Happy Mom Gluten Free Raspberry Hard Seltzer Cans (12 fl oz x 12 ct)",
+          "price": "$22.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/3f214d55-0447-4a29-9fcc-b098289dbb17-retina-large.png ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Sparkling & Sweet"
+        },
+        {
+          "name": "White Claw Gluten Free Mango Hard Seltzer Cans (12 fl oz x 12 ct)",
+          "description": "White Claw Gluten Free Mango Hard Seltzer Cans (12 fl oz x 12 ct)",
+          "price": "$20.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/5ed0f21e-0ea2-4d94-b116-00cd4f79bc39-retina-large.jpg ",
+          "rating": "4.3",
+          "review_count": "",
+          "availability": "available",
+          "category": "Sparkling & Sweet"
+        },
+        {
+          "name": "Mountain Dew Original Zero Sugar Hard Malt Beverage Can (24 oz)",
+          "description": "Mountain Dew Original Zero Sugar Hard Malt Beverage Can (24 oz)",
+          "price": "$4.29",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/9591f784-7595-41a9-9da9-ad6964d51485-retina-large.jpg ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Sparkling & Sweet"
+        },
+        {
+          "name": "White Claw Blackberry Hard Seltzer Cans (12 fl oz x 6 ct)",
+          "description": "White Claw Blackberry Hard Seltzer Cans (12 fl oz x 6 ct)",
+          "price": "$12.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/756f6248-a4bd-4452-8ce7-ab104ae43a86-retina-large.jpeg ",
+          "rating": "5.0",
+          "review_count": "",
+          "availability": "available",
+          "category": "Sparkling & Sweet"
+        },
+        {
+          "name": "Truly Lemonade Hard Seltzer Cans Variety Pack (12 fl oz x 12 ct)",
+          "description": "Truly Lemonade Hard Seltzer Cans Variety Pack (12 fl oz x 12 ct)",
+          "price": "$21.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/d17c34d6-730a-402a-a1ea-4c268917c412-retina-large.png ",
+          "rating": "4.3",
+          "review_count": "",
+          "availability": "available",
+          "category": "Sparkling & Sweet"
+        },
+        {
+          "name": "White Claw Gluten Free Strawberry Hard Seltzer Can (19.2 fl oz)",
+          "description": "White Claw Gluten Free Strawberry Hard Seltzer Can (19.2 fl oz)",
+          "price": "$4.59",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/a14c4c1e-2205-421f-bb76-d85388f1854c-retina-large.jpg ",
+          "rating": "4.9",
+          "review_count": "",
+          "availability": "available",
+          "category": "Sparkling & Sweet"
+        },
+        {
+          "name": "White Claw Gluten Free Peach Hard Seltzer Cans (12 fl oz x 6 ct)",
+          "description": "White Claw Gluten Free Peach Hard Seltzer Cans (12 fl oz x 6 ct)",
+          "price": "$12.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/f73f2ee9-7604-44d4-aaaf-8950e885b538-retina-large.jpg ",
+          "rating": "3.9",
+          "review_count": "",
+          "availability": "available",
+          "category": "Sparkling & Sweet"
+        },
+        {
+          "name": "Vizzy Gluten Free Vibrantly Tropical Hard Seltzer Cans Variety Pack (12 fl oz x 12 ct)",
+          "description": "Vizzy Gluten Free Vibrantly Tropical Hard Seltzer Cans Variety Pack (12 fl oz x 12 ct)",
+          "price": "$21.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/f178a755-7265-4fd1-8bb9-f01971f77166-retina-large.png ",
+          "rating": "4.3",
+          "review_count": "",
+          "availability": "available",
+          "category": "Sparkling & Sweet"
+        },
+        {
+          "name": "Arnold Palmer Spiked Raspberry Half & Half Iced Tea Lemonade Malt Beverage Can (24 fl oz)",
+          "description": "Arnold Palmer Spiked Raspberry Half & Half Iced Tea Lemonade Malt Beverage Can (24 fl oz)",
+          "price": "$3.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/c64eb82e-b567-4656-86d8-238143cae930-retina-large.jpg ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Sparkling & Sweet"
+        },
+        {
+          "name": "Jack Daniel's Zero Sugar Tennessee Whiskey & Coca-Cola Cocktail RTD Cans (355 ml x 4 ct)",
+          "description": "Jack Daniel's Zero Sugar Tennessee Whiskey & Coca-Cola Cocktail RTD Cans (355 ml x 4 ct)",
+          "price": "$14.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/ff16659e-acfb-49f7-b02e-c05dbb592164-retina-large.png ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Sparkling & Sweet"
+        },
+        {
+          "name": "Happy Dad Grape Hard Seltzer Cans (12 oz x 12 ct)",
+          "description": "Happy Dad Grape Hard Seltzer Cans (12 oz x 12 ct)",
+          "price": "$22.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/a8530f59-e2c1-4317-938f-1e62ba33d2c6-retina-large.jpg ",
+          "rating": "3.5",
+          "review_count": "",
+          "availability": "available",
+          "category": "Sparkling & Sweet"
+        },
+        {
+          "name": "White Claw Gluten Free Ruby Grapefruit Hard Seltzer Can (19.2 fl oz)",
+          "description": "White Claw Gluten Free Ruby Grapefruit Hard Seltzer Can (19.2 fl oz)",
+          "price": "$4.59",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/909fd77d-6f14-4538-ac90-08e88246e7e5-retina-large.jpg ",
+          "rating": "4.0",
+          "review_count": "",
+          "availability": "available",
+          "category": "Sparkling & Sweet"
+        },
+        {
+          "name": "White Claw Gluten Free Mango Hard Seltzer Can (19.2 fl oz)",
+          "description": "White Claw Gluten Free Mango Hard Seltzer Can (19.2 fl oz)",
+          "price": "$4.59",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/9de7b181-b249-4a88-a275-8f914a14a0b9-retina-large.jpg ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Sparkling & Sweet"
+        },
+        {
+          "name": "White Claw Gluten-Free Green Apple Hard Seltzer Cans (12 fl oz x 6 ct)",
+          "description": "White Claw Gluten-Free Green Apple Hard Seltzer Cans (12 fl oz x 6 ct)",
+          "price": "$13.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/6e6294ab-1bc2-43dd-9be8-d7e51cbc7cdd-retina-large.jpg ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Sparkling & Sweet"
+        },
+        {
+          "name": "White Claw Gluten-Free Mango Hard Seltzer Can (19.2 oz)",
+          "description": "White Claw Gluten-Free Mango Hard Seltzer Can (19.2 oz)",
+          "price": "$4.59",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/6c5139c7-6da7-4d40-be72-d5e6ab59aacd-retina-large.jpg ",
+          "rating": "4.3",
+          "review_count": "",
+          "availability": "available",
+          "category": "Sparkling & Sweet"
+        },
+        {
+          "name": "ViBE by Vendange Twisted Sips Fruit Punch Wine Carton (500 ml)",
+          "description": "ViBE by Vendange Twisted Sips Fruit Punch Wine Carton (500 ml)",
+          "price": "$4.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/e48a4d53-c9aa-4d5f-85fe-9cf4eccd2b80-retina-large.png ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Sparkling & Sweet"
+        },
+        {
+          "name": "ViBE by Vendange Strawberry Limeade Wine Carton South Africa (500 ml)",
+          "description": "ViBE by Vendange Strawberry Limeade Wine Carton South Africa (500 ml)",
+          "price": "$4.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/8ecab44a-6a31-46f7-8ffe-cca2613b1f92-retina-large.png ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Sparkling & Sweet"
+        },
+        {
+          "name": "Jack Daniel's Tennessee Whiskey & Ginger Ale Cocktail RTD Cans (355 ml x 4 ct)",
+          "description": "Jack Daniel's Tennessee Whiskey & Ginger Ale Cocktail RTD Cans (355 ml x 4 ct)",
+          "price": "$14.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/bd8b4b7c-294a-4068-8e11-c8c561b85dda-retina-large.png ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Sparkling & Sweet"
+        },
+        {
+          "name": "Happy Dad Banana Hard Seltzer Cans (12 oz x 12 ct)",
+          "description": "Happy Dad Banana Hard Seltzer Cans (12 oz x 12 ct)",
+          "price": "$22.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/e74858a9-d98b-46df-b152-162b0779c96f-retina-large.png ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Sparkling & Sweet"
+        },
+        {
+          "name": "Captain Morgan Long Island Iced Tea Cocktail RTD Bottle (1.75 L)",
+          "description": "Captain Morgan Long Island Iced Tea Cocktail RTD Bottle (1.75 L)",
+          "price": "$29.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/91cbeaef-72f5-47ac-97cf-e21280e32211-retina-large.jpg ",
+          "rating": "4.3",
+          "review_count": "",
+          "availability": "available",
+          "category": "Sparkling & Sweet"
+        },
+        {
+          "name": "1800 The Ultimate Strawberry Margarita RTD Bottle (1.75 L)",
+          "description": "1800 The Ultimate Strawberry Margarita RTD Bottle (1.75 L)",
+          "price": "$26.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/46552307-f983-4ae4-bb3d-dd43e34c9b20-retina-large.jpg ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Sparkling & Sweet"
+        },
+        {
+          "name": "CoCo Ready to Drink Pineapple Vodka Cans (12 oz x 4 ct)",
+          "description": "CoCo Ready to Drink Pineapple Vodka Cans (12 oz x 4 ct)",
+          "price": "$14.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/3bdb2851-f1db-4938-86c9-7407555c8734-retina-large.png ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Sparkling & Sweet"
+        },
+        {
+          "name": "1800 The Ultimate Black Cherry Margarita Cocktail RTD Bottle (1.75 L)",
+          "description": "1800 The Ultimate Black Cherry Margarita Cocktail RTD Bottle (1.75 L)",
+          "price": "$26.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/66a9257c-9e39-4f00-9a3d-6bea52a8981e-retina-large.jpg ",
+          "rating": "4.4",
+          "review_count": "",
+          "availability": "available",
+          "category": "Sparkling & Sweet"
+        },
+        {
+          "name": "Evan Williams Spiced Apple Cider Original Southern Liqueur Bottle (750 ml)",
+          "description": "Evan Williams Spiced Apple Cider Original Southern Liqueur Bottle (750 ml)",
+          "price": "$21.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/49b0531a-6fe3-43f5-b5df-3b69db4a9cfa-retina-large.jpg ",
+          "rating": "4.5",
+          "review_count": "",
+          "availability": "available",
+          "category": "Sparkling & Sweet"
+        },
+        {
+          "name": "Bud Light Seltzer Gluten Free Hard Seltzer Slim Cans Variety Pack (12 fl oz x 12 ct)",
+          "description": "Bud Light Seltzer Gluten Free Hard Seltzer Slim Cans Variety Pack (12 fl oz x 12 ct)",
+          "price": "$19.49",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/26420db4-94f3-4e3a-8609-a8a91812ebd8-retina-large.png ",
+          "rating": "3.9",
+          "review_count": "",
+          "availability": "available",
+          "category": "Sparkling & Sweet"
+        },
+        {
+          "name": "TGI Fridays Mocha Ultimate Mudslide Cocktail Bottle (1.75 L)",
+          "description": "TGI Fridays Mocha Ultimate Mudslide Cocktail Bottle (1.75 L)",
+          "price": "$24.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/af372c4a-4e1d-40ce-b69c-dc982ef8c236-retina-large.png ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Sparkling & Sweet"
+        },
+        {
+          "name": "2 Towns Ciderhouse Craft Cider Variety Pack Cans (12 oz x 12 ct)",
+          "description": "2 Towns Ciderhouse Craft Cider Variety Pack Cans (12 oz x 12 ct)",
+          "price": "$26.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/db949fa0-6c7b-4d3b-80e8-14d2445e0e30-retina-large.png ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Sparkling & Sweet"
+        },
+        {
+          "name": "On The Rocks x Knob Creek The Old Fashioned RTD Cocktail Bottle (375 ml)",
+          "description": "On The Rocks x Knob Creek The Old Fashioned RTD Cocktail Bottle (375 ml)",
+          "price": "$16.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/6aca0f2a-e54d-4d3a-a73d-df5497f8aade-retina-large.jpg ",
+          "rating": "4.3",
+          "review_count": "",
+          "availability": "available",
+          "category": "Sparkling & Sweet"
+        },
+        {
+          "name": "Coco Rum Cocktail Cans (12 oz x 4 ct)",
+          "description": "Coco Rum Cocktail Cans (12 oz x 4 ct)",
+          "price": "$14.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/2370602e-3045-4932-b68a-374548b21ba1-retina-large.png ",
+          "rating": "5.0",
+          "review_count": "",
+          "availability": "available",
+          "category": "Sparkling & Sweet"
+        },
+        {
+          "name": "Daily's Cocktails Pina Colada Frozen Cocktail RTD Pouch (10 fl oz)",
+          "description": "Daily's Cocktails Pina Colada Frozen Cocktail RTD Pouch (10 fl oz)",
+          "price": "$4.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/32a9329d-e6bf-423d-a73f-4415c7f17a86-retina-large.png ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Sparkling & Sweet"
+        },
+        {
+          "name": "Jose Cuervo Golden Strawberry Margarita Cocktail RTD Bottle (1.75 L)",
+          "description": "Jose Cuervo Golden Strawberry Margarita Cocktail RTD Bottle (1.75 L)",
+          "price": "$26.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/b22ebf18-5c9a-4431-9b0f-8f9ebe0bbfff-retina-large.jpg ",
+          "rating": "4.3",
+          "review_count": "",
+          "availability": "available",
+          "category": "Sparkling & Sweet"
+        },
+        {
+          "name": "White Claw Uniquely Cold Wave Filtered Surf Hard Seltzer Cans Variety Pack (12 fl oz x 12 ct)",
+          "description": "White Claw Uniquely Cold Wave Filtered Surf Hard Seltzer Cans Variety Pack (12 fl oz x 12 ct)",
+          "price": "$22.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/1dd8f0b7-f7e8-404b-ba56-0a7e4363086a-retina-large.jpg ",
+          "rating": "4.7",
+          "review_count": "",
+          "availability": "available",
+          "category": "Sparkling & Sweet"
+        },
+        {
+          "name": "Jefferson's 68 Proof Barrel Aged Manhattan Bourbon Whiskey Cocktail Bottle (750 ml)",
+          "description": "Jefferson's 68 Proof Barrel Aged Manhattan Bourbon Whiskey Cocktail Bottle (750 ml)",
+          "price": "$41.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/a6567b39-6d0f-45ec-a4e0-fc2a0c2ec29b-retina-large.jpg ",
+          "rating": "4.3",
+          "review_count": "",
+          "availability": "available",
+          "category": "Sparkling & Sweet"
+        },
+        {
+          "name": "White Claw Gluten Free Cranberry Surge Hard Seltzer Can (16 fl oz)",
+          "description": "White Claw Gluten Free Cranberry Surge Hard Seltzer Can (16 fl oz)",
+          "price": "$2.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/77a478d7-735c-40f6-92f5-c652f118ec02-retina-large.jpg ",
+          "rating": "4.0",
+          "review_count": "",
+          "availability": "available",
+          "category": "Sparkling & Sweet"
+        },
+        {
+          "name": "Coco Original Triple Distilled Vodka Water Cans (12 oz x 4 ct)",
+          "description": "Coco Original Triple Distilled Vodka Water Cans (12 oz x 4 ct)",
+          "price": "$14.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/3f252f8e-6875-4389-9988-6c553b590c2d-retina-large.png ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Sparkling & Sweet"
+        },
+        {
+          "name": "Bud Light Seltzer Gluten Free Sangria Splash Hard Seltzer Cans Variety Pack (12 fl oz x 12 ct)",
+          "description": "Bud Light Seltzer Gluten Free Sangria Splash Hard Seltzer Cans Variety Pack (12 fl oz x 12 ct)",
+          "price": "$19.89",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/c956cc52-694c-4ff8-a4e9-547b5c235998-retina-large.jpg ",
+          "rating": "4.0",
+          "review_count": "",
+          "availability": "available",
+          "category": "Sparkling & Sweet"
+        },
+        {
+          "name": "Nutrl Vodka Gluten Free Watermelon Real Juice Vodka Seltzer Cans (12 fl oz x 4 ct)",
+          "description": "Nutrl Vodka Gluten Free Watermelon Real Juice Vodka Seltzer Cans (12 fl oz x 4 ct)",
+          "price": "$11.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/9d79fa3e-ee75-427c-870a-b3f417afaf31-retina-large.jpg ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Sparkling & Sweet"
+        },
+        {
+          "name": "Michelob Ultra Organic Classic Collection Hard Seltzer Slim Cans Variety Pack (12 fl oz x 12 ct)",
+          "description": "Michelob Ultra Organic Classic Collection Hard Seltzer Slim Cans Variety Pack (12 fl oz x 12 ct)",
+          "price": "$19.89",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/a536759e-bb10-420f-9b4f-7b2946f88b54-retina-large.jpg ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Sparkling & Sweet"
+        }
+      ]
+    }
+  },
+  "products": [
+    {
+      "name": "Four Loko Fruit Punch Malt Beverage Can (23.5 oz)",
+      "description": "Four Loko Fruit Punch Malt Beverage Can (23.5 oz)",
+      "price": "$3.32",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/a06e01d0-4ba3-4589-880b-6a46d0b0b049-retina-large.png ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Sparkling & Sweet"
+    },
+    {
+      "name": "Twisted Tea Game Day Hard Iced Tea Cans Party Pack (12 fl oz x 12 ct)",
+      "description": "Twisted Tea Game Day Hard Iced Tea Cans Party Pack (12 fl oz x 12 ct)",
+      "price": "$21.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/b9ff523a-71bd-41ec-8305-0a974645f511-retina-large.png ",
+      "rating": "4.8",
+      "review_count": "",
+      "availability": "available",
+      "category": "Sparkling & Sweet"
+    },
+    {
+      "name": "Mike's Harder Black Cherry Malt Beverage Can (23.5 fl oz)",
+      "description": "Mike's Harder Black Cherry Malt Beverage Can (23.5 fl oz)",
+      "price": "$3.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/dedc50b3-5d6e-4cb7-a6d1-0c7ea8455279-retina-large.png ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Sparkling & Sweet"
+    },
+    {
+      "name": "White Claw Gluten-Free No. 3 Hard Seltzer Cans Variety Pack (12 fl oz x 12 ct)",
+      "description": "White Claw Gluten-Free No. 3 Hard Seltzer Cans Variety Pack (12 fl oz x 12 ct)",
+      "price": "$23.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/8458bc26-4473-4044-a693-44eb80fd1c8f-retina-large.jpg ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Sparkling & Sweet"
+    },
+    {
+      "name": "Twisted Tea Original Hard Iced Tea Cans (12 fl oz x 12 ct)",
+      "description": "Twisted Tea Original Hard Iced Tea Cans (12 fl oz x 12 ct)",
+      "price": "$21.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/77d89d6e-42a9-4754-aace-80cbe6ce1ddb-retina-large.jpg ",
+      "rating": "4.5",
+      "review_count": "",
+      "availability": "available",
+      "category": "Sparkling & Sweet"
+    },
+    {
+      "name": "Angry Orchard Gluten-Free Rose Spiked Hard Cider Bottles (12 fl oz x 6 ct)",
+      "description": "Angry Orchard Gluten-Free Rose Spiked Hard Cider Bottles (12 fl oz x 6 ct)",
+      "price": "$13.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/2318a7cd-733e-41e5-b108-5cc063b3b5fc-retina-large.png ",
+      "rating": "4.5",
+      "review_count": "",
+      "availability": "available",
+      "category": "Sparkling & Sweet"
+    },
+    {
+      "name": "Mike's Harder Black Cherry Premium Malt Beverage Can (16 fl oz)",
+      "description": "Mike's Harder Black Cherry Premium Malt Beverage Can (16 fl oz)",
+      "price": "$4.39",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/dc563f21-2e91-414c-8661-ce0e5775a36b-retina-large.jpg ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Sparkling & Sweet"
+    },
+    {
+      "name": "Twisted Tea Half & Half Hard Iced Tea Cans (12 fl oz x 12 ct)",
+      "description": "Twisted Tea Half & Half Hard Iced Tea Cans (12 fl oz x 12 ct)",
+      "price": "$21.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/f087a802-878b-4367-b8c7-b48012e54fe1-retina-large.jpeg ",
+      "rating": "4.4",
+      "review_count": "",
+      "availability": "available",
+      "category": "Sparkling & Sweet"
+    },
+    {
+      "name": "White Claw Gluten-Free Black Cherry Hard Seltzer Cans (12 fl oz x 6 ct)",
+      "description": "White Claw Gluten-Free Black Cherry Hard Seltzer Cans (12 fl oz x 6 ct)",
+      "price": "$12.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/cc75536b-5f1a-4512-8ef1-dcf920fa812d-retina-large.jpg ",
+      "rating": "4.1",
+      "review_count": "",
+      "availability": "available",
+      "category": "Sparkling & Sweet"
+    },
+    {
+      "name": "Twisted Tea Light Hard Iced Tea Cans Variety Pack (12 fl oz x 12 ct)",
+      "description": "Twisted Tea Light Hard Iced Tea Cans Variety Pack (12 fl oz x 12 ct)",
+      "price": "$21.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/caf96fbc-a95d-45f8-aed2-de0c7129a5c2-retina-large.png ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Sparkling & Sweet"
+    },
+    {
+      "name": "White Claw No. 1 Variety Pack Hard Seltzer Cans (12 oz x 12 ct)",
+      "description": "White Claw No. 1 Variety Pack Hard Seltzer Cans (12 oz x 12 ct)",
+      "price": "$23.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photos/b464fa97-afca-4645-a65b-13c6419900fb-retina-large-jpeg ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Sparkling & Sweet"
+    },
+    {
+      "name": "White Claw Hard Seltzer Cans (12 fl oz x 6 ct)",
+      "description": "White Claw Hard Seltzer Cans (12 fl oz x 6 ct)",
+      "price": "$13.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/437c8c6e-3757-49a3-b8e1-ce4910662f3d-retina-large.png ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Sparkling & Sweet"
+    },
+    {
+      "name": "Smirnoff Ice Smash Strawberry & Lemon Malt Beverage Can (23.5 fl oz)",
+      "description": "Smirnoff Ice Smash Strawberry & Lemon Malt Beverage Can (23.5 fl oz)",
+      "price": "$4.49",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/1ec08fd5-391c-4522-8588-de96a2570713-retina-large.jpg ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Sparkling & Sweet"
+    },
+    {
+      "name": "Cayman Jack Malt Beverage Margarita RTD Cans (12 fl oz x 12 ct)",
+      "description": "Cayman Jack Malt Beverage Margarita RTD Cans (12 fl oz x 12 ct)",
+      "price": "$22.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/35b7886f-29c8-4f1f-9a45-56f7dcb8b82a-retina-large.jpg ",
+      "rating": "5.0",
+      "review_count": "",
+      "availability": "available",
+      "category": "Sparkling & Sweet"
+    },
+    {
+      "name": "Steel Reserve 211 High Gravity Lager Can (24 fl oz)",
+      "description": "Steel Reserve 211 High Gravity Lager Can (24 fl oz)",
+      "price": "$3.49",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/e01f0666-0145-424b-b54a-c01a854c1a82-retina-large.jpg ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Sparkling & Sweet"
+    },
+    {
+      "name": "White Claw The Iconic Hard Seltzer Gluten Free Raspberry Hard Seltzer Cans (12 fl oz x 6 ct)",
+      "description": "White Claw The Iconic Hard Seltzer Gluten Free Raspberry Hard Seltzer Cans (12 fl oz x 6 ct)",
+      "price": "$12.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/b16421ec-d995-43e9-9d3e-7a1429f99224-retina-large.jpg ",
+      "rating": "4.1",
+      "review_count": "",
+      "availability": "available",
+      "category": "Sparkling & Sweet"
+    },
+    {
+      "name": "Smirnoff Ice SMASH Blue Raspberry Lemonade Premium Malt Beverage Can (16 fl oz)",
+      "description": "Smirnoff Ice SMASH Blue Raspberry Lemonade Premium Malt Beverage Can (16 fl oz)",
+      "price": "$4.49",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/32627178-b51e-4191-9f98-a6838ecdb277-retina-large.jpg ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Sparkling & Sweet"
+    },
+    {
+      "name": "Truly Gluten Free Punch Hard Seltzer Cans Variety Pack (12 fl oz x 12 ct)",
+      "description": "Truly Gluten Free Punch Hard Seltzer Cans Variety Pack (12 fl oz x 12 ct)",
+      "price": "$21.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/98afae65-9443-4b9b-a022-84c5da114eda-retina-large.jpeg ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Sparkling & Sweet"
+    },
+    {
+      "name": "Mike's Hard Lemonade Premium Malt Beverage Cans Variety Pack (12 fl oz x 12 ct)",
+      "description": "Mike's Hard Lemonade Premium Malt Beverage Cans Variety Pack (12 fl oz x 12 ct)",
+      "price": "$20.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/5a8e245b-989a-4689-988c-77347fe999e9-retina-large.png ",
+      "rating": "4.4",
+      "review_count": "",
+      "availability": "available",
+      "category": "Sparkling & Sweet"
+    },
+    {
+      "name": "Bud Light Gluten Free Platinum Hard Seltzer Slim Cans Variety Pack (12 fl oz x 12 ct)",
+      "description": "Bud Light Gluten Free Platinum Hard Seltzer Slim Cans Variety Pack (12 fl oz x 12 ct)",
+      "price": "$20.69",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/e591aaa2-9aba-4d73-91d6-5caaee6e1af2-retina-large.jpg ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Sparkling & Sweet"
+    },
+    {
+      "name": "White Claw Gluten Free Natural Lime Hard Seltzer Cans (12 fl oz x 6 ct)",
+      "description": "White Claw Gluten Free Natural Lime Hard Seltzer Cans (12 fl oz x 6 ct)",
+      "price": "$12.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/ab9209db-ce4e-49ff-a05d-6dba25f44bb1-retina-large.jpeg ",
+      "rating": "4.1",
+      "review_count": "",
+      "availability": "available",
+      "category": "Sparkling & Sweet"
+    },
+    {
+      "name": "Truly Gluten-Free Berry Hard Seltzer Cans Variety Pack (12 fl oz x 12 ct)",
+      "description": "Truly Gluten-Free Berry Hard Seltzer Cans Variety Pack (12 fl oz x 12 ct)",
+      "price": "$21.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/652d6932-24fb-4137-b3d2-165f4fd34df8-retina-large.png ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Sparkling & Sweet"
+    },
+    {
+      "name": "Smirnoff Ice Smash Red, White & Berry Malt Beverage Can (23.5 fl oz)",
+      "description": "Smirnoff Ice Smash Red, White & Berry Malt Beverage Can (23.5 fl oz)",
+      "price": "$4.49",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/596fe0cb-0a85-47f4-9068-8fded2f8ec7d-retina-large.jpg ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Sparkling & Sweet"
+    },
+    {
+      "name": "Mike's Harder Lemonade Premium Malt Beverage Can (23.5 fl oz)",
+      "description": "Mike's Harder Lemonade Premium Malt Beverage Can (23.5 fl oz)",
+      "price": "$3.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/ee77f042-ba40-495b-a9fd-0a57ebdd8779-retina-large.png ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Sparkling & Sweet"
+    },
+    {
+      "name": "Smirnoff Ice SMASH Peach & Mango Vodka Can (16 fl oz)",
+      "description": "Smirnoff Ice SMASH Peach & Mango Vodka Can (16 fl oz)",
+      "price": "$4.49",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/c24fa3f8-b6c2-44da-82bb-8779e1648791-retina-large.jpg ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Sparkling & Sweet"
+    },
+    {
+      "name": "Cayman Jack Margarita Premium Malt Beverage RTD Bottles (11.2 fl oz x 6 ct)",
+      "description": "Cayman Jack Margarita Premium Malt Beverage RTD Bottles (11.2 fl oz x 6 ct)",
+      "price": "$12.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/5d208a78-bc13-4720-9430-31662b98b00a-retina-large.png ",
+      "rating": "4.9",
+      "review_count": "",
+      "availability": "available",
+      "category": "Sparkling & Sweet"
+    },
+    {
+      "name": "Topo Chico Hard Seltzer Gluten-Free Spiked Sparkling Water Cans Variety Pack (12 fl oz x 12 ct)",
+      "description": "Topo Chico Hard Seltzer Gluten-Free Spiked Sparkling Water Cans Variety Pack (12 fl oz x 12 ct)",
+      "price": "$21.89",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/33f01521-8dd0-4f8b-b136-af818800a13c-retina-large.jpg ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Sparkling & Sweet"
+    },
+    {
+      "name": "White Claw Surge Blood Orange Hard Seltzer Can (16 fl oz)",
+      "description": "White Claw Surge Blood Orange Hard Seltzer Can (16 fl oz)",
+      "price": "$2.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/6497e7d2-6bb4-44e4-ab78-705694b90288-retina-large.jpg ",
+      "rating": "3.9",
+      "review_count": "",
+      "availability": "available",
+      "category": "Sparkling & Sweet"
+    },
+    {
+      "name": "Ritas Water-Melon-Rita Sparkling Margarita Malt Beverage RTD Can (25 fl oz)",
+      "description": "Ritas Water-Melon-Rita Sparkling Margarita Malt Beverage RTD Can (25 fl oz)",
+      "price": "$3.89",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/a9d46a2c-3c1e-426e-be28-9d348bc160d1-retina-large.jpg ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Sparkling & Sweet"
+    },
+    {
+      "name": "White Claw Gluten-Free Mango Hard Seltzer Cans (12 fl oz x 6 ct)",
+      "description": "White Claw Gluten-Free Mango Hard Seltzer Cans (12 fl oz x 6 ct)",
+      "price": "$12.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/cf668eb0-23b5-4399-98a7-b076929c777e-retina-large.jpeg ",
+      "rating": "4.3",
+      "review_count": "",
+      "availability": "available",
+      "category": "Sparkling & Sweet"
+    },
+    {
+      "name": "Happy Mom Gluten Free Raspberry Hard Seltzer Cans (12 fl oz x 12 ct)",
+      "description": "Happy Mom Gluten Free Raspberry Hard Seltzer Cans (12 fl oz x 12 ct)",
+      "price": "$22.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/3f214d55-0447-4a29-9fcc-b098289dbb17-retina-large.png ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Sparkling & Sweet"
+    },
+    {
+      "name": "White Claw Gluten Free Mango Hard Seltzer Cans (12 fl oz x 12 ct)",
+      "description": "White Claw Gluten Free Mango Hard Seltzer Cans (12 fl oz x 12 ct)",
+      "price": "$20.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/5ed0f21e-0ea2-4d94-b116-00cd4f79bc39-retina-large.jpg ",
+      "rating": "4.3",
+      "review_count": "",
+      "availability": "available",
+      "category": "Sparkling & Sweet"
+    },
+    {
+      "name": "Mountain Dew Original Zero Sugar Hard Malt Beverage Can (24 oz)",
+      "description": "Mountain Dew Original Zero Sugar Hard Malt Beverage Can (24 oz)",
+      "price": "$4.29",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/9591f784-7595-41a9-9da9-ad6964d51485-retina-large.jpg ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Sparkling & Sweet"
+    },
+    {
+      "name": "White Claw Blackberry Hard Seltzer Cans (12 fl oz x 6 ct)",
+      "description": "White Claw Blackberry Hard Seltzer Cans (12 fl oz x 6 ct)",
+      "price": "$12.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/756f6248-a4bd-4452-8ce7-ab104ae43a86-retina-large.jpeg ",
+      "rating": "5.0",
+      "review_count": "",
+      "availability": "available",
+      "category": "Sparkling & Sweet"
+    },
+    {
+      "name": "Truly Lemonade Hard Seltzer Cans Variety Pack (12 fl oz x 12 ct)",
+      "description": "Truly Lemonade Hard Seltzer Cans Variety Pack (12 fl oz x 12 ct)",
+      "price": "$21.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/d17c34d6-730a-402a-a1ea-4c268917c412-retina-large.png ",
+      "rating": "4.3",
+      "review_count": "",
+      "availability": "available",
+      "category": "Sparkling & Sweet"
+    },
+    {
+      "name": "White Claw Gluten Free Strawberry Hard Seltzer Can (19.2 fl oz)",
+      "description": "White Claw Gluten Free Strawberry Hard Seltzer Can (19.2 fl oz)",
+      "price": "$4.59",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/a14c4c1e-2205-421f-bb76-d85388f1854c-retina-large.jpg ",
+      "rating": "4.9",
+      "review_count": "",
+      "availability": "available",
+      "category": "Sparkling & Sweet"
+    },
+    {
+      "name": "White Claw Gluten Free Peach Hard Seltzer Cans (12 fl oz x 6 ct)",
+      "description": "White Claw Gluten Free Peach Hard Seltzer Cans (12 fl oz x 6 ct)",
+      "price": "$12.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/f73f2ee9-7604-44d4-aaaf-8950e885b538-retina-large.jpg ",
+      "rating": "3.9",
+      "review_count": "",
+      "availability": "available",
+      "category": "Sparkling & Sweet"
+    },
+    {
+      "name": "Vizzy Gluten Free Vibrantly Tropical Hard Seltzer Cans Variety Pack (12 fl oz x 12 ct)",
+      "description": "Vizzy Gluten Free Vibrantly Tropical Hard Seltzer Cans Variety Pack (12 fl oz x 12 ct)",
+      "price": "$21.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/f178a755-7265-4fd1-8bb9-f01971f77166-retina-large.png ",
+      "rating": "4.3",
+      "review_count": "",
+      "availability": "available",
+      "category": "Sparkling & Sweet"
+    },
+    {
+      "name": "Arnold Palmer Spiked Raspberry Half & Half Iced Tea Lemonade Malt Beverage Can (24 fl oz)",
+      "description": "Arnold Palmer Spiked Raspberry Half & Half Iced Tea Lemonade Malt Beverage Can (24 fl oz)",
+      "price": "$3.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/c64eb82e-b567-4656-86d8-238143cae930-retina-large.jpg ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Sparkling & Sweet"
+    },
+    {
+      "name": "Jack Daniel's Zero Sugar Tennessee Whiskey & Coca-Cola Cocktail RTD Cans (355 ml x 4 ct)",
+      "description": "Jack Daniel's Zero Sugar Tennessee Whiskey & Coca-Cola Cocktail RTD Cans (355 ml x 4 ct)",
+      "price": "$14.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/ff16659e-acfb-49f7-b02e-c05dbb592164-retina-large.png ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Sparkling & Sweet"
+    },
+    {
+      "name": "Happy Dad Grape Hard Seltzer Cans (12 oz x 12 ct)",
+      "description": "Happy Dad Grape Hard Seltzer Cans (12 oz x 12 ct)",
+      "price": "$22.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/a8530f59-e2c1-4317-938f-1e62ba33d2c6-retina-large.jpg ",
+      "rating": "3.5",
+      "review_count": "",
+      "availability": "available",
+      "category": "Sparkling & Sweet"
+    },
+    {
+      "name": "White Claw Gluten Free Ruby Grapefruit Hard Seltzer Can (19.2 fl oz)",
+      "description": "White Claw Gluten Free Ruby Grapefruit Hard Seltzer Can (19.2 fl oz)",
+      "price": "$4.59",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/909fd77d-6f14-4538-ac90-08e88246e7e5-retina-large.jpg ",
+      "rating": "4.0",
+      "review_count": "",
+      "availability": "available",
+      "category": "Sparkling & Sweet"
+    },
+    {
+      "name": "White Claw Gluten Free Mango Hard Seltzer Can (19.2 fl oz)",
+      "description": "White Claw Gluten Free Mango Hard Seltzer Can (19.2 fl oz)",
+      "price": "$4.59",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/9de7b181-b249-4a88-a275-8f914a14a0b9-retina-large.jpg ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Sparkling & Sweet"
+    },
+    {
+      "name": "White Claw Gluten-Free Green Apple Hard Seltzer Cans (12 fl oz x 6 ct)",
+      "description": "White Claw Gluten-Free Green Apple Hard Seltzer Cans (12 fl oz x 6 ct)",
+      "price": "$13.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/6e6294ab-1bc2-43dd-9be8-d7e51cbc7cdd-retina-large.jpg ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Sparkling & Sweet"
+    },
+    {
+      "name": "White Claw Gluten-Free Mango Hard Seltzer Can (19.2 oz)",
+      "description": "White Claw Gluten-Free Mango Hard Seltzer Can (19.2 oz)",
+      "price": "$4.59",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/6c5139c7-6da7-4d40-be72-d5e6ab59aacd-retina-large.jpg ",
+      "rating": "4.3",
+      "review_count": "",
+      "availability": "available",
+      "category": "Sparkling & Sweet"
+    },
+    {
+      "name": "ViBE by Vendange Twisted Sips Fruit Punch Wine Carton (500 ml)",
+      "description": "ViBE by Vendange Twisted Sips Fruit Punch Wine Carton (500 ml)",
+      "price": "$4.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/e48a4d53-c9aa-4d5f-85fe-9cf4eccd2b80-retina-large.png ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Sparkling & Sweet"
+    },
+    {
+      "name": "ViBE by Vendange Strawberry Limeade Wine Carton South Africa (500 ml)",
+      "description": "ViBE by Vendange Strawberry Limeade Wine Carton South Africa (500 ml)",
+      "price": "$4.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/8ecab44a-6a31-46f7-8ffe-cca2613b1f92-retina-large.png ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Sparkling & Sweet"
+    },
+    {
+      "name": "Jack Daniel's Tennessee Whiskey & Ginger Ale Cocktail RTD Cans (355 ml x 4 ct)",
+      "description": "Jack Daniel's Tennessee Whiskey & Ginger Ale Cocktail RTD Cans (355 ml x 4 ct)",
+      "price": "$14.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/bd8b4b7c-294a-4068-8e11-c8c561b85dda-retina-large.png ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Sparkling & Sweet"
+    },
+    {
+      "name": "Happy Dad Banana Hard Seltzer Cans (12 oz x 12 ct)",
+      "description": "Happy Dad Banana Hard Seltzer Cans (12 oz x 12 ct)",
+      "price": "$22.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/e74858a9-d98b-46df-b152-162b0779c96f-retina-large.png ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Sparkling & Sweet"
+    },
+    {
+      "name": "Captain Morgan Long Island Iced Tea Cocktail RTD Bottle (1.75 L)",
+      "description": "Captain Morgan Long Island Iced Tea Cocktail RTD Bottle (1.75 L)",
+      "price": "$29.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/91cbeaef-72f5-47ac-97cf-e21280e32211-retina-large.jpg ",
+      "rating": "4.3",
+      "review_count": "",
+      "availability": "available",
+      "category": "Sparkling & Sweet"
+    },
+    {
+      "name": "1800 The Ultimate Strawberry Margarita RTD Bottle (1.75 L)",
+      "description": "1800 The Ultimate Strawberry Margarita RTD Bottle (1.75 L)",
+      "price": "$26.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/46552307-f983-4ae4-bb3d-dd43e34c9b20-retina-large.jpg ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Sparkling & Sweet"
+    },
+    {
+      "name": "CoCo Ready to Drink Pineapple Vodka Cans (12 oz x 4 ct)",
+      "description": "CoCo Ready to Drink Pineapple Vodka Cans (12 oz x 4 ct)",
+      "price": "$14.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/3bdb2851-f1db-4938-86c9-7407555c8734-retina-large.png ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Sparkling & Sweet"
+    },
+    {
+      "name": "1800 The Ultimate Black Cherry Margarita Cocktail RTD Bottle (1.75 L)",
+      "description": "1800 The Ultimate Black Cherry Margarita Cocktail RTD Bottle (1.75 L)",
+      "price": "$26.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/66a9257c-9e39-4f00-9a3d-6bea52a8981e-retina-large.jpg ",
+      "rating": "4.4",
+      "review_count": "",
+      "availability": "available",
+      "category": "Sparkling & Sweet"
+    },
+    {
+      "name": "Evan Williams Spiced Apple Cider Original Southern Liqueur Bottle (750 ml)",
+      "description": "Evan Williams Spiced Apple Cider Original Southern Liqueur Bottle (750 ml)",
+      "price": "$21.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/49b0531a-6fe3-43f5-b5df-3b69db4a9cfa-retina-large.jpg ",
+      "rating": "4.5",
+      "review_count": "",
+      "availability": "available",
+      "category": "Sparkling & Sweet"
+    },
+    {
+      "name": "Bud Light Seltzer Gluten Free Hard Seltzer Slim Cans Variety Pack (12 fl oz x 12 ct)",
+      "description": "Bud Light Seltzer Gluten Free Hard Seltzer Slim Cans Variety Pack (12 fl oz x 12 ct)",
+      "price": "$19.49",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/26420db4-94f3-4e3a-8609-a8a91812ebd8-retina-large.png ",
+      "rating": "3.9",
+      "review_count": "",
+      "availability": "available",
+      "category": "Sparkling & Sweet"
+    },
+    {
+      "name": "TGI Fridays Mocha Ultimate Mudslide Cocktail Bottle (1.75 L)",
+      "description": "TGI Fridays Mocha Ultimate Mudslide Cocktail Bottle (1.75 L)",
+      "price": "$24.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/af372c4a-4e1d-40ce-b69c-dc982ef8c236-retina-large.png ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Sparkling & Sweet"
+    },
+    {
+      "name": "2 Towns Ciderhouse Craft Cider Variety Pack Cans (12 oz x 12 ct)",
+      "description": "2 Towns Ciderhouse Craft Cider Variety Pack Cans (12 oz x 12 ct)",
+      "price": "$26.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/db949fa0-6c7b-4d3b-80e8-14d2445e0e30-retina-large.png ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Sparkling & Sweet"
+    },
+    {
+      "name": "On The Rocks x Knob Creek The Old Fashioned RTD Cocktail Bottle (375 ml)",
+      "description": "On The Rocks x Knob Creek The Old Fashioned RTD Cocktail Bottle (375 ml)",
+      "price": "$16.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/6aca0f2a-e54d-4d3a-a73d-df5497f8aade-retina-large.jpg ",
+      "rating": "4.3",
+      "review_count": "",
+      "availability": "available",
+      "category": "Sparkling & Sweet"
+    },
+    {
+      "name": "Coco Rum Cocktail Cans (12 oz x 4 ct)",
+      "description": "Coco Rum Cocktail Cans (12 oz x 4 ct)",
+      "price": "$14.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/2370602e-3045-4932-b68a-374548b21ba1-retina-large.png ",
+      "rating": "5.0",
+      "review_count": "",
+      "availability": "available",
+      "category": "Sparkling & Sweet"
+    },
+    {
+      "name": "Daily's Cocktails Pina Colada Frozen Cocktail RTD Pouch (10 fl oz)",
+      "description": "Daily's Cocktails Pina Colada Frozen Cocktail RTD Pouch (10 fl oz)",
+      "price": "$4.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/32a9329d-e6bf-423d-a73f-4415c7f17a86-retina-large.png ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Sparkling & Sweet"
+    },
+    {
+      "name": "Jose Cuervo Golden Strawberry Margarita Cocktail RTD Bottle (1.75 L)",
+      "description": "Jose Cuervo Golden Strawberry Margarita Cocktail RTD Bottle (1.75 L)",
+      "price": "$26.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/b22ebf18-5c9a-4431-9b0f-8f9ebe0bbfff-retina-large.jpg ",
+      "rating": "4.3",
+      "review_count": "",
+      "availability": "available",
+      "category": "Sparkling & Sweet"
+    },
+    {
+      "name": "White Claw Uniquely Cold Wave Filtered Surf Hard Seltzer Cans Variety Pack (12 fl oz x 12 ct)",
+      "description": "White Claw Uniquely Cold Wave Filtered Surf Hard Seltzer Cans Variety Pack (12 fl oz x 12 ct)",
+      "price": "$22.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/1dd8f0b7-f7e8-404b-ba56-0a7e4363086a-retina-large.jpg ",
+      "rating": "4.7",
+      "review_count": "",
+      "availability": "available",
+      "category": "Sparkling & Sweet"
+    },
+    {
+      "name": "Jefferson's 68 Proof Barrel Aged Manhattan Bourbon Whiskey Cocktail Bottle (750 ml)",
+      "description": "Jefferson's 68 Proof Barrel Aged Manhattan Bourbon Whiskey Cocktail Bottle (750 ml)",
+      "price": "$41.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/a6567b39-6d0f-45ec-a4e0-fc2a0c2ec29b-retina-large.jpg ",
+      "rating": "4.3",
+      "review_count": "",
+      "availability": "available",
+      "category": "Sparkling & Sweet"
+    },
+    {
+      "name": "White Claw Gluten Free Cranberry Surge Hard Seltzer Can (16 fl oz)",
+      "description": "White Claw Gluten Free Cranberry Surge Hard Seltzer Can (16 fl oz)",
+      "price": "$2.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/77a478d7-735c-40f6-92f5-c652f118ec02-retina-large.jpg ",
+      "rating": "4.0",
+      "review_count": "",
+      "availability": "available",
+      "category": "Sparkling & Sweet"
+    },
+    {
+      "name": "Coco Original Triple Distilled Vodka Water Cans (12 oz x 4 ct)",
+      "description": "Coco Original Triple Distilled Vodka Water Cans (12 oz x 4 ct)",
+      "price": "$14.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/3f252f8e-6875-4389-9988-6c553b590c2d-retina-large.png ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Sparkling & Sweet"
+    },
+    {
+      "name": "Bud Light Seltzer Gluten Free Sangria Splash Hard Seltzer Cans Variety Pack (12 fl oz x 12 ct)",
+      "description": "Bud Light Seltzer Gluten Free Sangria Splash Hard Seltzer Cans Variety Pack (12 fl oz x 12 ct)",
+      "price": "$19.89",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/c956cc52-694c-4ff8-a4e9-547b5c235998-retina-large.jpg ",
+      "rating": "4.0",
+      "review_count": "",
+      "availability": "available",
+      "category": "Sparkling & Sweet"
+    },
+    {
+      "name": "Nutrl Vodka Gluten Free Watermelon Real Juice Vodka Seltzer Cans (12 fl oz x 4 ct)",
+      "description": "Nutrl Vodka Gluten Free Watermelon Real Juice Vodka Seltzer Cans (12 fl oz x 4 ct)",
+      "price": "$11.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/9d79fa3e-ee75-427c-870a-b3f417afaf31-retina-large.jpg ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Sparkling & Sweet"
+    },
+    {
+      "name": "Michelob Ultra Organic Classic Collection Hard Seltzer Slim Cans Variety Pack (12 fl oz x 12 ct)",
+      "description": "Michelob Ultra Organic Classic Collection Hard Seltzer Slim Cans Variety Pack (12 fl oz x 12 ct)",
+      "price": "$19.89",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/a536759e-bb10-420f-9b4f-7b2946f88b54-retina-large.jpg ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Sparkling & Sweet"
+    }
+  ]
+}

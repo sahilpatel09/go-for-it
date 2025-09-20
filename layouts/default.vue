@@ -22,15 +22,13 @@
             <NuxtLink to="/" class="transition-colors font-medium" style="color: #EAEAEA; font-family: 'Inter', sans-serif;" :style="{ color: $route.path === '/' ? '#C9A227' : '#EAEAEA' }" onmouseover="this.style.color='#C9A227';" onmouseout="this.style.color=$route.path === '/' ? '#C9A227' : '#EAEAEA';">
               Home
             </NuxtLink>
-            <NuxtLink to="/store" class="transition-colors font-medium" style="color: #EAEAEA; font-family: 'Inter', sans-serif;" :style="{ color: $route.path === '/store' ? '#C9A227' : '#EAEAEA' }" onmouseover="this.style.color='#C9A227';" onmouseout="this.style.color=$route.path === '/store' ? '#C9A227' : '#EAEAEA';">
+            <!-- <NuxtLink to="/store" class="transition-colors font-medium" style="color: #EAEAEA; font-family: 'Inter', sans-serif;" :style="{ color: $route.path === '/store' ? '#C9A227' : '#EAEAEA' }" onmouseover="this.style.color='#C9A227';" onmouseout="this.style.color=$route.path === '/store' ? '#C9A227' : '#EAEAEA';">
               Store
-            </NuxtLink>
+            </NuxtLink> -->
             <NuxtLink to="/liquor" class="transition-colors font-medium" style="color: #EAEAEA; font-family: 'Inter', sans-serif;" :style="{ color: $route.path === '/liquor' ? '#C9A227' : '#EAEAEA' }" onmouseover="this.style.color='#C9A227';" onmouseout="this.style.color=$route.path === '/liquor' ? '#C9A227' : '#EAEAEA';">
               Liquor
             </NuxtLink>
-            <NuxtLink to="/fuel" class="transition-colors font-medium" style="color: #EAEAEA; font-family: 'Inter', sans-serif;" :style="{ color: $route.path === '/fuel' ? '#C9A227' : '#EAEAEA' }" onmouseover="this.style.color='#C9A227';" onmouseout="this.style.color=$route.path === '/fuel' ? '#C9A227' : '#EAEAEA';">
-              Fuel
-            </NuxtLink>
+leas -->
             <NuxtLink to="/contact" class="transition-colors font-medium" style="color: #EAEAEA; font-family: 'Inter', sans-serif;" :style="{ color: $route.path === '/contact' ? '#C9A227' : '#EAEAEA' }" onmouseover="this.style.color='#C9A227';" onmouseout="this.style.color=$route.path === '/contact' ? '#C9A227' : '#EAEAEA';">
               Contact
             </NuxtLink>
