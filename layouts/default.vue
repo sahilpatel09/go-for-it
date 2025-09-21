@@ -117,31 +117,31 @@
             <div class="space-y-2 text-sm">
               <div class="flex justify-between">
                 <span style="color: #EAEAEA; font-family: 'Inter', sans-serif;">Monday</span>
-                <span style="color: #EAEAEA; font-family: 'Inter', sans-serif;">6:00 AM - 10:00 PM</span>
+                <span style="color: #EAEAEA; font-family: 'Inter', sans-serif;">8:00 AM - 10:00 PM</span>
               </div>
               <div class="flex justify-between">
                 <span style="color: #EAEAEA; font-family: 'Inter', sans-serif;">Tuesday</span>
-                <span style="color: #EAEAEA; font-family: 'Inter', sans-serif;">6:00 AM - 10:00 PM</span>
+                <span style="color: #EAEAEA; font-family: 'Inter', sans-serif;">8:00 AM - 10:00 PM</span>
               </div>
               <div class="flex justify-between">
                 <span style="color: #EAEAEA; font-family: 'Inter', sans-serif;">Wednesday</span>
-                <span style="color: #EAEAEA; font-family: 'Inter', sans-serif;">6:00 AM - 10:00 PM</span>
+                <span style="color: #EAEAEA; font-family: 'Inter', sans-serif;">8:00 AM - 10:00 PM</span>
               </div>
               <div class="flex justify-between">
                 <span style="color: #EAEAEA; font-family: 'Inter', sans-serif;">Thursday</span>
-                <span style="color: #EAEAEA; font-family: 'Inter', sans-serif;">6:00 AM - 10:00 PM</span>
+                <span style="color: #EAEAEA; font-family: 'Inter', sans-serif;">8:00 AM - 10:00 PM</span>
               </div>
               <div class="flex justify-between">
                 <span style="color: #EAEAEA; font-family: 'Inter', sans-serif;">Friday</span>
-                <span style="color: #EAEAEA; font-family: 'Inter', sans-serif;">6:00 AM - 10:00 PM</span>
+                <span style="color: #EAEAEA; font-family: 'Inter', sans-serif;">8:00 AM - 10:00 PM</span>
               </div>
               <div class="flex justify-between">
                 <span style="color: #EAEAEA; font-family: 'Inter', sans-serif;">Saturday</span>
-                <span style="color: #EAEAEA; font-family: 'Inter', sans-serif;">6:00 AM - 10:00 PM</span>
+                <span style="color: #EAEAEA; font-family: 'Inter', sans-serif;">8:00 AM - 10:00 PM</span>
               </div>
               <div class="flex justify-between">
                 <span style="color: #EAEAEA; font-family: 'Inter', sans-serif;">Sunday</span>
-                <span style="color: #EAEAEA; font-family: 'Inter', sans-serif;">6:00 AM - 10:00 PM</span>
+                <span style="color: #EAEAEA; font-family: 'Inter', sans-serif;">11:00 AM - 6:00 PM</span>
               </div>
               <p class="text-xs mt-2" style="color: #EAEAEA; font-family: 'Inter', sans-serif;">*Gas pumps available 24/7</p>
             </div>
@@ -199,31 +199,31 @@
         <div class="space-y-1 text-sm">
               <div class="flex justify-between">
                 <span style="color: #EAEAEA; font-family: 'Inter', sans-serif;">Monday</span>
-                <span style="color: #EAEAEA; font-family: 'Inter', sans-serif;">6:00 AM - 10:00 PM</span>
+                <span style="color: #EAEAEA; font-family: 'Inter', sans-serif;">8:00 AM - 10:00 PM</span>
               </div>
               <div class="flex justify-between">
                 <span style="color: #EAEAEA; font-family: 'Inter', sans-serif;">Tuesday</span>
-                <span style="color: #EAEAEA; font-family: 'Inter', sans-serif;">6:00 AM - 10:00 PM</span>
+                <span style="color: #EAEAEA; font-family: 'Inter', sans-serif;">8:00 AM - 10:00 PM</span>
               </div>
               <div class="flex justify-between">
                 <span style="color: #EAEAEA; font-family: 'Inter', sans-serif;">Wednesday</span>
-                <span style="color: #EAEAEA; font-family: 'Inter', sans-serif;">6:00 AM - 10:00 PM</span>
+                <span style="color: #EAEAEA; font-family: 'Inter', sans-serif;">8:00 AM - 10:00 PM</span>
               </div>
               <div class="flex justify-between">
                 <span style="color: #EAEAEA; font-family: 'Inter', sans-serif;">Thursday</span>
-                <span style="color: #EAEAEA; font-family: 'Inter', sans-serif;">6:00 AM - 10:00 PM</span>
+                <span style="color: #EAEAEA; font-family: 'Inter', sans-serif;">8:00 AM - 10:00 PM</span>
               </div>
               <div class="flex justify-between">
                 <span style="color: #EAEAEA; font-family: 'Inter', sans-serif;">Friday</span>
-                <span style="color: #EAEAEA; font-family: 'Inter', sans-serif;">6:00 AM - 10:00 PM</span>
+                <span style="color: #EAEAEA; font-family: 'Inter', sans-serif;">8:00 AM - 10:00 PM</span>
               </div>
               <div class="flex justify-between">
                 <span style="color: #EAEAEA; font-family: 'Inter', sans-serif;">Saturday</span>
-                <span style="color: #EAEAEA; font-family: 'Inter', sans-serif;">6:00 AM - 10:00 PM</span>
+                <span style="color: #EAEAEA; font-family: 'Inter', sans-serif;">8:00 AM - 10:00 PM</span>
               </div>
               <div class="flex justify-between">
                 <span style="color: #EAEAEA; font-family: 'Inter', sans-serif;">Sunday</span>
-                <span style="color: #EAEAEA; font-family: 'Inter', sans-serif;">6:00 AM - 10:00 PM</span>
+                <span style="color: #EAEAEA; font-family: 'Inter', sans-serif;">11:00 AM - 6:00 PM</span>
               </div>
           <p class="text-xs mt-2" style="color: #EAEAEA; font-family: 'Inter', sans-serif;">*Gas pumps available 24/7</p>
         </div>

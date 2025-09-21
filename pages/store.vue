@@ -264,8 +264,8 @@
               </div>
               <div class="space-y-4">
                 <div class="flex justify-between items-center py-3 border-b" style="border-color: rgba(212, 175, 55, 0.2);">
-                  <span class="font-semibold" style="color: #D4AF37; font-family: 'Inter', sans-serif;">Monday - Sunday</span>
-                  <span style="color: #F5F5F5; font-family: 'Inter', sans-serif;">6:00 AM - 10:00 PM</span>
+                  <span class="font-semibold" style="color: #D4AF37; font-family: 'Inter', sans-serif;">Monday - Saturday</span>
+                  <span style="color: #F5F5F5; font-family: 'Inter', sans-serif;">8:00 AM - 10:00 PM</span>
                 </div>
                 <div class="flex justify-between items-center py-3">
                   <span class="font-semibold" style="color: #D4AF37; font-family: 'Inter', sans-serif;">Gas Pumps</span>

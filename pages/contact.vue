@@ -253,31 +253,31 @@
                 <div class="space-y-3">
                   <div class="flex justify-between items-center">
                     <span class="font-medium" style="color: #F5F5F5; font-family: 'Inter', sans-serif;">Monday</span>
-                    <span style="color: #D4AF37; font-family: 'Inter', sans-serif;">6:00 AM - 10:00 PM</span>
+                    <span style="color: #D4AF37; font-family: 'Inter', sans-serif;">8:00 AM - 10:00 PM</span>
                   </div>
                   <div class="flex justify-between items-center">
                     <span class="font-medium" style="color: #F5F5F5; font-family: 'Inter', sans-serif;">Tuesday</span>
-                    <span style="color: #D4AF37; font-family: 'Inter', sans-serif;">6:00 AM - 10:00 PM</span>
+                    <span style="color: #D4AF37; font-family: 'Inter', sans-serif;">8:00 AM - 10:00 PM</span>
                   </div>
                   <div class="flex justify-between items-center">
                     <span class="font-medium" style="color: #F5F5F5; font-family: 'Inter', sans-serif;">Wednesday</span>
-                    <span style="color: #D4AF37; font-family: 'Inter', sans-serif;">6:00 AM - 10:00 PM</span>
+                    <span style="color: #D4AF37; font-family: 'Inter', sans-serif;">8:00 AM - 10:00 PM</span>
                   </div>
                   <div class="flex justify-between items-center">
                     <span class="font-medium" style="color: #F5F5F5; font-family: 'Inter', sans-serif;">Thursday</span>
-                    <span style="color: #D4AF37; font-family: 'Inter', sans-serif;">6:00 AM - 10:00 PM</span>
+                    <span style="color: #D4AF37; font-family: 'Inter', sans-serif;">8:00 AM - 10:00 PM</span>
                   </div>
                   <div class="flex justify-between items-center">
                     <span class="font-medium" style="color: #F5F5F5; font-family: 'Inter', sans-serif;">Friday</span>
-                    <span style="color: #D4AF37; font-family: 'Inter', sans-serif;">6:00 AM - 10:00 PM</span>
+                    <span style="color: #D4AF37; font-family: 'Inter', sans-serif;">8:00 AM - 10:00 PM</span>
                   </div>
                   <div class="flex justify-between items-center">
                     <span class="font-medium" style="color: #F5F5F5; font-family: 'Inter', sans-serif;">Saturday</span>
-                    <span style="color: #D4AF37; font-family: 'Inter', sans-serif;">6:00 AM - 10:00 PM</span>
+                    <span style="color: #D4AF37; font-family: 'Inter', sans-serif;">8:00 AM - 10:00 PM</span>
                   </div>
                   <div class="flex justify-between items-center">
                     <span class="font-medium" style="color: #F5F5F5; font-family: 'Inter', sans-serif;">Sunday</span>
-                    <span style="color: #D4AF37; font-family: 'Inter', sans-serif;">6:00 AM - 10:00 PM</span>
+                    <span style="color: #D4AF37; font-family: 'Inter', sans-serif;">11:00 AM - 6:00 PM</span>
                   </div>
                 </div>
                 

@@ -4,7 +4,7 @@
     <section class="relative min-h-screen flex items-center justify-center overflow-hidden" style="background: linear-gradient(135deg, #0A0A0A 0%, #1A1A1A 50%, #0F0F0F 100%);">
       <div class="absolute inset-0">
         <NuxtImg 
-          src="/shop-building.webp" 
+          src="/home_back.jpeg" 
           alt="Go For It Liquor Store - Premium Spirits Destination"
           class="w-full h-full object-cover opacity-25"
           loading="eager"
@@ -250,8 +250,8 @@
                 </div>
                 <div class="space-y-6">
                   <div class="flex justify-between items-center py-3 border-b" style="border-color: rgba(212, 175, 55, 0.2);">
-                    <span class="font-semibold" style="color: #D4AF37; font-family: 'Inter', sans-serif;">Monday - Sunday</span>
-                    <span style="color: #F5F5F5; font-family: 'Inter', sans-serif;">6:00 AM - 10:00 PM</span>
+                    <span class="font-semibold" style="color: #D4AF37; font-family: 'Inter', sans-serif;">Monday - Saturday</span>
+                    <span style="color: #F5F5F5; font-family: 'Inter', sans-serif;">8:00 AM - 10:00 PM</span>
                   </div>
                   <div class="flex justify-between items-center py-3">
                     <span class="font-semibold" style="color: #D4AF37; font-family: 'Inter', sans-serif;">Gas Pumps</span>

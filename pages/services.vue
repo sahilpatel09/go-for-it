@@ -236,7 +236,7 @@
             <div class="space-y-3">
               <div class="flex justify-between">
                 <span class="font-medium" style="color: #F5F5F5; font-family: 'Inter', sans-serif;">Car Wash</span>
-                <span style="color: #D4AF37; font-family: 'Inter', sans-serif;">6:00 AM - 10:00 PM</span>
+                <span style="color: #D4AF37; font-family: 'Inter', sans-serif;">8:00 AM - 10:00 PM</span>
               </div>
               <div class="flex justify-between">
                 <span class="font-medium" style="color: #F5F5F5; font-family: 'Inter', sans-serif;">Oil Change</span>
