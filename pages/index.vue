@@ -4,13 +4,13 @@
     <section class="relative min-h-screen flex items-center justify-center overflow-hidden" style="background: linear-gradient(135deg, #0A0A0A 0%, #1A1A1A 50%, #0F0F0F 100%);">
       <div class="absolute inset-0">
         <NuxtImg 
-          src="/jack_daniel.png" 
-          alt="Premium Spirits Collection at Go For It Liquor"
-          class="w-full h-full object-cover opacity-20"
+          src="/shop-building.webp" 
+          alt="Go For It Liquor Store - Premium Spirits Destination"
+          class="w-full h-full object-cover opacity-25"
           loading="eager"
           preload
         />
-        <div class="absolute inset-0" style="background: linear-gradient(135deg, rgba(10, 10, 10, 0.95) 0%, rgba(26, 26, 26, 0.85) 50%, rgba(15, 15, 15, 0.95) 100%);"></div>
+        <div class="absolute inset-0" style="background: linear-gradient(135deg, rgba(10, 10, 10, 0.4) 0%, rgba(26, 26, 26, 0.3) 50%, rgba(15, 15, 15, 0.4) 100%);"></div>
       </div>
       
       <div class="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
