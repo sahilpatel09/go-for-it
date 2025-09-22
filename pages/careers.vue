@@ -4,7 +4,7 @@
     <section class="relative h-64 flex items-center justify-center overflow-hidden">
       <div class="absolute inset-0">
         <NuxtImg 
-          src="/img.webp" 
+          src="/images/backgrounds/services-background.webp" 
           alt="Go For It Gas Station - 3255 Viking Blvd NE, East Bethel, MN"
           class="w-full h-full object-cover"
         />

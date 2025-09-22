@@ -4,7 +4,7 @@
     <section class="relative min-h-screen flex items-center justify-center overflow-hidden" style="background: linear-gradient(135deg, #0A0A0A 0%, #1A1A1A 50%, #0F0F0F 100%);">
       <div class="absolute inset-0">
         <NuxtImg 
-          src="/test_image.jpg" 
+          src="/images/products/test-product.jpg" 
           alt="Premium Convenience Experience at Go For It Liquor"
           class="w-full h-full object-cover opacity-20"
           loading="eager"

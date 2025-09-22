@@ -4,7 +4,7 @@
     <section class="relative min-h-screen flex items-center justify-center overflow-hidden" style="background: linear-gradient(135deg, #0A0A0A 0%, #1A1A1A 50%, #0F0F0F 100%);">
       <div class="absolute inset-0">
         <NuxtImg 
-          src="/home_back.jpeg" 
+          src="/images/backgrounds/home-background.jpeg" 
           alt="Go For It Liquor Store - Premium Spirits Destination"
           class="w-full h-full object-cover opacity-25"
           loading="eager"
@@ -66,7 +66,7 @@
             <div class="p-8 text-center">
               <div class="mb-6">
                 <NuxtImg 
-                  src="/crown_royal_dark.png" 
+                  src="/images/brands/crown-royal-dark.png" 
                   alt="Buffalo Trace Kentucky Straight Bourbon Whiskey"
                   class="w-48 h-48 object-cover mx-auto rounded-lg drop-shadow-2xl transition-transform duration-500 group-hover:scale-110"
                   loading="lazy"
@@ -84,7 +84,7 @@
             <div class="p-8 text-center">
               <div class="mb-6">
                 <NuxtImg 
-                  src="/vodka_dark.png" 
+                  src="/images/brands/vodka-dark.png" 
                   alt="Buffalo Trace Kentucky Straight Bourbon Whiskey"
                   class="w-48 h-48 object-cover mx-auto rounded-lg drop-shadow-2xl transition-transform duration-500 group-hover:scale-110"
                   loading="lazy"
@@ -103,7 +103,7 @@
             <div class="p-8 text-center">
               <div class="mb-6">
                 <NuxtImg 
-                  src="/tail_dark_1.png" 
+                  src="/images/brands/tail-dark-1.png" 
                   alt="Yellow Tail Jammy Red Roo Wine"
                   class="w-48 h-48 object-cover mx-auto rounded-lg drop-shadow-2xl transition-transform duration-500 group-hover:scale-110"
                   loading="lazy"
@@ -182,7 +182,7 @@
         <!-- <div class="mt-16 text-center">
           <div class="relative max-w-4xl mx-auto">
             <NuxtImg 
-              src="/test_image.jpg" 
+              src="/images/products/test-product.jpg" 
               alt="Go For It Liquor Store Interior"
               class="w-full h-64 md:h-80 object-cover rounded-2xl shadow-2xl"
             />

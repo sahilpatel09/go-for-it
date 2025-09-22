@@ -32,7 +32,9 @@ export default defineNuxtConfig({
         { name: 'keywords', content: 'gas station, fuel prices, convenience store, snacks, coffee, car wash, ATM' }
       ],
       link: [
-        { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+        { rel: 'icon', type: 'image/x-icon', href: '/icons/favicon.ico' },
+        { rel: 'icon', type: 'image/svg+xml', href: '/icons/favicon.svg' },
+        { rel: 'apple-touch-icon', sizes: '180x180', href: '/icons/apple-touch-icon.png' }
       ]
     }
   },

@@ -1,2 +1,16 @@
-User-Agent: *
-Disallow:
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://goforitliquor.com/sitemap.xml
+
+# Crawl-delay for respectful crawling
+Crawl-delay: 1
+
+# Allow all search engines to access images
+User-agent: Googlebot-Image
+Allow: /images/
+
+# Allow all search engines to access data
+User-agent: *
+Allow: /data/

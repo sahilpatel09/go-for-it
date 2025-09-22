@@ -4,7 +4,7 @@
     <section class="relative h-96 flex items-center justify-center overflow-hidden">
       <div class="absolute inset-0">
         <NuxtImg 
-          src="/img.webp" 
+          src="/images/backgrounds/services-background.webp" 
           alt="Go For It Liquor - Premium Promotions"
           class="w-full h-full object-cover opacity-30"
         />

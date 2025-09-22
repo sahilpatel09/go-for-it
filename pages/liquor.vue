@@ -4,7 +4,7 @@
     <section class="relative min-h-screen flex items-center justify-center overflow-hidden" style="background: linear-gradient(135deg, #0A0A0A 0%, #1A1A1A 50%, #0F0F0F 100%);">
       <div class="absolute inset-0">
         <NuxtImg 
-          src="/home_back.jpeg" 
+          src="/images/backgrounds/home-background.jpeg" 
           alt="Go For It Liquor Store - Premium Spirits Destination"
           class="w-full h-full object-cover opacity-25"
           loading="eager"
@@ -89,7 +89,7 @@
                 <div class="flex items-center space-x-6">
                       <div class="relative">
                   <NuxtImg 
-                    src="/jack_daniel.png" 
+                    src="/images/brands/jack-daniel.png" 
                     alt="Jack Daniel's Old No. 7"
                           class="w-20 h-28 object-contain transition-transform duration-500 group-hover:scale-110"
                   />
@@ -112,7 +112,7 @@
                 <div class="flex items-center space-x-6">
                       <div class="relative">
                   <NuxtImg 
-                    src="/jack.jpg" 
+                    src="/images/brands/jack-daniels.jpg" 
                     alt="Jack Daniel's Gentleman Jack"
                           class="w-20 h-28 object-contain transition-transform duration-500 group-hover:scale-110"
                   />
@@ -431,19 +431,19 @@ const loadProducts = async () => {
   loading.value = true
   try {
     const [vodkaData, beerData, seltzerData, sparklingData, wineData, ginData, rumData, whiskyData, tequilaData, brandyData, snacksData, drinksData, liquorData] = await Promise.all([
-      $fetch('/vodka_data.json'),
-      $fetch('/beer_data.json'),
-      $fetch('/seltzer_data.json'),
-      $fetch('/sparkling_and_sweet_data.json'),
-      $fetch('/wine_data.json'),
-      $fetch('/gin_data.json'),
-      $fetch('/rum_data.json'),
-      $fetch('/whisky_data.json'),
-      $fetch('/tequila_data.json'),
-      $fetch('/brandy_and_cognac_data.json'),
-      $fetch('/snacks_data.json'),
-      $fetch('/drinks_and_mixes_data.json'),
-      $fetch('/premium_liquor_data.json')
+      $fetch('/data/vodka_data.json'),
+      $fetch('/data/beer_data.json'),
+      $fetch('/data/seltzer_data.json'),
+      $fetch('/data/sparkling_and_sweet_data.json'),
+      $fetch('/data/wine_data.json'),
+      $fetch('/data/gin_data.json'),
+      $fetch('/data/rum_data.json'),
+      $fetch('/data/whisky_data.json'),
+      $fetch('/data/tequila_data.json'),
+      $fetch('/data/brandy_and_cognac_data.json'),
+      $fetch('/data/snacks_data.json'),
+      $fetch('/data/drinks_and_mixes_data.json'),
+      $fetch('/data/premium_liquor_data.json')
     ])
     
     allProducts.value = {
