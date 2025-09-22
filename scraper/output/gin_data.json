@@ -1,0 +1,317 @@
+{
+  "store_info": {
+    "name": "Go For it Liquor",
+    "address": "Unknown Address",
+    "hours": "Unknown Hours",
+    "url": "https://www.doordash.com/convenience/store/27498004/"
+  },
+  "categories": {
+    "Gin": {
+      "product_count": 15,
+      "products": [
+        {
+          "name": "Bombay Sapphire 94 Proof Distilled London Dry Gin Bottle (750 ml)",
+          "description": "Bombay Sapphire 94 Proof Distilled London Dry Gin Bottle (750 ml)",
+          "price": "$35.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/5867af32-b633-43f9-af8a-7d6386ff08bc-retina-large.png ",
+          "rating": "4.5",
+          "review_count": "",
+          "availability": "available",
+          "category": "Gin"
+        },
+        {
+          "name": "Tanqueray 94.6 Proof London Dry Gin Bottle (375 ml)",
+          "description": "Tanqueray 94.6 Proof London Dry Gin Bottle (375 ml)",
+          "price": "$16.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/ce7ad2b7-befd-458c-a21c-c9d53508e93f-retina-large.jpg ",
+          "rating": "4.5",
+          "review_count": "",
+          "availability": "available",
+          "category": "Gin"
+        },
+        {
+          "name": "New Amsterdam Stratusphere 94.6 Proof London Dry Gin Bottle (1.75 L)",
+          "description": "New Amsterdam Stratusphere 94.6 Proof London Dry Gin Bottle (1.75 L)",
+          "price": "$29.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/d09bb6ca-fd47-4ec9-a5ac-edbef92c9712-retina-large.jpg ",
+          "rating": "4.7",
+          "review_count": "",
+          "availability": "available",
+          "category": "Gin"
+        },
+        {
+          "name": "Tanqueray 94.6 Proof London Dry Gin Bottle (1 L)",
+          "description": "Tanqueray 94.6 Proof London Dry Gin Bottle (1 L)",
+          "price": "$31.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/ee386dbc-6a51-4fcd-a220-b8b4f566c690-retina-large.jpg ",
+          "rating": "4.5",
+          "review_count": "",
+          "availability": "available",
+          "category": "Gin"
+        },
+        {
+          "name": "Beefeater 88 Proof London Dry Gin Bottle (1.75 L)",
+          "description": "Beefeater 88 Proof London Dry Gin Bottle (1.75 L)",
+          "price": "$40.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/89b68c80-ada4-436b-9ff6-5ec1eb5c039a-retina-large.jpg ",
+          "rating": "4.4",
+          "review_count": "",
+          "availability": "available",
+          "category": "Gin"
+        },
+        {
+          "name": "Seagram's Lime Twisted Gin Bottle (1 L)",
+          "description": "Seagram's Lime Twisted Gin Bottle (1 L)",
+          "price": "$17.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/5d0a5b5f-63ac-40b3-8d26-1ca14730dde8-retina-large.jpg ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Gin"
+        },
+        {
+          "name": "Hendrick's 88 Proof Gin Bottle (750 ml)",
+          "description": "Hendrick's 88 Proof Gin Bottle (750 ml)",
+          "price": "$46.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/188cd9dc-0fec-45d8-b192-f42567a40de5-retina-large.jpg ",
+          "rating": "4.7",
+          "review_count": "",
+          "availability": "available",
+          "category": "Gin"
+        },
+        {
+          "name": "Seagram’s 80 Proof Extra Dry Gin Bottle (1.75 L)",
+          "description": "Seagram’s 80 Proof Extra Dry Gin Bottle (1.75 L)",
+          "price": "$26.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/9d32f27e-0362-43a6-80d6-172d261d6a31-retina-large.jpg ",
+          "rating": "4.5",
+          "review_count": "",
+          "availability": "available",
+          "category": "Gin"
+        },
+        {
+          "name": "Seagram's Lime Twisted Gin Bottle (1.75 L)",
+          "description": "Seagram's Lime Twisted Gin Bottle (1.75 L)",
+          "price": "$26.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/ac8bd38a-7201-477d-b0d5-c44a86340cd3-retina-large.jpg ",
+          "rating": "4.6",
+          "review_count": "",
+          "availability": "available",
+          "category": "Gin"
+        },
+        {
+          "name": "Tanqueray 94.6 Proof London Dry Gin Bottle (1.75 L)",
+          "description": "Tanqueray 94.6 Proof London Dry Gin Bottle (1.75 L)",
+          "price": "$44.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/dc863059-d1b1-409d-9813-e14c8f6ba62a-retina-large.jpg ",
+          "rating": "4.6",
+          "review_count": "",
+          "availability": "available",
+          "category": "Gin"
+        },
+        {
+          "name": "Drumshanbo 86 Proof Gunpowder Irish Gin Bottle (750 ml)",
+          "description": "Drumshanbo 86 Proof Gunpowder Irish Gin Bottle (750 ml)",
+          "price": "$41.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/b66060f4-9ebe-4e59-a770-cdd2521ae61a-retina-large.png ",
+          "rating": "4.9",
+          "review_count": "",
+          "availability": "available",
+          "category": "Gin"
+        },
+        {
+          "name": "Karkov Gin (1.75 L)",
+          "description": "Karkov Gin (1.75 L)",
+          "price": "$16.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photos/ca014593-9ba1-4a29-9fb8-9418760bac4a-retina-large-jpeg ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Gin"
+        },
+        {
+          "name": "Burnett's 80 Proof London Dry Gin Bottle (1.75 L)",
+          "description": "Burnett's 80 Proof London Dry Gin Bottle (1.75 L)",
+          "price": "$18.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/9980248e-9a9a-49f7-8058-eef4c324fbdc-retina-large.jpg ",
+          "rating": "4.4",
+          "review_count": "",
+          "availability": "available",
+          "category": "Gin"
+        },
+        {
+          "name": "Burnett's Original 80 Proof London Dry Gin Bottle (1 L)",
+          "description": "Burnett's Original 80 Proof London Dry Gin Bottle (1 L)",
+          "price": "$11.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/3c7d05d4-dfde-4de5-b8d2-5d0dfb43ddbf-retina-large.jpg ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Gin"
+        },
+        {
+          "name": "Malfy Limone 82 Proof Gin Bottle (750 ml)",
+          "description": "Malfy Limone 82 Proof Gin Bottle (750 ml)",
+          "price": "$35.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/ea0b1380-3ef6-48e5-8f72-4e87bac7d1f7-retina-large.png ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Gin"
+        }
+      ]
+    }
+  },
+  "products": [
+    {
+      "name": "Bombay Sapphire 94 Proof Distilled London Dry Gin Bottle (750 ml)",
+      "description": "Bombay Sapphire 94 Proof Distilled London Dry Gin Bottle (750 ml)",
+      "price": "$35.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/5867af32-b633-43f9-af8a-7d6386ff08bc-retina-large.png ",
+      "rating": "4.5",
+      "review_count": "",
+      "availability": "available",
+      "category": "Gin"
+    },
+    {
+      "name": "Tanqueray 94.6 Proof London Dry Gin Bottle (375 ml)",
+      "description": "Tanqueray 94.6 Proof London Dry Gin Bottle (375 ml)",
+      "price": "$16.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/ce7ad2b7-befd-458c-a21c-c9d53508e93f-retina-large.jpg ",
+      "rating": "4.5",
+      "review_count": "",
+      "availability": "available",
+      "category": "Gin"
+    },
+    {
+      "name": "New Amsterdam Stratusphere 94.6 Proof London Dry Gin Bottle (1.75 L)",
+      "description": "New Amsterdam Stratusphere 94.6 Proof London Dry Gin Bottle (1.75 L)",
+      "price": "$29.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/d09bb6ca-fd47-4ec9-a5ac-edbef92c9712-retina-large.jpg ",
+      "rating": "4.7",
+      "review_count": "",
+      "availability": "available",
+      "category": "Gin"
+    },
+    {
+      "name": "Tanqueray 94.6 Proof London Dry Gin Bottle (1 L)",
+      "description": "Tanqueray 94.6 Proof London Dry Gin Bottle (1 L)",
+      "price": "$31.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/ee386dbc-6a51-4fcd-a220-b8b4f566c690-retina-large.jpg ",
+      "rating": "4.5",
+      "review_count": "",
+      "availability": "available",
+      "category": "Gin"
+    },
+    {
+      "name": "Beefeater 88 Proof London Dry Gin Bottle (1.75 L)",
+      "description": "Beefeater 88 Proof London Dry Gin Bottle (1.75 L)",
+      "price": "$40.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/89b68c80-ada4-436b-9ff6-5ec1eb5c039a-retina-large.jpg ",
+      "rating": "4.4",
+      "review_count": "",
+      "availability": "available",
+      "category": "Gin"
+    },
+    {
+      "name": "Seagram's Lime Twisted Gin Bottle (1 L)",
+      "description": "Seagram's Lime Twisted Gin Bottle (1 L)",
+      "price": "$17.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/5d0a5b5f-63ac-40b3-8d26-1ca14730dde8-retina-large.jpg ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Gin"
+    },
+    {
+      "name": "Hendrick's 88 Proof Gin Bottle (750 ml)",
+      "description": "Hendrick's 88 Proof Gin Bottle (750 ml)",
+      "price": "$46.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/188cd9dc-0fec-45d8-b192-f42567a40de5-retina-large.jpg ",
+      "rating": "4.7",
+      "review_count": "",
+      "availability": "available",
+      "category": "Gin"
+    },
+    {
+      "name": "Seagram’s 80 Proof Extra Dry Gin Bottle (1.75 L)",
+      "description": "Seagram’s 80 Proof Extra Dry Gin Bottle (1.75 L)",
+      "price": "$26.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/9d32f27e-0362-43a6-80d6-172d261d6a31-retina-large.jpg ",
+      "rating": "4.5",
+      "review_count": "",
+      "availability": "available",
+      "category": "Gin"
+    },
+    {
+      "name": "Seagram's Lime Twisted Gin Bottle (1.75 L)",
+      "description": "Seagram's Lime Twisted Gin Bottle (1.75 L)",
+      "price": "$26.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/ac8bd38a-7201-477d-b0d5-c44a86340cd3-retina-large.jpg ",
+      "rating": "4.6",
+      "review_count": "",
+      "availability": "available",
+      "category": "Gin"
+    },
+    {
+      "name": "Tanqueray 94.6 Proof London Dry Gin Bottle (1.75 L)",
+      "description": "Tanqueray 94.6 Proof London Dry Gin Bottle (1.75 L)",
+      "price": "$44.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/dc863059-d1b1-409d-9813-e14c8f6ba62a-retina-large.jpg ",
+      "rating": "4.6",
+      "review_count": "",
+      "availability": "available",
+      "category": "Gin"
+    },
+    {
+      "name": "Drumshanbo 86 Proof Gunpowder Irish Gin Bottle (750 ml)",
+      "description": "Drumshanbo 86 Proof Gunpowder Irish Gin Bottle (750 ml)",
+      "price": "$41.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/b66060f4-9ebe-4e59-a770-cdd2521ae61a-retina-large.png ",
+      "rating": "4.9",
+      "review_count": "",
+      "availability": "available",
+      "category": "Gin"
+    },
+    {
+      "name": "Karkov Gin (1.75 L)",
+      "description": "Karkov Gin (1.75 L)",
+      "price": "$16.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photos/ca014593-9ba1-4a29-9fb8-9418760bac4a-retina-large-jpeg ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Gin"
+    },
+    {
+      "name": "Burnett's 80 Proof London Dry Gin Bottle (1.75 L)",
+      "description": "Burnett's 80 Proof London Dry Gin Bottle (1.75 L)",
+      "price": "$18.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/9980248e-9a9a-49f7-8058-eef4c324fbdc-retina-large.jpg ",
+      "rating": "4.4",
+      "review_count": "",
+      "availability": "available",
+      "category": "Gin"
+    },
+    {
+      "name": "Burnett's Original 80 Proof London Dry Gin Bottle (1 L)",
+      "description": "Burnett's Original 80 Proof London Dry Gin Bottle (1 L)",
+      "price": "$11.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/3c7d05d4-dfde-4de5-b8d2-5d0dfb43ddbf-retina-large.jpg ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Gin"
+    },
+    {
+      "name": "Malfy Limone 82 Proof Gin Bottle (750 ml)",
+      "description": "Malfy Limone 82 Proof Gin Bottle (750 ml)",
+      "price": "$35.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/ea0b1380-3ef6-48e5-8f72-4e87bac7d1f7-retina-large.png ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Gin"
+    }
+  ]
+}

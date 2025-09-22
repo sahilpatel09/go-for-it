@@ -1,0 +1,717 @@
+{
+  "store_info": {
+    "name": "Go For it Liquor",
+    "address": "Unknown Address",
+    "hours": "Unknown Hours",
+    "url": "https://www.doordash.com/convenience/store/27498004/"
+  },
+  "categories": {
+    "Tequila": {
+      "product_count": 35,
+      "products": [
+        {
+          "name": "Don Julio 80 Proof Reposado Tequila Bottle (750 ml)",
+          "description": "Don Julio 80 Proof Reposado Tequila Bottle (750 ml)",
+          "price": "$68.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/dce96aac-2390-4d63-85b6-ce65e3c78082-retina-large.jpg ",
+          "rating": "4.7",
+          "review_count": "",
+          "availability": "available",
+          "category": "Tequila"
+        },
+        {
+          "name": "Patron 80 Proof Silver Tequila Bottle (375 ml)",
+          "description": "Patron 80 Proof Silver Tequila Bottle (375 ml)",
+          "price": "$29.89",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/70a5d44e-97f2-412a-8f5c-6a0f07233ade-retina-large.png ",
+          "rating": "4.7",
+          "review_count": "",
+          "availability": "available",
+          "category": "Tequila"
+        },
+        {
+          "name": "Espolon 80 Proof Reposado Tequila Bottle (750 ml)",
+          "description": "Espolon 80 Proof Reposado Tequila Bottle (750 ml)",
+          "price": "$48.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/4ecaa8bd-53c1-446e-9457-df4a971e535d-retina-large.jpg ",
+          "rating": "4.8",
+          "review_count": "",
+          "availability": "available",
+          "category": "Tequila"
+        },
+        {
+          "name": "Jose Cuervo Especial 80 Proof Silver Tequila Bottle (375 ml)",
+          "description": "Jose Cuervo Especial 80 Proof Silver Tequila Bottle (375 ml)",
+          "price": "$14.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/4d77e7f2-77e0-4fcc-95f5-30bd1c9359b9-retina-large.png ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Tequila"
+        },
+        {
+          "name": "Casamigos 80 Proof Blanco Tequila Bottle (750 ml)",
+          "description": "Casamigos 80 Proof Blanco Tequila Bottle (750 ml)",
+          "price": "$58.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/622aa108-ea30-4070-a5c1-2fd147d39015-retina-large.jpg ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Tequila"
+        },
+        {
+          "name": "Jose Cuervo Especial 80 Proof Silver Tequila Bottle (750 ml)",
+          "description": "Jose Cuervo Especial 80 Proof Silver Tequila Bottle (750 ml)",
+          "price": "$25.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/873aa790-eeb7-48d4-9fef-dab513877463-retina-large.jpg ",
+          "rating": "4.6",
+          "review_count": "",
+          "availability": "available",
+          "category": "Tequila"
+        },
+        {
+          "name": "1800 80 Proof Blanco Tequila Bottle (750 ml)",
+          "description": "1800 80 Proof Blanco Tequila Bottle (750 ml)",
+          "price": "$39.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/58af4f6f-88f8-4925-a36e-43d49c306e2e-retina-large.jpg ",
+          "rating": "4.6",
+          "review_count": "",
+          "availability": "available",
+          "category": "Tequila"
+        },
+        {
+          "name": "Hornitos 80 Proof Blanco Tequila Bottle (750 ml)",
+          "description": "Hornitos 80 Proof Blanco Tequila Bottle (750 ml)",
+          "price": "$27.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/b5a89c04-5cf2-46f3-8864-e44e36d0b71e-retina-large.png ",
+          "rating": "4.4",
+          "review_count": "",
+          "availability": "available",
+          "category": "Tequila"
+        },
+        {
+          "name": "Casamigos 80 Proof Reposado Tequila Bottle (750 ml)",
+          "description": "Casamigos 80 Proof Reposado Tequila Bottle (750 ml)",
+          "price": "$59.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/72fdfb78-e66d-4ac5-90d7-dc572f3043f4-retina-large.jpg ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Tequila"
+        },
+        {
+          "name": "Jose Cuervo Especial 80 Proof Gold Tequila Bottle (375 ml)",
+          "description": "Jose Cuervo Especial 80 Proof Gold Tequila Bottle (375 ml)",
+          "price": "$15.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/ab2989a6-fb67-45b5-b787-a4287b85d1eb-retina-large.jpg ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Tequila"
+        },
+        {
+          "name": "Jose Cuervo Especial 80 Proof Gold Tequila Bottle (1 L)",
+          "description": "Jose Cuervo Especial 80 Proof Gold Tequila Bottle (1 L)",
+          "price": "$29.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/d5675dc3-dd19-4b99-8447-43ada72f07ac-retina-large.jpg ",
+          "rating": "4.7",
+          "review_count": "",
+          "availability": "available",
+          "category": "Tequila"
+        },
+        {
+          "name": "Patrón 80 Proof Reposado Tequila Bottle (375 ml)",
+          "description": "Patrón 80 Proof Reposado Tequila Bottle (375 ml)",
+          "price": "$28.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/834f1302-28ea-4449-ade2-e3b961477316-retina-large.png ",
+          "rating": "4.7",
+          "review_count": "",
+          "availability": "available",
+          "category": "Tequila"
+        },
+        {
+          "name": "Hornitos 80 Proof Reposado Tequila Bottle (750 ml)",
+          "description": "Hornitos 80 Proof Reposado Tequila Bottle (750 ml)",
+          "price": "$27.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/05797d70-4701-4c22-8e28-4dad4fea3d42-retina-large.png ",
+          "rating": "4.5",
+          "review_count": "",
+          "availability": "available",
+          "category": "Tequila"
+        },
+        {
+          "name": "Jose Cuervo Especial 80 Proof Silver Tequila Bottle (1.75 L)",
+          "description": "Jose Cuervo Especial 80 Proof Silver Tequila Bottle (1.75 L)",
+          "price": "$49.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/c2f832b4-c3e9-4134-8903-7d4642bd9c48-retina-large.jpg ",
+          "rating": "4.6",
+          "review_count": "",
+          "availability": "available",
+          "category": "Tequila"
+        },
+        {
+          "name": "Jose Cuervo Especial 80 Proof Gold Tequila Bottle (1.75 L)",
+          "description": "Jose Cuervo Especial 80 Proof Gold Tequila Bottle (1.75 L)",
+          "price": "$48.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/981ec79c-4d0c-4bec-84ce-9b549a075b9d-retina-large.jpg ",
+          "rating": "4.6",
+          "review_count": "",
+          "availability": "available",
+          "category": "Tequila"
+        },
+        {
+          "name": "Jose Cuervo Especial 80 Proof Blue Agave Silver Tequila Bottle (1 L)",
+          "description": "Jose Cuervo Especial 80 Proof Blue Agave Silver Tequila Bottle (1 L)",
+          "price": "$29.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/fdb1ea9a-9ce0-4669-bd19-a15d76d20ba2-retina-large.jpg ",
+          "rating": "4.8",
+          "review_count": "",
+          "availability": "available",
+          "category": "Tequila"
+        },
+        {
+          "name": "Espolon 80 Proof Blanco Tequila Bottle (750 ml)",
+          "description": "Espolon 80 Proof Blanco Tequila Bottle (750 ml)",
+          "price": "$39.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/3da8b23f-8b4b-44d3-a26c-f2b188b88344-retina-large.jpg ",
+          "rating": "4.7",
+          "review_count": "",
+          "availability": "available",
+          "category": "Tequila"
+        },
+        {
+          "name": "Don Julio 80 Proof Anejo Tequila Bottle (750 ml)",
+          "description": "Don Julio 80 Proof Anejo Tequila Bottle (750 ml)",
+          "price": "$72.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/9ce4e80f-d987-4f24-9eb8-305f7343534a-retina-large.jpg ",
+          "rating": "4.7",
+          "review_count": "",
+          "availability": "available",
+          "category": "Tequila"
+        },
+        {
+          "name": "Olmeca Altos 80 Proof Plata Tequila Bottle (750 ml)",
+          "description": "Olmeca Altos 80 Proof Plata Tequila Bottle (750 ml)",
+          "price": "$34.49",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/df52b0c2-00a2-4e8e-8b12-a09e64c44755-retina-large.jpg ",
+          "rating": "4.6",
+          "review_count": "",
+          "availability": "available",
+          "category": "Tequila"
+        },
+        {
+          "name": "el Jimador 80 Proof Silver Tequila Bottle (750 ml)",
+          "description": "el Jimador 80 Proof Silver Tequila Bottle (750 ml)",
+          "price": "$25.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/faee0c1e-ab93-4489-a229-74f43c073762-retina-large.png ",
+          "rating": "4.5",
+          "review_count": "",
+          "availability": "available",
+          "category": "Tequila"
+        },
+        {
+          "name": "Patrón 80 Proof Silver Tequila Bottle (750 ml)",
+          "description": "Patrón 80 Proof Silver Tequila Bottle (750 ml)",
+          "price": "$55.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/710dec7a-5cba-4f95-8b41-2ccf1deebe81-retina-large.png ",
+          "rating": "4.7",
+          "review_count": "",
+          "availability": "available",
+          "category": "Tequila"
+        },
+        {
+          "name": "Familia Camarena 80 Proof Reposado Tequila Bottle (1 L)",
+          "description": "Familia Camarena 80 Proof Reposado Tequila Bottle (1 L)",
+          "price": "$34.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/fe274cf3-7983-4717-bb1a-f43210ea7f2d-retina-large.png ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Tequila"
+        },
+        {
+          "name": "Patron 80 Proof Reposado Tequila Bottle (750 ml)",
+          "description": "Patron 80 Proof Reposado Tequila Bottle (750 ml)",
+          "price": "$59.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/92046680-b390-4e4a-86c4-281903d7319a-retina-large.png ",
+          "rating": "4.8",
+          "review_count": "",
+          "availability": "available",
+          "category": "Tequila"
+        },
+        {
+          "name": "Camarena 80 Proof Silver Tequila Bottle (1 L)",
+          "description": "Camarena 80 Proof Silver Tequila Bottle (1 L)",
+          "price": "$38.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/260cd307-8100-44cd-ad19-2d52ef069a08-retina-large.png ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Tequila"
+        },
+        {
+          "name": "1800 80 Proof Reposado Tequila Bottle (1.75 L)",
+          "description": "1800 80 Proof Reposado Tequila Bottle (1.75 L)",
+          "price": "$64.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/6ff651e2-9d2d-440f-9bdc-8f12388a8b57-retina-large.jpg ",
+          "rating": "4.5",
+          "review_count": "",
+          "availability": "available",
+          "category": "Tequila"
+        },
+        {
+          "name": "Familia Camarene 80 Proof Silver Tequila Bottle (1.75 L)",
+          "description": "Familia Camarene 80 Proof Silver Tequila Bottle (1.75 L)",
+          "price": "$53.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/1b6d6b30-2544-4e47-ac3a-13cd74534b6c-retina-large.png ",
+          "rating": "4.6",
+          "review_count": "",
+          "availability": "available",
+          "category": "Tequila"
+        },
+        {
+          "name": "Camarena 80 Proof Silver Tequila Bottle (200 ml)",
+          "description": "Camarena 80 Proof Silver Tequila Bottle (200 ml)",
+          "price": "$10.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/2f83eeeb-2b64-4f40-9d18-bde368791550-retina-large.jpg ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Tequila"
+        },
+        {
+          "name": "Patrón 80 Proof Anejo Tequila Bottle (750 ml)",
+          "description": "Patrón 80 Proof Anejo Tequila Bottle (750 ml)",
+          "price": "$65.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/356a70e8-9dc2-49e8-a73e-b0aeb30edfa7-retina-large.png ",
+          "rating": "4.7",
+          "review_count": "",
+          "availability": "available",
+          "category": "Tequila"
+        },
+        {
+          "name": "Cabo Wabo 80 Proof Blanco Tequila Bottle (750 ml)",
+          "description": "Cabo Wabo 80 Proof Blanco Tequila Bottle (750 ml)",
+          "price": "$50.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/c70b7356-b59e-4aff-b506-b9cf3af8153c-retina-large.jpg ",
+          "rating": "4.6",
+          "review_count": "",
+          "availability": "available",
+          "category": "Tequila"
+        },
+        {
+          "name": "Cenote Tequila 80 Proof Reposado Tequila Bottle (750 ml)",
+          "description": "Cenote Tequila 80 Proof Reposado Tequila Bottle (750 ml)",
+          "price": "$67.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/c20c5bc5-378d-4284-bfe8-709dddb07701-retina-large.jpg ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Tequila"
+        },
+        {
+          "name": "Cenote Tequila 80 Proof Anejo Tequila Bottle (750 ml)",
+          "description": "Cenote Tequila 80 Proof Anejo Tequila Bottle (750 ml)",
+          "price": "$75.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/0cd627a3-5e4b-4040-b1da-070f650fbe89-retina-large.jpg ",
+          "rating": "3.6",
+          "review_count": "",
+          "availability": "available",
+          "category": "Tequila"
+        },
+        {
+          "name": "Camarena 80 Proof Silver Tequila Bottle (375 ml)",
+          "description": "Camarena 80 Proof Silver Tequila Bottle (375 ml)",
+          "price": "$15.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photos/ae4cefd5-e713-4bdd-9b70-cc02d53dfede-retina-large-jpeg ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Tequila"
+        },
+        {
+          "name": "Cenote Tequila 80 Proof Blanco Tequila Bottle (750 ml)",
+          "description": "Cenote Tequila 80 Proof Blanco Tequila Bottle (750 ml)",
+          "price": "$59.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/1ec5a386-c80a-4df3-b2e6-7bc4a819d077-retina-large.jpg ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Tequila"
+        },
+        {
+          "name": "Casa Noble 80 Proof Blanco Tequila Bottle (750 ml)",
+          "description": "Casa Noble 80 Proof Blanco Tequila Bottle (750 ml)",
+          "price": "$48.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/dd34eb88-6a6f-43e5-8fa9-61d4eed5c84d-retina-large.jpg ",
+          "rating": "4.4",
+          "review_count": "",
+          "availability": "available",
+          "category": "Tequila"
+        },
+        {
+          "name": "Gran Agave Ghost Edition Reposado Tequila Bottle (750 ml)",
+          "description": "Gran Agave Ghost Edition Reposado Tequila Bottle (750 ml)",
+          "price": "$57.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photos/39688139-99ad-4863-9b9a-5be170cd7c72-retina-large-jpeg ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Tequila"
+        }
+      ]
+    }
+  },
+  "products": [
+    {
+      "name": "Don Julio 80 Proof Reposado Tequila Bottle (750 ml)",
+      "description": "Don Julio 80 Proof Reposado Tequila Bottle (750 ml)",
+      "price": "$68.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/dce96aac-2390-4d63-85b6-ce65e3c78082-retina-large.jpg ",
+      "rating": "4.7",
+      "review_count": "",
+      "availability": "available",
+      "category": "Tequila"
+    },
+    {
+      "name": "Patron 80 Proof Silver Tequila Bottle (375 ml)",
+      "description": "Patron 80 Proof Silver Tequila Bottle (375 ml)",
+      "price": "$29.89",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/70a5d44e-97f2-412a-8f5c-6a0f07233ade-retina-large.png ",
+      "rating": "4.7",
+      "review_count": "",
+      "availability": "available",
+      "category": "Tequila"
+    },
+    {
+      "name": "Espolon 80 Proof Reposado Tequila Bottle (750 ml)",
+      "description": "Espolon 80 Proof Reposado Tequila Bottle (750 ml)",
+      "price": "$48.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/4ecaa8bd-53c1-446e-9457-df4a971e535d-retina-large.jpg ",
+      "rating": "4.8",
+      "review_count": "",
+      "availability": "available",
+      "category": "Tequila"
+    },
+    {
+      "name": "Jose Cuervo Especial 80 Proof Silver Tequila Bottle (375 ml)",
+      "description": "Jose Cuervo Especial 80 Proof Silver Tequila Bottle (375 ml)",
+      "price": "$14.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/4d77e7f2-77e0-4fcc-95f5-30bd1c9359b9-retina-large.png ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Tequila"
+    },
+    {
+      "name": "Casamigos 80 Proof Blanco Tequila Bottle (750 ml)",
+      "description": "Casamigos 80 Proof Blanco Tequila Bottle (750 ml)",
+      "price": "$58.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/622aa108-ea30-4070-a5c1-2fd147d39015-retina-large.jpg ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Tequila"
+    },
+    {
+      "name": "Jose Cuervo Especial 80 Proof Silver Tequila Bottle (750 ml)",
+      "description": "Jose Cuervo Especial 80 Proof Silver Tequila Bottle (750 ml)",
+      "price": "$25.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/873aa790-eeb7-48d4-9fef-dab513877463-retina-large.jpg ",
+      "rating": "4.6",
+      "review_count": "",
+      "availability": "available",
+      "category": "Tequila"
+    },
+    {
+      "name": "1800 80 Proof Blanco Tequila Bottle (750 ml)",
+      "description": "1800 80 Proof Blanco Tequila Bottle (750 ml)",
+      "price": "$39.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/58af4f6f-88f8-4925-a36e-43d49c306e2e-retina-large.jpg ",
+      "rating": "4.6",
+      "review_count": "",
+      "availability": "available",
+      "category": "Tequila"
+    },
+    {
+      "name": "Hornitos 80 Proof Blanco Tequila Bottle (750 ml)",
+      "description": "Hornitos 80 Proof Blanco Tequila Bottle (750 ml)",
+      "price": "$27.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/b5a89c04-5cf2-46f3-8864-e44e36d0b71e-retina-large.png ",
+      "rating": "4.4",
+      "review_count": "",
+      "availability": "available",
+      "category": "Tequila"
+    },
+    {
+      "name": "Casamigos 80 Proof Reposado Tequila Bottle (750 ml)",
+      "description": "Casamigos 80 Proof Reposado Tequila Bottle (750 ml)",
+      "price": "$59.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/72fdfb78-e66d-4ac5-90d7-dc572f3043f4-retina-large.jpg ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Tequila"
+    },
+    {
+      "name": "Jose Cuervo Especial 80 Proof Gold Tequila Bottle (375 ml)",
+      "description": "Jose Cuervo Especial 80 Proof Gold Tequila Bottle (375 ml)",
+      "price": "$15.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/ab2989a6-fb67-45b5-b787-a4287b85d1eb-retina-large.jpg ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Tequila"
+    },
+    {
+      "name": "Jose Cuervo Especial 80 Proof Gold Tequila Bottle (1 L)",
+      "description": "Jose Cuervo Especial 80 Proof Gold Tequila Bottle (1 L)",
+      "price": "$29.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/d5675dc3-dd19-4b99-8447-43ada72f07ac-retina-large.jpg ",
+      "rating": "4.7",
+      "review_count": "",
+      "availability": "available",
+      "category": "Tequila"
+    },
+    {
+      "name": "Patrón 80 Proof Reposado Tequila Bottle (375 ml)",
+      "description": "Patrón 80 Proof Reposado Tequila Bottle (375 ml)",
+      "price": "$28.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/834f1302-28ea-4449-ade2-e3b961477316-retina-large.png ",
+      "rating": "4.7",
+      "review_count": "",
+      "availability": "available",
+      "category": "Tequila"
+    },
+    {
+      "name": "Hornitos 80 Proof Reposado Tequila Bottle (750 ml)",
+      "description": "Hornitos 80 Proof Reposado Tequila Bottle (750 ml)",
+      "price": "$27.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/05797d70-4701-4c22-8e28-4dad4fea3d42-retina-large.png ",
+      "rating": "4.5",
+      "review_count": "",
+      "availability": "available",
+      "category": "Tequila"
+    },
+    {
+      "name": "Jose Cuervo Especial 80 Proof Silver Tequila Bottle (1.75 L)",
+      "description": "Jose Cuervo Especial 80 Proof Silver Tequila Bottle (1.75 L)",
+      "price": "$49.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/c2f832b4-c3e9-4134-8903-7d4642bd9c48-retina-large.jpg ",
+      "rating": "4.6",
+      "review_count": "",
+      "availability": "available",
+      "category": "Tequila"
+    },
+    {
+      "name": "Jose Cuervo Especial 80 Proof Gold Tequila Bottle (1.75 L)",
+      "description": "Jose Cuervo Especial 80 Proof Gold Tequila Bottle (1.75 L)",
+      "price": "$48.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/981ec79c-4d0c-4bec-84ce-9b549a075b9d-retina-large.jpg ",
+      "rating": "4.6",
+      "review_count": "",
+      "availability": "available",
+      "category": "Tequila"
+    },
+    {
+      "name": "Jose Cuervo Especial 80 Proof Blue Agave Silver Tequila Bottle (1 L)",
+      "description": "Jose Cuervo Especial 80 Proof Blue Agave Silver Tequila Bottle (1 L)",
+      "price": "$29.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/fdb1ea9a-9ce0-4669-bd19-a15d76d20ba2-retina-large.jpg ",
+      "rating": "4.8",
+      "review_count": "",
+      "availability": "available",
+      "category": "Tequila"
+    },
+    {
+      "name": "Espolon 80 Proof Blanco Tequila Bottle (750 ml)",
+      "description": "Espolon 80 Proof Blanco Tequila Bottle (750 ml)",
+      "price": "$39.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/3da8b23f-8b4b-44d3-a26c-f2b188b88344-retina-large.jpg ",
+      "rating": "4.7",
+      "review_count": "",
+      "availability": "available",
+      "category": "Tequila"
+    },
+    {
+      "name": "Don Julio 80 Proof Anejo Tequila Bottle (750 ml)",
+      "description": "Don Julio 80 Proof Anejo Tequila Bottle (750 ml)",
+      "price": "$72.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/9ce4e80f-d987-4f24-9eb8-305f7343534a-retina-large.jpg ",
+      "rating": "4.7",
+      "review_count": "",
+      "availability": "available",
+      "category": "Tequila"
+    },
+    {
+      "name": "Olmeca Altos 80 Proof Plata Tequila Bottle (750 ml)",
+      "description": "Olmeca Altos 80 Proof Plata Tequila Bottle (750 ml)",
+      "price": "$34.49",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/df52b0c2-00a2-4e8e-8b12-a09e64c44755-retina-large.jpg ",
+      "rating": "4.6",
+      "review_count": "",
+      "availability": "available",
+      "category": "Tequila"
+    },
+    {
+      "name": "el Jimador 80 Proof Silver Tequila Bottle (750 ml)",
+      "description": "el Jimador 80 Proof Silver Tequila Bottle (750 ml)",
+      "price": "$25.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/faee0c1e-ab93-4489-a229-74f43c073762-retina-large.png ",
+      "rating": "4.5",
+      "review_count": "",
+      "availability": "available",
+      "category": "Tequila"
+    },
+    {
+      "name": "Patrón 80 Proof Silver Tequila Bottle (750 ml)",
+      "description": "Patrón 80 Proof Silver Tequila Bottle (750 ml)",
+      "price": "$55.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/710dec7a-5cba-4f95-8b41-2ccf1deebe81-retina-large.png ",
+      "rating": "4.7",
+      "review_count": "",
+      "availability": "available",
+      "category": "Tequila"
+    },
+    {
+      "name": "Familia Camarena 80 Proof Reposado Tequila Bottle (1 L)",
+      "description": "Familia Camarena 80 Proof Reposado Tequila Bottle (1 L)",
+      "price": "$34.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/fe274cf3-7983-4717-bb1a-f43210ea7f2d-retina-large.png ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Tequila"
+    },
+    {
+      "name": "Patron 80 Proof Reposado Tequila Bottle (750 ml)",
+      "description": "Patron 80 Proof Reposado Tequila Bottle (750 ml)",
+      "price": "$59.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/92046680-b390-4e4a-86c4-281903d7319a-retina-large.png ",
+      "rating": "4.8",
+      "review_count": "",
+      "availability": "available",
+      "category": "Tequila"
+    },
+    {
+      "name": "Camarena 80 Proof Silver Tequila Bottle (1 L)",
+      "description": "Camarena 80 Proof Silver Tequila Bottle (1 L)",
+      "price": "$38.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/260cd307-8100-44cd-ad19-2d52ef069a08-retina-large.png ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Tequila"
+    },
+    {
+      "name": "1800 80 Proof Reposado Tequila Bottle (1.75 L)",
+      "description": "1800 80 Proof Reposado Tequila Bottle (1.75 L)",
+      "price": "$64.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/6ff651e2-9d2d-440f-9bdc-8f12388a8b57-retina-large.jpg ",
+      "rating": "4.5",
+      "review_count": "",
+      "availability": "available",
+      "category": "Tequila"
+    },
+    {
+      "name": "Familia Camarene 80 Proof Silver Tequila Bottle (1.75 L)",
+      "description": "Familia Camarene 80 Proof Silver Tequila Bottle (1.75 L)",
+      "price": "$53.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/1b6d6b30-2544-4e47-ac3a-13cd74534b6c-retina-large.png ",
+      "rating": "4.6",
+      "review_count": "",
+      "availability": "available",
+      "category": "Tequila"
+    },
+    {
+      "name": "Camarena 80 Proof Silver Tequila Bottle (200 ml)",
+      "description": "Camarena 80 Proof Silver Tequila Bottle (200 ml)",
+      "price": "$10.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/2f83eeeb-2b64-4f40-9d18-bde368791550-retina-large.jpg ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Tequila"
+    },
+    {
+      "name": "Patrón 80 Proof Anejo Tequila Bottle (750 ml)",
+      "description": "Patrón 80 Proof Anejo Tequila Bottle (750 ml)",
+      "price": "$65.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/356a70e8-9dc2-49e8-a73e-b0aeb30edfa7-retina-large.png ",
+      "rating": "4.7",
+      "review_count": "",
+      "availability": "available",
+      "category": "Tequila"
+    },
+    {
+      "name": "Cabo Wabo 80 Proof Blanco Tequila Bottle (750 ml)",
+      "description": "Cabo Wabo 80 Proof Blanco Tequila Bottle (750 ml)",
+      "price": "$50.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/c70b7356-b59e-4aff-b506-b9cf3af8153c-retina-large.jpg ",
+      "rating": "4.6",
+      "review_count": "",
+      "availability": "available",
+      "category": "Tequila"
+    },
+    {
+      "name": "Cenote Tequila 80 Proof Reposado Tequila Bottle (750 ml)",
+      "description": "Cenote Tequila 80 Proof Reposado Tequila Bottle (750 ml)",
+      "price": "$67.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/c20c5bc5-378d-4284-bfe8-709dddb07701-retina-large.jpg ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Tequila"
+    },
+    {
+      "name": "Cenote Tequila 80 Proof Anejo Tequila Bottle (750 ml)",
+      "description": "Cenote Tequila 80 Proof Anejo Tequila Bottle (750 ml)",
+      "price": "$75.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/0cd627a3-5e4b-4040-b1da-070f650fbe89-retina-large.jpg ",
+      "rating": "3.6",
+      "review_count": "",
+      "availability": "available",
+      "category": "Tequila"
+    },
+    {
+      "name": "Camarena 80 Proof Silver Tequila Bottle (375 ml)",
+      "description": "Camarena 80 Proof Silver Tequila Bottle (375 ml)",
+      "price": "$15.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photos/ae4cefd5-e713-4bdd-9b70-cc02d53dfede-retina-large-jpeg ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Tequila"
+    },
+    {
+      "name": "Cenote Tequila 80 Proof Blanco Tequila Bottle (750 ml)",
+      "description": "Cenote Tequila 80 Proof Blanco Tequila Bottle (750 ml)",
+      "price": "$59.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/1ec5a386-c80a-4df3-b2e6-7bc4a819d077-retina-large.jpg ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Tequila"
+    },
+    {
+      "name": "Casa Noble 80 Proof Blanco Tequila Bottle (750 ml)",
+      "description": "Casa Noble 80 Proof Blanco Tequila Bottle (750 ml)",
+      "price": "$48.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/dd34eb88-6a6f-43e5-8fa9-61d4eed5c84d-retina-large.jpg ",
+      "rating": "4.4",
+      "review_count": "",
+      "availability": "available",
+      "category": "Tequila"
+    },
+    {
+      "name": "Gran Agave Ghost Edition Reposado Tequila Bottle (750 ml)",
+      "description": "Gran Agave Ghost Edition Reposado Tequila Bottle (750 ml)",
+      "price": "$57.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photos/39688139-99ad-4863-9b9a-5be170cd7c72-retina-large-jpeg ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Tequila"
+    }
+  ]
+}

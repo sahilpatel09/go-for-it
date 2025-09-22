@@ -222,8 +222,26 @@ def main():
             category = "Vodka"
         elif "seltzer" in input_file.lower():
             category = "Seltzer"
-        elif "wine" in input_file.lower() or "sparkling" in input_file.lower():
+        elif "wine" in input_file.lower():
+            category = "Wine"
+        elif "sparkling" in input_file.lower():
             category = "Sparkling & Sweet"
+        elif "brandy" in input_file.lower() or "cognac" in input_file.lower():
+            category = "Brandy & Cognac"
+        elif "gin" in input_file.lower():
+            category = "Gin"
+        elif "rum" in input_file.lower():
+            category = "Rum"
+        elif "whisky" in input_file.lower() or "whiskey" in input_file.lower():
+            category = "Whisky"
+        elif "tequila" in input_file.lower() or "tquila" in input_file.lower():
+            category = "Tequila"
+        elif "drinks" in input_file.lower() or "mixes" in input_file.lower():
+            category = "Drinks & Mixes"
+        elif "snacks" in input_file.lower():
+            category = "Snacks"
+        elif "liquor" in input_file.lower():
+            category = "Premium Liquor"
     
     # Check if input file exists
     if not os.path.exists(input_file):

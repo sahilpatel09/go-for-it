@@ -1,0 +1,757 @@
+{
+  "store_info": {
+    "name": "Go For it Liquor",
+    "address": "Unknown Address",
+    "hours": "Unknown Hours",
+    "url": "https://www.doordash.com/convenience/store/27498004/"
+  },
+  "categories": {
+    "Snacks": {
+      "product_count": 37,
+      "products": [
+        {
+          "name": "Sour Patch Kids Watermelon Bites Soft & Chewy Candies  (12 oz)",
+          "description": "Sour Patch Kids Watermelon Bites Soft & Chewy Candies  (12 oz)",
+          "price": "$6.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/fbf397eb-1711-4246-90d5-888106bc8984-retina-large.jpg ",
+          "rating": "4.9",
+          "review_count": "",
+          "availability": "available",
+          "category": "Snacks"
+        },
+        {
+          "name": "Sour Patch Kids Bites Original Soft & Chewy Candy (12 oz)",
+          "description": "Sour Patch Kids Bites Original Soft & Chewy Candy (12 oz)",
+          "price": "$6.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/5607bbd6-79c2-43c4-b5d3-5faa9a2e04fa-retina-large.jpg ",
+          "rating": "4.8",
+          "review_count": "",
+          "availability": "available",
+          "category": "Snacks"
+        },
+        {
+          "name": "Trolli Sweet Peachie O's Gummy Rings Candy Bag (4.25 oz)",
+          "description": "Trolli Sweet Peachie O's Gummy Rings Candy Bag (4.25 oz)",
+          "price": "$2.75",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/69d7d4a8-1c57-4472-a334-6612ff9eb161-retina-large.jpg ",
+          "rating": "4.7",
+          "review_count": "",
+          "availability": "available",
+          "category": "Snacks"
+        },
+        {
+          "name": "Fruit Gushers Super Sour Assorted Fruit Flavor Snacks (4.25 oz)",
+          "description": "Fruit Gushers Super Sour Assorted Fruit Flavor Snacks (4.25 oz)",
+          "price": "$4.36",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/72179223-1d07-4643-848c-481ef12af7a8-retina-large.png ",
+          "rating": "4.7",
+          "review_count": "",
+          "availability": "available",
+          "category": "Snacks"
+        },
+        {
+          "name": "Fruit Gushers Flavor Mixers Fruit Flavored Snacks (4.25 oz)",
+          "description": "Fruit Gushers Flavor Mixers Fruit Flavored Snacks (4.25 oz)",
+          "price": "$3.78",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/7151c6a6-fd5d-48e0-9a88-62cb666a8607-retina-large.jpg ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Snacks"
+        },
+        {
+          "name": "Trolli Sour Brite Octopus Gummi Candies (120 g)",
+          "description": "Trolli Sour Brite Octopus Gummi Candies (120 g)",
+          "price": "$2.75",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/83b99c95-d6c1-4919-b994-5f834b66ba94-retina-large.jpg ",
+          "rating": "4.6",
+          "review_count": "",
+          "availability": "available",
+          "category": "Snacks"
+        },
+        {
+          "name": "Reese's Milk Chocolate Peanut Butter Dipped Pretzels Bag (4.25 oz)",
+          "description": "Reese's Milk Chocolate Peanut Butter Dipped Pretzels Bag (4.25 oz)",
+          "price": "$4.89",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/be6cf528-23cd-496c-bee3-e1c4dfb741e5-retina-large.jpg ",
+          "rating": "4.8",
+          "review_count": "",
+          "availability": "available",
+          "category": "Snacks"
+        },
+        {
+          "name": "Chex Mix Muddy Buddies Cookies & Cream Chex Snack Mix (4.25 oz)",
+          "description": "Chex Mix Muddy Buddies Cookies & Cream Chex Snack Mix (4.25 oz)",
+          "price": "$4.93",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/6deb34bf-b33e-4926-b2b4-fb3b9aa423b9-retina-large.png ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Snacks"
+        },
+        {
+          "name": "Cinnamon Toast Crunch Cinnadust Glaze Popcorn (2.25 oz)",
+          "description": "Cinnamon Toast Crunch Cinnadust Glaze Popcorn (2.25 oz)",
+          "price": "$2.29",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/fe4ef81c-e2ab-4845-8fed-9773f74bdee4-retina-large.png ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Snacks"
+        },
+        {
+          "name": "Life Savers Individually Wrapped 5 Flavors Hard Candy Bag (6.25 oz x 12 ct)",
+          "description": "Life Savers Individually Wrapped 5 Flavors Hard Candy Bag (6.25 oz x 12 ct)",
+          "price": "$4.01",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/36b6ac15-5a5c-4671-bbe5-d5a5aff81aeb-retina-large.png ",
+          "rating": "4.6",
+          "review_count": "",
+          "availability": "available",
+          "category": "Snacks"
+        },
+        {
+          "name": "Dot's Pretzels Original Homestyle Authentic Seasoned Pretzel Twists (16 oz)",
+          "description": "Dot's Pretzels Original Homestyle Authentic Seasoned Pretzel Twists (16 oz)",
+          "price": "$9.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/4804175d-3e48-409e-bc3a-3790b1661209-retina-large.png ",
+          "rating": "3.9",
+          "review_count": "",
+          "availability": "available",
+          "category": "Snacks"
+        },
+        {
+          "name": "Mentos Chewy Dragees Fruit Candy Roll (37.5 g)",
+          "description": "Mentos Chewy Dragees Fruit Candy Roll (37.5 g)",
+          "price": "$2.49",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/39d224e9-a0e8-4703-9875-fbbb1aceabfe-retina-large.jpg ",
+          "rating": "4.7",
+          "review_count": "",
+          "availability": "available",
+          "category": "Snacks"
+        },
+        {
+          "name": "Cheez-It Grooves Sharp White Cheddar Cheese Baked Snack Crackers (3.25 oz)",
+          "description": "Cheez-It Grooves Sharp White Cheddar Cheese Baked Snack Crackers (3.25 oz)",
+          "price": "$3.78",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/b80e20b5-2825-4d98-8b8d-88b331debd24-retina-large.jpg ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Snacks"
+        },
+        {
+          "name": "Trolli Sour Creations Everyday Gummies (4.25 oz)",
+          "description": "Trolli Sour Creations Everyday Gummies (4.25 oz)",
+          "price": "$3.89",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/910c55e0-0ea3-44b7-bf40-ce543eae4429-retina-large.jpg ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Snacks"
+        },
+        {
+          "name": "Nutter Butter Sandwich Cookies Family Size (16 oz)",
+          "description": "Nutter Butter Sandwich Cookies Family Size (16 oz)",
+          "price": "$10.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/58923548-90b8-4896-b38f-93b6fc233183-retina-large.jpg ",
+          "rating": "4.9",
+          "review_count": "",
+          "availability": "available",
+          "category": "Snacks"
+        },
+        {
+          "name": "Cheez-It Grooves Crunchy Cheddar Ranch Cheese Snack Crackers Pouch (3.25 oz)",
+          "description": "Cheez-It Grooves Crunchy Cheddar Ranch Cheese Snack Crackers Pouch (3.25 oz)",
+          "price": "$3.78",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/29af9eae-5b3a-4c35-9b83-e4ae5b1be492-retina-large.jpg ",
+          "rating": "3.6",
+          "review_count": "",
+          "availability": "available",
+          "category": "Snacks"
+        },
+        {
+          "name": "Chunk Nibbles Strawberry Clusters (4.25 oz)",
+          "description": "Chunk Nibbles Strawberry Clusters (4.25 oz)",
+          "price": "$6.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/16df1bfe-da70-4abb-9716-ee62f85b434e-retina-large.png ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Snacks"
+        },
+        {
+          "name": "Chunk Nibbles Peanut Butter Chocolate Clusters (4.25 oz)",
+          "description": "Chunk Nibbles Peanut Butter Chocolate Clusters (4.25 oz)",
+          "price": "$6.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/d40d45bb-b420-4295-9da2-a7c354e04fd7-retina-large.png ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Snacks"
+        },
+        {
+          "name": "Chunk Nibbles Vanilla Clusters (4.25 oz)",
+          "description": "Chunk Nibbles Vanilla Clusters (4.25 oz)",
+          "price": "$6.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/2fa69813-7d08-4dd3-8e9c-7da67996ec6a-retina-large.png ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Snacks"
+        },
+        {
+          "name": "Planter's Spicy Cajun Pistachios Kernels (2.25 oz)",
+          "description": "Planter's Spicy Cajun Pistachios Kernels (2.25 oz)",
+          "price": "$3.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/d6d2964a-13a3-43ec-8fd4-7d74b144f5af-retina-large.jpg ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Snacks"
+        },
+        {
+          "name": "Hershey's Cookies 'N' Creme Dipped Pretzels Bag (4.25 oz)",
+          "description": "Hershey's Cookies 'N' Creme Dipped Pretzels Bag (4.25 oz)",
+          "price": "$4.89",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/2867d284-edd1-4326-927c-256a10797399-retina-large.jpg ",
+          "rating": "4.8",
+          "review_count": "",
+          "availability": "available",
+          "category": "Snacks"
+        },
+        {
+          "name": "Dot's Southwest Seasoned Homestyle Pretzel Twists (16 oz)",
+          "description": "Dot's Southwest Seasoned Homestyle Pretzel Twists (16 oz)",
+          "price": "$9.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/3b7c2cca-f7ce-4e09-9987-55062d6f1a4e-retina-large.png ",
+          "rating": "4.2",
+          "review_count": "",
+          "availability": "available",
+          "category": "Snacks"
+        },
+        {
+          "name": "Mounds Dark Chocolate & Coconut Candy Bar (1.75 oz)",
+          "description": "Mounds Dark Chocolate & Coconut Candy Bar (1.75 oz)",
+          "price": "$2.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/203adfad-bab4-4efc-9752-ce2c899a013a-retina-large.jpg ",
+          "rating": "4.8",
+          "review_count": "",
+          "availability": "available",
+          "category": "Snacks"
+        },
+        {
+          "name": "Jack Link's Peppered Beef Jerky (3.25 oz)",
+          "description": "Jack Link's Peppered Beef Jerky (3.25 oz)",
+          "price": "$10.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/ff717e09-beab-4430-83cf-11091382f6f7-retina-large.jpg ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Snacks"
+        },
+        {
+          "name": "Jack Link's Original Beef Jerky (3.25 oz)",
+          "description": "Jack Link's Original Beef Jerky (3.25 oz)",
+          "price": "$10.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/7f151951-2a13-4879-b74b-8b00a016d3f5-retina-large.png ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Snacks"
+        },
+        {
+          "name": "Hershey's Mr Goodbar Peanuts Chocolate Bar Full Size (1.75 oz)",
+          "description": "Hershey's Mr Goodbar Peanuts Chocolate Bar Full Size (1.75 oz)",
+          "price": "$2.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/4d492fe8-6c70-4e29-8a18-4f91e0f6cfdc-retina-large.jpg ",
+          "rating": "3.6",
+          "review_count": "",
+          "availability": "available",
+          "category": "Snacks"
+        },
+        {
+          "name": "Jack Link's Teriyaki Beef Jerky (3.25 oz)",
+          "description": "Jack Link's Teriyaki Beef Jerky (3.25 oz)",
+          "price": "$10.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/b363cf35-bc2b-47a7-b13e-53d65eb72b80-retina-large.png ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Snacks"
+        },
+        {
+          "name": "Jack Link's Gluten Free Extra Tender Original Seasoned & Smoked Beef Steak Strips (3.25 oz)",
+          "description": "Jack Link's Gluten Free Extra Tender Original Seasoned & Smoked Beef Steak Strips (3.25 oz)",
+          "price": "$10.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/068f0aeb-c25e-4a5f-b51e-cdbb4cadc0f6-retina-large.jpg ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Snacks"
+        },
+        {
+          "name": "Planters Heat Peanuts (1.75 oz)",
+          "description": "Planters Heat Peanuts (1.75 oz)",
+          "price": "$1.49",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/80ff3699-db86-4779-9743-a00f8da0e9d1-retina-large.jpg ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Snacks"
+        },
+        {
+          "name": "Trolli Evil Twins Gummies (120 g)",
+          "description": "Trolli Evil Twins Gummies (120 g)",
+          "price": "$2.75",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/d2ed8df7-8938-4ce4-a43c-69dd3a601e9e-retina-large.jpg ",
+          "rating": "4.5",
+          "review_count": "",
+          "availability": "available",
+          "category": "Snacks"
+        },
+        {
+          "name": "Life Savers Wint-O-Green Mints Bag (6.25 oz)",
+          "description": "Life Savers Wint-O-Green Mints Bag (6.25 oz)",
+          "price": "$4.01",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/96c036ea-b95b-423a-8c0a-14860d724116-retina-large.jpg ",
+          "rating": "4.8",
+          "review_count": "",
+          "availability": "available",
+          "category": "Snacks"
+        },
+        {
+          "name": "Chunk Nibbles S'mores Clusters (4.25 oz)",
+          "description": "Chunk Nibbles S'mores Clusters (4.25 oz)",
+          "price": "$6.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/76e598c9-9ffc-400a-a51d-3dc7627a3c08-retina-large.png ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Snacks"
+        },
+        {
+          "name": "Planters Deluxe Hot & Spicy Cashews (2.25 oz)",
+          "description": "Planters Deluxe Hot & Spicy Cashews (2.25 oz)",
+          "price": "$3.67",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/96581a5d-5c35-46e9-a9a1-e46c99b6643b-retina-large.jpg ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Snacks"
+        },
+        {
+          "name": "Planters Deluxe Sweet Cayenne BBQ Cashews (2.25 oz)",
+          "description": "Planters Deluxe Sweet Cayenne BBQ Cashews (2.25 oz)",
+          "price": "$2.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/50204259-86ca-4fec-aaab-3b127313162a-retina-large.jpg ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Snacks"
+        },
+        {
+          "name": "Wonderful Pistachios (1.25 oz)",
+          "description": "Wonderful Pistachios (1.25 oz)",
+          "price": "$2.99",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/e06c94e8-2c15-45a0-996f-7395f1555943-retina-large.jpg ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Snacks"
+        },
+        {
+          "name": "Planters Salted Peanuts (1.75 oz)",
+          "description": "Planters Salted Peanuts (1.75 oz)",
+          "price": "$1.49",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/1cc528fe-5f13-4201-b3b3-69a11a08549b-retina-large.jpg ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Snacks"
+        },
+        {
+          "name": "Planters Honey Roasted Peanuts (1.75 oz)",
+          "description": "Planters Honey Roasted Peanuts (1.75 oz)",
+          "price": "$1.49",
+          "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/349ef396-549b-46bc-a564-ac2cd429682f-retina-large.jpg ",
+          "rating": "",
+          "review_count": "",
+          "availability": "available",
+          "category": "Snacks"
+        }
+      ]
+    }
+  },
+  "products": [
+    {
+      "name": "Sour Patch Kids Watermelon Bites Soft & Chewy Candies  (12 oz)",
+      "description": "Sour Patch Kids Watermelon Bites Soft & Chewy Candies  (12 oz)",
+      "price": "$6.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/fbf397eb-1711-4246-90d5-888106bc8984-retina-large.jpg ",
+      "rating": "4.9",
+      "review_count": "",
+      "availability": "available",
+      "category": "Snacks"
+    },
+    {
+      "name": "Sour Patch Kids Bites Original Soft & Chewy Candy (12 oz)",
+      "description": "Sour Patch Kids Bites Original Soft & Chewy Candy (12 oz)",
+      "price": "$6.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/5607bbd6-79c2-43c4-b5d3-5faa9a2e04fa-retina-large.jpg ",
+      "rating": "4.8",
+      "review_count": "",
+      "availability": "available",
+      "category": "Snacks"
+    },
+    {
+      "name": "Trolli Sweet Peachie O's Gummy Rings Candy Bag (4.25 oz)",
+      "description": "Trolli Sweet Peachie O's Gummy Rings Candy Bag (4.25 oz)",
+      "price": "$2.75",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/69d7d4a8-1c57-4472-a334-6612ff9eb161-retina-large.jpg ",
+      "rating": "4.7",
+      "review_count": "",
+      "availability": "available",
+      "category": "Snacks"
+    },
+    {
+      "name": "Fruit Gushers Super Sour Assorted Fruit Flavor Snacks (4.25 oz)",
+      "description": "Fruit Gushers Super Sour Assorted Fruit Flavor Snacks (4.25 oz)",
+      "price": "$4.36",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/72179223-1d07-4643-848c-481ef12af7a8-retina-large.png ",
+      "rating": "4.7",
+      "review_count": "",
+      "availability": "available",
+      "category": "Snacks"
+    },
+    {
+      "name": "Fruit Gushers Flavor Mixers Fruit Flavored Snacks (4.25 oz)",
+      "description": "Fruit Gushers Flavor Mixers Fruit Flavored Snacks (4.25 oz)",
+      "price": "$3.78",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/7151c6a6-fd5d-48e0-9a88-62cb666a8607-retina-large.jpg ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Snacks"
+    },
+    {
+      "name": "Trolli Sour Brite Octopus Gummi Candies (120 g)",
+      "description": "Trolli Sour Brite Octopus Gummi Candies (120 g)",
+      "price": "$2.75",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/83b99c95-d6c1-4919-b994-5f834b66ba94-retina-large.jpg ",
+      "rating": "4.6",
+      "review_count": "",
+      "availability": "available",
+      "category": "Snacks"
+    },
+    {
+      "name": "Reese's Milk Chocolate Peanut Butter Dipped Pretzels Bag (4.25 oz)",
+      "description": "Reese's Milk Chocolate Peanut Butter Dipped Pretzels Bag (4.25 oz)",
+      "price": "$4.89",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/be6cf528-23cd-496c-bee3-e1c4dfb741e5-retina-large.jpg ",
+      "rating": "4.8",
+      "review_count": "",
+      "availability": "available",
+      "category": "Snacks"
+    },
+    {
+      "name": "Chex Mix Muddy Buddies Cookies & Cream Chex Snack Mix (4.25 oz)",
+      "description": "Chex Mix Muddy Buddies Cookies & Cream Chex Snack Mix (4.25 oz)",
+      "price": "$4.93",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/6deb34bf-b33e-4926-b2b4-fb3b9aa423b9-retina-large.png ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Snacks"
+    },
+    {
+      "name": "Cinnamon Toast Crunch Cinnadust Glaze Popcorn (2.25 oz)",
+      "description": "Cinnamon Toast Crunch Cinnadust Glaze Popcorn (2.25 oz)",
+      "price": "$2.29",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/fe4ef81c-e2ab-4845-8fed-9773f74bdee4-retina-large.png ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Snacks"
+    },
+    {
+      "name": "Life Savers Individually Wrapped 5 Flavors Hard Candy Bag (6.25 oz x 12 ct)",
+      "description": "Life Savers Individually Wrapped 5 Flavors Hard Candy Bag (6.25 oz x 12 ct)",
+      "price": "$4.01",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/36b6ac15-5a5c-4671-bbe5-d5a5aff81aeb-retina-large.png ",
+      "rating": "4.6",
+      "review_count": "",
+      "availability": "available",
+      "category": "Snacks"
+    },
+    {
+      "name": "Dot's Pretzels Original Homestyle Authentic Seasoned Pretzel Twists (16 oz)",
+      "description": "Dot's Pretzels Original Homestyle Authentic Seasoned Pretzel Twists (16 oz)",
+      "price": "$9.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/4804175d-3e48-409e-bc3a-3790b1661209-retina-large.png ",
+      "rating": "3.9",
+      "review_count": "",
+      "availability": "available",
+      "category": "Snacks"
+    },
+    {
+      "name": "Mentos Chewy Dragees Fruit Candy Roll (37.5 g)",
+      "description": "Mentos Chewy Dragees Fruit Candy Roll (37.5 g)",
+      "price": "$2.49",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/39d224e9-a0e8-4703-9875-fbbb1aceabfe-retina-large.jpg ",
+      "rating": "4.7",
+      "review_count": "",
+      "availability": "available",
+      "category": "Snacks"
+    },
+    {
+      "name": "Cheez-It Grooves Sharp White Cheddar Cheese Baked Snack Crackers (3.25 oz)",
+      "description": "Cheez-It Grooves Sharp White Cheddar Cheese Baked Snack Crackers (3.25 oz)",
+      "price": "$3.78",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/b80e20b5-2825-4d98-8b8d-88b331debd24-retina-large.jpg ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Snacks"
+    },
+    {
+      "name": "Trolli Sour Creations Everyday Gummies (4.25 oz)",
+      "description": "Trolli Sour Creations Everyday Gummies (4.25 oz)",
+      "price": "$3.89",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/910c55e0-0ea3-44b7-bf40-ce543eae4429-retina-large.jpg ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Snacks"
+    },
+    {
+      "name": "Nutter Butter Sandwich Cookies Family Size (16 oz)",
+      "description": "Nutter Butter Sandwich Cookies Family Size (16 oz)",
+      "price": "$10.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/58923548-90b8-4896-b38f-93b6fc233183-retina-large.jpg ",
+      "rating": "4.9",
+      "review_count": "",
+      "availability": "available",
+      "category": "Snacks"
+    },
+    {
+      "name": "Cheez-It Grooves Crunchy Cheddar Ranch Cheese Snack Crackers Pouch (3.25 oz)",
+      "description": "Cheez-It Grooves Crunchy Cheddar Ranch Cheese Snack Crackers Pouch (3.25 oz)",
+      "price": "$3.78",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/29af9eae-5b3a-4c35-9b83-e4ae5b1be492-retina-large.jpg ",
+      "rating": "3.6",
+      "review_count": "",
+      "availability": "available",
+      "category": "Snacks"
+    },
+    {
+      "name": "Chunk Nibbles Strawberry Clusters (4.25 oz)",
+      "description": "Chunk Nibbles Strawberry Clusters (4.25 oz)",
+      "price": "$6.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/16df1bfe-da70-4abb-9716-ee62f85b434e-retina-large.png ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Snacks"
+    },
+    {
+      "name": "Chunk Nibbles Peanut Butter Chocolate Clusters (4.25 oz)",
+      "description": "Chunk Nibbles Peanut Butter Chocolate Clusters (4.25 oz)",
+      "price": "$6.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/d40d45bb-b420-4295-9da2-a7c354e04fd7-retina-large.png ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Snacks"
+    },
+    {
+      "name": "Chunk Nibbles Vanilla Clusters (4.25 oz)",
+      "description": "Chunk Nibbles Vanilla Clusters (4.25 oz)",
+      "price": "$6.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/2fa69813-7d08-4dd3-8e9c-7da67996ec6a-retina-large.png ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Snacks"
+    },
+    {
+      "name": "Planter's Spicy Cajun Pistachios Kernels (2.25 oz)",
+      "description": "Planter's Spicy Cajun Pistachios Kernels (2.25 oz)",
+      "price": "$3.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/d6d2964a-13a3-43ec-8fd4-7d74b144f5af-retina-large.jpg ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Snacks"
+    },
+    {
+      "name": "Hershey's Cookies 'N' Creme Dipped Pretzels Bag (4.25 oz)",
+      "description": "Hershey's Cookies 'N' Creme Dipped Pretzels Bag (4.25 oz)",
+      "price": "$4.89",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/2867d284-edd1-4326-927c-256a10797399-retina-large.jpg ",
+      "rating": "4.8",
+      "review_count": "",
+      "availability": "available",
+      "category": "Snacks"
+    },
+    {
+      "name": "Dot's Southwest Seasoned Homestyle Pretzel Twists (16 oz)",
+      "description": "Dot's Southwest Seasoned Homestyle Pretzel Twists (16 oz)",
+      "price": "$9.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/3b7c2cca-f7ce-4e09-9987-55062d6f1a4e-retina-large.png ",
+      "rating": "4.2",
+      "review_count": "",
+      "availability": "available",
+      "category": "Snacks"
+    },
+    {
+      "name": "Mounds Dark Chocolate & Coconut Candy Bar (1.75 oz)",
+      "description": "Mounds Dark Chocolate & Coconut Candy Bar (1.75 oz)",
+      "price": "$2.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/203adfad-bab4-4efc-9752-ce2c899a013a-retina-large.jpg ",
+      "rating": "4.8",
+      "review_count": "",
+      "availability": "available",
+      "category": "Snacks"
+    },
+    {
+      "name": "Jack Link's Peppered Beef Jerky (3.25 oz)",
+      "description": "Jack Link's Peppered Beef Jerky (3.25 oz)",
+      "price": "$10.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/ff717e09-beab-4430-83cf-11091382f6f7-retina-large.jpg ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Snacks"
+    },
+    {
+      "name": "Jack Link's Original Beef Jerky (3.25 oz)",
+      "description": "Jack Link's Original Beef Jerky (3.25 oz)",
+      "price": "$10.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/7f151951-2a13-4879-b74b-8b00a016d3f5-retina-large.png ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Snacks"
+    },
+    {
+      "name": "Hershey's Mr Goodbar Peanuts Chocolate Bar Full Size (1.75 oz)",
+      "description": "Hershey's Mr Goodbar Peanuts Chocolate Bar Full Size (1.75 oz)",
+      "price": "$2.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/4d492fe8-6c70-4e29-8a18-4f91e0f6cfdc-retina-large.jpg ",
+      "rating": "3.6",
+      "review_count": "",
+      "availability": "available",
+      "category": "Snacks"
+    },
+    {
+      "name": "Jack Link's Teriyaki Beef Jerky (3.25 oz)",
+      "description": "Jack Link's Teriyaki Beef Jerky (3.25 oz)",
+      "price": "$10.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/b363cf35-bc2b-47a7-b13e-53d65eb72b80-retina-large.png ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Snacks"
+    },
+    {
+      "name": "Jack Link's Gluten Free Extra Tender Original Seasoned & Smoked Beef Steak Strips (3.25 oz)",
+      "description": "Jack Link's Gluten Free Extra Tender Original Seasoned & Smoked Beef Steak Strips (3.25 oz)",
+      "price": "$10.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/068f0aeb-c25e-4a5f-b51e-cdbb4cadc0f6-retina-large.jpg ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Snacks"
+    },
+    {
+      "name": "Planters Heat Peanuts (1.75 oz)",
+      "description": "Planters Heat Peanuts (1.75 oz)",
+      "price": "$1.49",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/80ff3699-db86-4779-9743-a00f8da0e9d1-retina-large.jpg ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Snacks"
+    },
+    {
+      "name": "Trolli Evil Twins Gummies (120 g)",
+      "description": "Trolli Evil Twins Gummies (120 g)",
+      "price": "$2.75",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/d2ed8df7-8938-4ce4-a43c-69dd3a601e9e-retina-large.jpg ",
+      "rating": "4.5",
+      "review_count": "",
+      "availability": "available",
+      "category": "Snacks"
+    },
+    {
+      "name": "Life Savers Wint-O-Green Mints Bag (6.25 oz)",
+      "description": "Life Savers Wint-O-Green Mints Bag (6.25 oz)",
+      "price": "$4.01",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/96c036ea-b95b-423a-8c0a-14860d724116-retina-large.jpg ",
+      "rating": "4.8",
+      "review_count": "",
+      "availability": "available",
+      "category": "Snacks"
+    },
+    {
+      "name": "Chunk Nibbles S'mores Clusters (4.25 oz)",
+      "description": "Chunk Nibbles S'mores Clusters (4.25 oz)",
+      "price": "$6.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/76e598c9-9ffc-400a-a51d-3dc7627a3c08-retina-large.png ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Snacks"
+    },
+    {
+      "name": "Planters Deluxe Hot & Spicy Cashews (2.25 oz)",
+      "description": "Planters Deluxe Hot & Spicy Cashews (2.25 oz)",
+      "price": "$3.67",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/96581a5d-5c35-46e9-a9a1-e46c99b6643b-retina-large.jpg ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Snacks"
+    },
+    {
+      "name": "Planters Deluxe Sweet Cayenne BBQ Cashews (2.25 oz)",
+      "description": "Planters Deluxe Sweet Cayenne BBQ Cashews (2.25 oz)",
+      "price": "$2.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/50204259-86ca-4fec-aaab-3b127313162a-retina-large.jpg ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Snacks"
+    },
+    {
+      "name": "Wonderful Pistachios (1.25 oz)",
+      "description": "Wonderful Pistachios (1.25 oz)",
+      "price": "$2.99",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/e06c94e8-2c15-45a0-996f-7395f1555943-retina-large.jpg ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Snacks"
+    },
+    {
+      "name": "Planters Salted Peanuts (1.75 oz)",
+      "description": "Planters Salted Peanuts (1.75 oz)",
+      "price": "$1.49",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/1cc528fe-5f13-4201-b3b3-69a11a08549b-retina-large.jpg ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Snacks"
+    },
+    {
+      "name": "Planters Honey Roasted Peanuts (1.75 oz)",
+      "description": "Planters Honey Roasted Peanuts (1.75 oz)",
+      "price": "$1.49",
+      "image_url": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=50/media/photosV2/349ef396-549b-46bc-a564-ac2cd429682f-retina-large.jpg ",
+      "rating": "",
+      "review_count": "",
+      "availability": "available",
+      "category": "Snacks"
+    }
+  ]
+}

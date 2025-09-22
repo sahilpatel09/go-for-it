@@ -390,7 +390,7 @@ const currentPage = ref(1)
 const allProducts = ref({})
 
 // Available categories
-const categories = ref(['Vodka', 'Beer', 'Seltzer', 'Sparkling & Sweet'])
+const categories = ref(['Vodka', 'Beer', 'Seltzer', 'Sparkling & Sweet', 'Wine', 'Gin', 'Rum', 'Whisky', 'Tequila', 'Brandy & Cognac', 'Snacks', 'Drinks & Mixes', 'Premium Liquor'])
 
 // Computed properties
 const displayedProducts = computed(() => {
@@ -430,18 +430,36 @@ const hasMoreProducts = computed(() => {
 const loadProducts = async () => {
   loading.value = true
   try {
-    const [vodkaData, beerData, seltzerData, wineData] = await Promise.all([
+    const [vodkaData, beerData, seltzerData, sparklingData, wineData, ginData, rumData, whiskyData, tequilaData, brandyData, snacksData, drinksData, liquorData] = await Promise.all([
       $fetch('/vodka_data.json'),
       $fetch('/beer_data.json'),
       $fetch('/seltzer_data.json'),
-      $fetch('/sparkling_and_sweet_data.json')
+      $fetch('/sparkling_and_sweet_data.json'),
+      $fetch('/wine_data.json'),
+      $fetch('/gin_data.json'),
+      $fetch('/rum_data.json'),
+      $fetch('/whisky_data.json'),
+      $fetch('/tequila_data.json'),
+      $fetch('/brandy_and_cognac_data.json'),
+      $fetch('/snacks_data.json'),
+      $fetch('/drinks_and_mixes_data.json'),
+      $fetch('/premium_liquor_data.json')
     ])
     
     allProducts.value = {
       'Vodka': vodkaData.categories.Vodka.products,
       'Beer': beerData.categories.Beer.products,
       'Seltzer': seltzerData.categories.Seltzer.products,
-      'Sparkling & Sweet': wineData.categories['Sparkling & Sweet'].products
+      'Sparkling & Sweet': sparklingData.categories['Sparkling & Sweet'].products,
+      'Wine': wineData.categories.Wine.products,
+      'Gin': ginData.categories.Gin.products,
+      'Rum': rumData.categories.Rum.products,
+      'Whisky': whiskyData.categories.Whisky.products,
+      'Tequila': tequilaData.categories.Tequila.products,
+      'Brandy & Cognac': brandyData.categories['Brandy & Cognac'].products,
+      'Snacks': snacksData.categories.Snacks.products,
+      'Drinks & Mixes': drinksData.categories['Drinks & Mixes'].products,
+      'Premium Liquor': liquorData.categories['Premium Liquor'].products
     }
   } catch (error) {
     console.error('Error loading products:', error)
