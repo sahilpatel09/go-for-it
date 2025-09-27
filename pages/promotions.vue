@@ -299,10 +299,14 @@
 
 <script setup>
 useHead({
-  title: 'Promotions - Go For It Liquor',
+  title: 'Promotions & Deals — Go For It Liquor East Bethel, MN | Special Offers',
   meta: [
-    { name: 'description', content: 'Current promotions and special offers at Go For It Liquor. Save on premium spirits, food, car wash, and more. New deals added regularly!' },
-    { name: 'keywords', content: 'promotions, deals, discounts, fuel savings, coffee specials, car wash deals, East Bethel, premium spirits' }
+    { name: 'description', content: 'Current promotions and special offers at Go For It Liquor in East Bethel, MN. Save on premium spirits, food, car wash, and more. New deals added regularly!' },
+    { name: 'keywords', content: 'promotions East Bethel MN, liquor store deals, discounts, fuel savings, coffee specials, car wash deals, Minnesota liquor store offers' },
+    { name: 'canonical', content: 'https://go-for-it-wheat.vercel.app/promotions' }
+  ],
+  link: [
+    { rel: 'sitemap', href: '/sitemap.xml', type: 'application/xml' }
   ]
 })
 </script>

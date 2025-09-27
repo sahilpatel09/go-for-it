@@ -380,10 +380,51 @@ const submitForm = async () => {
 }
 
 useHead({
-  title: 'Contact Us - Go For It Liquor',
+  title: 'Contact Go For It Liquor — East Bethel, MN | Store Hours & Directions',
   meta: [
-    { name: 'description', content: 'Contact Go For It Liquor for questions, feedback, or inquiries. Located at 3255 Viking Blvd NE, East Bethel, MN 55092. Call (651) 395-2174 or visit us today.' },
-    { name: 'keywords', content: 'contact, phone, address, directions, store hours, feedback, East Bethel, liquor store' }
+    { name: 'description', content: 'Contact Go For It Liquor in East Bethel, MN. Located at 3255 Viking Blvd NE. Call (651) 395-2174 or visit us today for premium spirits.' },
+    { name: 'keywords', content: 'contact Go For It Liquor, East Bethel MN, store hours, directions, phone number, liquor store contact' },
+    { name: 'canonical', content: 'https://go-for-it-wheat.vercel.app/contact' }
+  ],
+  link: [
+    { rel: 'sitemap', href: '/sitemap.xml', type: 'application/xml' }
+  ],
+  script: [
+    {
+      type: 'application/ld+json',
+      innerHTML: JSON.stringify({
+        "@context": "https://schema.org",
+        "@type": "LiquorStore",
+        "name": "Go For It Liquor",
+        "image": "https://go-for-it-wheat.vercel.app/images/backgrounds/home-background.jpeg",
+        "telephone": "(651) 395-2174",
+        "email": "info@goforitgas.com",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "3255 Viking Blvd NE",
+          "addressLocality": "East Bethel",
+          "addressRegion": "MN",
+          "postalCode": "55092",
+          "addressCountry": "US"
+        },
+        "url": "https://go-for-it-wheat.vercel.app/",
+        "openingHoursSpecification": [
+          {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],
+            "opens": "08:00",
+            "closes": "22:00"
+          },
+          {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": ["Sunday"],
+            "opens": "11:00",
+            "closes": "18:00"
+          }
+        ],
+        "priceRange": "$$"
+      })
+    }
   ]
 })
 </script>

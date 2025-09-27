@@ -18,7 +18,7 @@
           <div class="w-24 h-1 mx-auto mb-6" style="background: linear-gradient(90deg, transparent 0%, #D4AF37 50%, transparent 100%);"></div>
         </div>
         <h1 class="text-6xl md:text-8xl font-bold mb-8 leading-tight" style="color: #F5F5F5; font-family: 'Playfair Display', serif; letter-spacing: -0.02em;">
-          Premium<br><span style="color: #D4AF37;">Spirits Collection</span>
+          Liquor Store in East Bethel<br><span style="color: #D4AF37;">Premium Spirits Collection</span>
         </h1>
         <div class="w-32 h-1 mx-auto mb-8" style="background: linear-gradient(90deg, transparent 0%, #D4AF37 50%, transparent 100%);"></div>
         <p class="text-xl md:text-2xl mb-12 max-w-3xl mx-auto leading-relaxed" style="color: #E5E5E5; font-family: 'Inter', sans-serif; font-weight: 300;">
@@ -527,10 +527,14 @@ onMounted(() => {
 })
 
 useHead({
-  title: 'Premium Spirits Collection - Go For It Liquor',
+  title: 'Liquor Store East Bethel MN — Go For It Liquor | Whiskey, Vodka & More',
   meta: [
-    { name: 'description', content: 'Discover our premium spirits collection at Go For It Liquor. Hand-selected whiskey, vodka, rum, tequila, craft beer, and fine wines. Expert curation in East Bethel, MN.' },
-    { name: 'keywords', content: 'premium spirits, whiskey collection, vodka, rum, tequila, craft beer, fine wine, Jack Daniels, East Bethel, Minnesota' }
+    { name: 'description', content: 'Find premium spirits, beer, and wine at Go For It Liquor in East Bethel. Open daily with great selections.' },
+    { name: 'keywords', content: 'liquor store East Bethel MN, premium spirits, whiskey, vodka, rum, tequila, craft beer, fine wine, Jack Daniels, Minnesota liquor store' },
+    { name: 'canonical', content: 'https://go-for-it-wheat.vercel.app/liquor' }
+  ],
+  link: [
+    { rel: 'sitemap', href: '/sitemap.xml', type: 'application/xml' }
   ]
 })
 </script>

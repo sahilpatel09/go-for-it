@@ -136,10 +136,15 @@
 
 <script setup>
 useHead({
-  title: 'Privacy Policy - Go For It Gas',
+  title: 'Privacy Policy — Go For It Liquor East Bethel, MN | Data Protection',
   meta: [
-    { name: 'description', content: 'Privacy Policy for Go For It Gas. Learn how we collect, use, and protect your personal information.' },
+    { name: 'description', content: 'Privacy Policy for Go For It Liquor in East Bethel, MN. Learn how we collect, use, and protect your personal information.' },
+    { name: 'keywords', content: 'privacy policy, Go For It Liquor, East Bethel MN, data protection, personal information' },
+    { name: 'canonical', content: 'https://go-for-it-wheat.vercel.app/privacy' },
     { name: 'robots', content: 'noindex, nofollow' }
+  ],
+  link: [
+    { rel: 'sitemap', href: '/sitemap.xml', type: 'application/xml' }
   ]
 })
 </script>

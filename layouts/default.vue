@@ -68,6 +68,7 @@
       </div>
     </header>
 
+
     <!-- Main Content -->
     <main>
       <slot />
@@ -244,7 +245,7 @@ watch(() => useRoute().path, () => {
   mobileMenuOpen.value = false
 })
 
-// Add Google Fonts
+// Add Google Fonts and GTM
 useHead({
   link: [
     {
@@ -259,6 +260,19 @@ useHead({
     {
       rel: 'stylesheet',
       href: 'https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Inter:wght@300;400;500;600;700&display=swap'
+    }
+  ],
+  script: [
+    {
+      src: 'https://www.googletagmanager.com/gtag/js?id=G-0Z7HG9V83W',
+      async: true
+    },
+    {
+      innerHTML: `window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-0Z7HG9V83W');`,
+      type: 'text/javascript'
     }
   ]
 })

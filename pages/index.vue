@@ -297,10 +297,51 @@
 <script setup>
 // SEO Meta
 useHead({
-  title: 'Go For It Liquor - Your Local Liquor Destination',
+  title: 'Go For It Liquor — Liquor Store in East Bethel, MN | Premium Spirits',
   meta: [
-    { name: 'description', content: 'Your premium liquor destination in East Bethel, MN. Wide selection of spirits, craft beer, and fine wine. Great prices, friendly service, and curated selection.' },
-    { name: 'keywords', content: 'liquor store, spirits, whiskey, vodka, wine, beer, premium alcohol, East Bethel, Minnesota, Jack Daniels, craft beer' }
+    { name: 'description', content: 'Premium liquor store in East Bethel, MN. Explore whiskey, vodka, wine, and more. Call (651) 395-2174 or get directions today.' },
+    { name: 'keywords', content: 'liquor store East Bethel MN, premium spirits, whiskey, vodka, wine, beer, Jack Daniels, craft beer, Minnesota liquor store' },
+    { name: 'canonical', content: 'https://go-for-it-wheat.vercel.app/' }
+  ],
+  link: [
+    { rel: 'sitemap', href: '/sitemap.xml', type: 'application/xml' }
+  ],
+  script: [
+    {
+      type: 'application/ld+json',
+      innerHTML: JSON.stringify({
+        "@context": "https://schema.org",
+        "@type": "LiquorStore",
+        "name": "Go For It Liquor",
+        "image": "https://go-for-it-wheat.vercel.app/images/backgrounds/home-background.jpeg",
+        "telephone": "(651) 395-2174",
+        "email": "info@goforitgas.com",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "3255 Viking Blvd NE",
+          "addressLocality": "East Bethel",
+          "addressRegion": "MN",
+          "postalCode": "55092",
+          "addressCountry": "US"
+        },
+        "url": "https://go-for-it-wheat.vercel.app/",
+        "openingHoursSpecification": [
+          {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],
+            "opens": "08:00",
+            "closes": "22:00"
+          },
+          {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": ["Sunday"],
+            "opens": "11:00",
+            "closes": "18:00"
+          }
+        ],
+        "priceRange": "$$"
+      })
+    }
   ]
 })
 </script>

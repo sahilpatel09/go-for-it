@@ -1,74 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://goforitliquor.com/</loc>
-    <lastmod>2024-09-21</lastmod>
+    <loc>https://go-for-it-wheat.vercel.app/</loc>
+    <lastmod>2024-12-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://goforitliquor.com/liquor</loc>
-    <lastmod>2024-09-21</lastmod>
+    <loc>https://go-for-it-wheat.vercel.app/liquor</loc>
+    <lastmod>2024-12-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://goforitliquor.com/services</loc>
-    <lastmod>2024-09-21</lastmod>
+    <loc>https://go-for-it-wheat.vercel.app/contact</loc>
+    <lastmod>2024-12-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://goforitliquor.com/store</loc>
-    <lastmod>2024-09-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://goforitliquor.com/fuel</loc>
-    <lastmod>2024-09-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://goforitliquor.com/promotions</loc>
-    <lastmod>2024-09-21</lastmod>
+    <loc>https://go-for-it-wheat.vercel.app/promotions</loc>
+    <lastmod>2024-12-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://goforitliquor.com/about</loc>
-    <lastmod>2024-09-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://goforitliquor.com/contact</loc>
-    <lastmod>2024-09-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://goforitliquor.com/blog</loc>
-    <lastmod>2024-09-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://goforitliquor.com/careers</loc>
-    <lastmod>2024-09-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://goforitliquor.com/privacy</loc>
-    <lastmod>2024-09-21</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://goforitliquor.com/terms</loc>
-    <lastmod>2024-09-21</lastmod>
+    <loc>https://go-for-it-wheat.vercel.app/privacy</loc>
+    <lastmod>2024-12-21</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
